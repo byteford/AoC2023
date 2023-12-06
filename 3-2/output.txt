@@ -1,0 +1,3713 @@
+lines: 140
+[]
+[]
+[{'x': 69, 'y': 1}]
+X: 69 Y: 0 output: 206 eol: False
+hit: [{'x': 69, 'y': 1}] X: 69 Y 1
+[{'x': 91, 'y': 1}]
+X: 94 Y: 0 output: 449 eol: False
+hit: [{'x': 91, 'y': 1}] X: 91 Y 1
+[]
+[{'x': 115, 'y': 1}]
+X: 119 Y: 0 output: 138 eol: False
+hit: [{'x': 115, 'y': 1}] X: 115 Y 1
+[]
+[{'x': 27, 'y': 2}]
+X: 27 Y: 1 output: 723 eol: False
+hit: [{'x': 27, 'y': 2}] X: 27 Y 2
+[{'x': 86, 'y': 2}]
+X: 86 Y: 1 output: 687 eol: False
+hit: [{'x': 86, 'y': 2}] X: 86 Y 2
+[{'x': 104, 'y': 2}]
+X: 105 Y: 1 output: 692 eol: False
+hit: [{'x': 104, 'y': 2}] X: 104 Y 2
+[]
+[]
+[]
+[{'x': 43, 'y': 3}]
+X: 46 Y: 2 output: 814 eol: False
+hit: [{'x': 43, 'y': 3}] X: 43 Y 3
+[]
+[{'x': 69, 'y': 1}]
+X: 71 Y: 2 output: 102 eol: False
+hit: [{'x': 69, 'y': 1}] X: 69 Y 1
+valid
+[]
+[{'x': 91, 'y': 1}]
+X: 95 Y: 2 output: 140 eol: False
+hit: [{'x': 91, 'y': 1}] X: 91 Y 1
+valid
+[]
+[{'x': 115, 'y': 1}]
+X: 115 Y: 2 output: 301 eol: False
+hit: [{'x': 115, 'y': 1}] X: 115 Y 1
+valid
+[]
+[{'x': 27, 'y': 2}]
+X: 27 Y: 3 output: 877 eol: False
+hit: [{'x': 27, 'y': 2}] X: 27 Y 2
+valid
+[]
+[{'x': 64, 'y': 4}]
+X: 65 Y: 3 output: 489 eol: False
+hit: [{'x': 64, 'y': 4}] X: 64 Y 4
+[{'x': 86, 'y': 2}]
+X: 90 Y: 3 output: 380 eol: False
+hit: [{'x': 86, 'y': 2}] X: 86 Y 2
+valid
+[]
+[{'x': 104, 'y': 2}]
+X: 105 Y: 3 output: 263 eol: False
+hit: [{'x': 104, 'y': 2}] X: 104 Y 2
+valid
+[]
+[]
+[{'x': 17, 'y': 4}]
+X: 17 Y: 4 output: 733 eol: False
+hit: [{'x': 17, 'y': 4}] X: 17 Y 4
+[{'x': 17, 'y': 4}]
+X: 21 Y: 4 output: 758 eol: False
+hit: [{'x': 17, 'y': 4}] X: 17 Y 4
+valid
+[]
+[]
+[{'x': 43, 'y': 3}]
+X: 43 Y: 4 output: 483 eol: False
+hit: [{'x': 43, 'y': 3}] X: 43 Y 3
+valid
+[]
+[{'x': 82, 'y': 3}]
+X: 82 Y: 4 output: 154 eol: False
+hit: [{'x': 82, 'y': 3}] X: 82 Y 3
+[{'x': 82, 'y': 3}]
+X: 86 Y: 4 output: 779 eol: False
+hit: [{'x': 82, 'y': 3}] X: 82 Y 3
+valid
+[{'x': 93, 'y': 5}]
+X: 94 Y: 4 output: 674 eol: False
+hit: [{'x': 93, 'y': 5}] X: 93 Y 5
+[]
+[]
+[]
+[{'x': 52, 'y': 6}]
+X: 52 Y: 5 output: 503 eol: False
+hit: [{'x': 52, 'y': 6}] X: 52 Y 6
+[{'x': 52, 'y': 6}]
+X: 56 Y: 5 output: 422 eol: False
+hit: [{'x': 52, 'y': 6}] X: 52 Y 6
+valid
+[{'x': 61, 'y': 6}]
+X: 62 Y: 5 output: 591 eol: False
+hit: [{'x': 61, 'y': 6}] X: 61 Y 6
+[{'x': 64, 'y': 4}]
+X: 66 Y: 5 output: 551 eol: False
+hit: [{'x': 64, 'y': 4}] X: 64 Y 4
+valid
+[{'x': 73, 'y': 6}]
+X: 75 Y: 5 output: 676 eol: False
+hit: [{'x': 73, 'y': 6}] X: 73 Y 6
+[]
+[]
+[{'x': 133, 'y': 6}]
+X: 133 Y: 5 output: 410 eol: False
+hit: [{'x': 133, 'y': 6}] X: 133 Y 6
+[]
+[{'x': 26, 'y': 7}]
+X: 26 Y: 6 output: 146 eol: False
+hit: [{'x': 26, 'y': 7}] X: 26 Y 7
+[{'x': 26, 'y': 7}]
+X: 30 Y: 6 output: 486 eol: False
+hit: [{'x': 26, 'y': 7}] X: 26 Y 7
+valid
+[]
+[]
+[]
+[{'x': 93, 'y': 5}]
+X: 97 Y: 6 output: 405 eol: False
+hit: [{'x': 93, 'y': 5}] X: 93 Y 5
+valid
+[{'x': 122, 'y': 7}]
+X: 125 Y: 6 output: 636 eol: False
+hit: [{'x': 122, 'y': 7}] X: 122 Y 7
+[{'x': 7, 'y': 8}]
+X: 11 Y: 7 output: 190 eol: False
+hit: [{'x': 7, 'y': 8}] X: 7 Y 8
+[]
+[]
+[]
+[{'x': 61, 'y': 6}]
+X: 64 Y: 7 output: 840 eol: False
+hit: [{'x': 61, 'y': 6}] X: 61 Y 6
+valid
+[{'x': 73, 'y': 6}]
+X: 75 Y: 7 output: 167 eol: False
+hit: [{'x': 73, 'y': 6}] X: 73 Y 6
+valid
+[]
+[{'x': 99, 'y': 8}]
+X: 103 Y: 7 output: 498 eol: False
+hit: [{'x': 99, 'y': 8}] X: 99 Y 8
+[]
+[{'x': 133, 'y': 6}]
+X: 135 Y: 7 output: 147 eol: False
+hit: [{'x': 133, 'y': 6}] X: 133 Y 6
+valid
+[]
+[{'x': 7, 'y': 8}]
+X: 7 Y: 8 output: 692 eol: False
+hit: [{'x': 7, 'y': 8}] X: 7 Y 8
+valid
+[]
+[]
+[{'x': 55, 'y': 9}]
+X: 55 Y: 8 output: 364 eol: False
+hit: [{'x': 55, 'y': 9}] X: 55 Y 9
+[]
+[]
+[]
+[{'x': 122, 'y': 7}]
+X: 124 Y: 8 output: 993 eol: False
+hit: [{'x': 122, 'y': 7}] X: 122 Y 7
+valid
+[]
+[{'x': 29, 'y': 10}]
+X: 29 Y: 9 output: 245 eol: False
+hit: [{'x': 29, 'y': 10}] X: 29 Y 10
+[{'x': 40, 'y': 10}]
+X: 42 Y: 9 output: 128 eol: False
+hit: [{'x': 40, 'y': 10}] X: 40 Y 10
+[]
+[{'x': 99, 'y': 8}]
+X: 101 Y: 9 output: 305 eol: False
+hit: [{'x': 99, 'y': 8}] X: 99 Y 8
+valid
+[{'x': 106, 'y': 9}]
+X: 106 Y: 9 output: 7 eol: False
+hit: [{'x': 106, 'y': 9}] X: 106 Y 9
+[]
+[{'x': 11, 'y': 9}]
+X: 11 Y: 10 output: 978 eol: False
+hit: [{'x': 11, 'y': 9}] X: 11 Y 9
+[{'x': 11, 'y': 9}]
+X: 15 Y: 10 output: 160 eol: False
+hit: [{'x': 11, 'y': 9}] X: 11 Y 9
+valid
+[]
+[{'x': 29, 'y': 10}]
+X: 33 Y: 10 output: 524 eol: False
+hit: [{'x': 29, 'y': 10}] X: 29 Y 10
+valid
+[{'x': 46, 'y': 11}]
+X: 46 Y: 10 output: 905 eol: False
+hit: [{'x': 46, 'y': 11}] X: 46 Y 11
+[{'x': 46, 'y': 11}]
+X: 50 Y: 10 output: 343 eol: False
+hit: [{'x': 46, 'y': 11}] X: 46 Y 11
+valid
+[{'x': 55, 'y': 9}]
+X: 57 Y: 10 output: 681 eol: False
+hit: [{'x': 55, 'y': 9}] X: 55 Y 9
+valid
+[{'x': 64, 'y': 11}]
+X: 66 Y: 10 output: 615 eol: False
+hit: [{'x': 64, 'y': 11}] X: 64 Y 11
+[]
+[{'x': 40, 'y': 10}]
+X: 41 Y: 11 output: 417 eol: False
+hit: [{'x': 40, 'y': 10}] X: 40 Y 10
+valid
+[]
+[{'x': 79, 'y': 11}]
+X: 79 Y: 11 output: 354 eol: False
+hit: [{'x': 79, 'y': 11}] X: 79 Y 11
+[{'x': 79, 'y': 11}]
+X: 83 Y: 11 output: 126 eol: False
+hit: [{'x': 79, 'y': 11}] X: 79 Y 11
+valid
+[]
+[]
+[{'x': 106, 'y': 12}]
+X: 108 Y: 11 output: 424 eol: False
+hit: [{'x': 106, 'y': 12}] X: 106 Y 12
+[]
+[{'x': 121, 'y': 11}]
+X: 121 Y: 11 output: 518 eol: False
+hit: [{'x': 121, 'y': 11}] X: 121 Y 11
+[]
+[{'x': 133, 'y': 12}]
+X: 133 Y: 11 output: 96 eol: False
+hit: [{'x': 133, 'y': 12}] X: 133 Y 12
+[{'x': 133, 'y': 12}]
+X: 136 Y: 11 output: 48 eol: False
+hit: [{'x': 133, 'y': 12}] X: 133 Y 12
+valid
+[{'x': 16, 'y': 13}]
+X: 19 Y: 12 output: 92 eol: False
+hit: [{'x': 16, 'y': 13}] X: 16 Y 13
+[{'x': 27, 'y': 13}]
+X: 27 Y: 12 output: 441 eol: False
+hit: [{'x': 27, 'y': 13}] X: 27 Y 13
+[{'x': 27, 'y': 13}]
+X: 31 Y: 12 output: 681 eol: False
+hit: [{'x': 27, 'y': 13}] X: 27 Y 13
+valid
+[]
+[{'x': 64, 'y': 11}]
+X: 64 Y: 12 output: 257 eol: False
+hit: [{'x': 64, 'y': 11}] X: 64 Y 11
+valid
+[]
+[{'x': 121, 'y': 11}]
+X: 124 Y: 12 output: 64 eol: False
+hit: [{'x': 121, 'y': 11}] X: 121 Y 11
+valid
+[{'x': 11, 'y': 14}]
+X: 12 Y: 13 output: 2 eol: False
+hit: [{'x': 11, 'y': 14}] X: 11 Y 14
+[{'x': 16, 'y': 13}]
+X: 16 Y: 13 output: 235 eol: False
+hit: [{'x': 16, 'y': 13}] X: 16 Y 13
+valid
+[{'x': 38, 'y': 13}]
+X: 42 Y: 13 output: 318 eol: False
+hit: [{'x': 38, 'y': 13}] X: 38 Y 13
+[]
+[]
+[]
+[]
+[]
+[{'x': 99, 'y': 14}]
+X: 101 Y: 13 output: 716 eol: False
+hit: [{'x': 99, 'y': 14}] X: 99 Y 14
+[{'x': 102, 'y': 14}]
+X: 105 Y: 13 output: 409 eol: False
+hit: [{'x': 102, 'y': 14}] X: 102 Y 14
+[{'x': 106, 'y': 12}]
+X: 108 Y: 13 output: 68 eol: False
+hit: [{'x': 106, 'y': 12}] X: 106 Y 12
+valid
+[{'x': 30, 'y': 15}]
+X: 34 Y: 14 output: 638 eol: False
+hit: [{'x': 30, 'y': 15}] X: 30 Y 15
+[{'x': 38, 'y': 13}]
+X: 38 Y: 14 output: 72 eol: False
+hit: [{'x': 38, 'y': 13}] X: 38 Y 13
+valid
+[{'x': 57, 'y': 15}]
+X: 59 Y: 14 output: 367 eol: False
+hit: [{'x': 57, 'y': 15}] X: 57 Y 15
+[{'x': 66, 'y': 15}]
+X: 70 Y: 14 output: 802 eol: False
+hit: [{'x': 66, 'y': 15}] X: 66 Y 15
+[{'x': 131, 'y': 13}]
+X: 131 Y: 14 output: 401 eol: False
+hit: [{'x': 131, 'y': 13}] X: 131 Y 13
+[{'x': 131, 'y': 13}]
+X: 135 Y: 14 output: 773 eol: False
+hit: [{'x': 131, 'y': 13}] X: 131 Y 13
+valid
+[{'x': 11, 'y': 14}]
+X: 11 Y: 15 output: 535 eol: False
+hit: [{'x': 11, 'y': 14}] X: 11 Y 14
+valid
+[]
+[]
+[{'x': 66, 'y': 15}]
+X: 66 Y: 15 output: 784 eol: False
+hit: [{'x': 66, 'y': 15}] X: 66 Y 15
+valid
+[{'x': 71, 'y': 16}]
+X: 74 Y: 15 output: 526 eol: False
+hit: [{'x': 71, 'y': 16}] X: 71 Y 16
+[{'x': 99, 'y': 14}]
+X: 101 Y: 15 output: 141 eol: False
+hit: [{'x': 99, 'y': 14}] X: 99 Y 14
+valid
+[{'x': 102, 'y': 14}]
+X: 105 Y: 15 output: 342 eol: False
+hit: [{'x': 102, 'y': 14}] X: 102 Y 14
+valid
+[]
+[]
+[]
+[{'x': 18, 'y': 17}]
+X: 18 Y: 16 output: 745 eol: False
+hit: [{'x': 18, 'y': 17}] X: 18 Y 17
+[]
+[{'x': 30, 'y': 15}]
+X: 31 Y: 16 output: 639 eol: False
+hit: [{'x': 30, 'y': 15}] X: 30 Y 15
+valid
+[]
+[{'x': 49, 'y': 16}]
+X: 53 Y: 16 output: 327 eol: False
+hit: [{'x': 49, 'y': 16}] X: 49 Y 16
+[{'x': 57, 'y': 15}]
+X: 59 Y: 16 output: 741 eol: False
+hit: [{'x': 57, 'y': 15}] X: 57 Y 15
+valid
+[]
+[{'x': 90, 'y': 17}]
+X: 92 Y: 16 output: 531 eol: False
+hit: [{'x': 90, 'y': 17}] X: 90 Y 17
+[]
+[{'x': 131, 'y': 17}]
+X: 133 Y: 16 output: 566 eol: False
+hit: [{'x': 131, 'y': 17}] X: 131 Y 17
+[]
+[{'x': 71, 'y': 16}]
+X: 71 Y: 17 output: 910 eol: False
+hit: [{'x': 71, 'y': 16}] X: 71 Y 16
+valid
+[]
+[]
+[{'x': 9, 'y': 19}]
+X: 12 Y: 18 output: 37 eol: False
+hit: [{'x': 9, 'y': 19}] X: 9 Y 19
+[{'x': 16, 'y': 19}]
+X: 16 Y: 18 output: 307 eol: False
+hit: [{'x': 16, 'y': 19}] X: 16 Y 19
+[{'x': 18, 'y': 17}]
+X: 21 Y: 18 output: 140 eol: False
+hit: [{'x': 18, 'y': 17}] X: 18 Y 17
+valid
+[{'x': 29, 'y': 19}]
+X: 32 Y: 18 output: 334 eol: False
+hit: [{'x': 29, 'y': 19}] X: 29 Y 19
+[]
+[]
+[]
+[]
+[{'x': 77, 'y': 19}]
+X: 81 Y: 18 output: 553 eol: False
+hit: [{'x': 77, 'y': 19}] X: 77 Y 19
+[{'x': 90, 'y': 17}]
+X: 94 Y: 18 output: 994 eol: False
+hit: [{'x': 90, 'y': 17}] X: 90 Y 17
+valid
+[]
+[]
+[]
+[{'x': 131, 'y': 17}]
+X: 134 Y: 18 output: 436 eol: False
+hit: [{'x': 131, 'y': 17}] X: 131 Y 17
+valid
+[]
+[]
+[]
+[]
+[{'x': 125, 'y': 20}]
+X: 127 Y: 19 output: 62 eol: False
+hit: [{'x': 125, 'y': 20}] X: 125 Y 20
+[{'x': 9, 'y': 19}]
+X: 11 Y: 20 output: 311 eol: False
+hit: [{'x': 9, 'y': 19}] X: 9 Y 19
+valid
+[]
+[{'x': 16, 'y': 19}]
+X: 18 Y: 20 output: 317 eol: False
+hit: [{'x': 16, 'y': 19}] X: 16 Y 19
+valid
+[]
+[{'x': 29, 'y': 19}]
+X: 29 Y: 20 output: 467 eol: False
+hit: [{'x': 29, 'y': 19}] X: 29 Y 19
+valid
+[]
+[{'x': 77, 'y': 19}]
+X: 80 Y: 20 output: 620 eol: False
+hit: [{'x': 77, 'y': 19}] X: 77 Y 19
+valid
+[{'x': 99, 'y': 21}]
+X: 99 Y: 20 output: 795 eol: False
+hit: [{'x': 99, 'y': 21}] X: 99 Y 21
+[]
+[]
+[{'x': 117, 'y': 21}]
+X: 118 Y: 20 output: 968 eol: False
+hit: [{'x': 117, 'y': 21}] X: 117 Y 21
+[{'x': 123, 'y': 21}]
+X: 124 Y: 20 output: 222 eol: False
+hit: [{'x': 123, 'y': 21}] X: 123 Y 21
+[{'x': 132, 'y': 21}]
+X: 133 Y: 20 output: 448 eol: False
+hit: [{'x': 132, 'y': 21}] X: 132 Y 21
+[]
+[{'x': 37, 'y': 21}]
+X: 41 Y: 21 output: 702 eol: False
+hit: [{'x': 37, 'y': 21}] X: 37 Y 21
+[{'x': 44, 'y': 22}]
+X: 46 Y: 21 output: 881 eol: False
+hit: [{'x': 44, 'y': 22}] X: 44 Y 22
+[]
+[{'x': 73, 'y': 20}]
+X: 73 Y: 21 output: 630 eol: False
+hit: [{'x': 73, 'y': 20}] X: 73 Y 20
+[]
+[{'x': 125, 'y': 20}]
+X: 128 Y: 21 output: 527 eol: False
+hit: [{'x': 125, 'y': 20}] X: 125 Y 20
+valid
+[]
+[]
+[{'x': 37, 'y': 21}]
+X: 37 Y: 22 output: 888 eol: False
+hit: [{'x': 37, 'y': 21}] X: 37 Y 21
+valid
+[{'x': 50, 'y': 23}]
+X: 52 Y: 22 output: 360 eol: False
+hit: [{'x': 50, 'y': 23}] X: 50 Y 23
+[]
+[{'x': 99, 'y': 21}]
+X: 102 Y: 22 output: 859 eol: False
+hit: [{'x': 99, 'y': 21}] X: 99 Y 21
+valid
+[{'x': 110, 'y': 23}]
+X: 112 Y: 22 output: 586 eol: False
+hit: [{'x': 110, 'y': 23}] X: 110 Y 23
+[{'x': 117, 'y': 21}]
+X: 120 Y: 22 output: 979 eol: False
+hit: [{'x': 117, 'y': 21}] X: 117 Y 21
+valid
+[{'x': 123, 'y': 21}]
+X: 124 Y: 22 output: 514 eol: False
+hit: [{'x': 123, 'y': 21}] X: 123 Y 21
+valid
+[{'x': 132, 'y': 21}]
+X: 133 Y: 22 output: 30 eol: False
+hit: [{'x': 132, 'y': 21}] X: 132 Y 21
+valid
+[]
+[{'x': 44, 'y': 22}]
+X: 44 Y: 23 output: 176 eol: False
+hit: [{'x': 44, 'y': 22}] X: 44 Y 22
+valid
+[{'x': 56, 'y': 24}]
+X: 56 Y: 23 output: 200 eol: False
+hit: [{'x': 56, 'y': 24}] X: 56 Y 24
+[{'x': 56, 'y': 24}]
+X: 60 Y: 23 output: 300 eol: False
+hit: [{'x': 56, 'y': 24}] X: 56 Y 24
+valid
+[]
+[{'x': 86, 'y': 24}]
+X: 90 Y: 23 output: 460 eol: False
+hit: [{'x': 86, 'y': 24}] X: 86 Y 24
+[{'x': 94, 'y': 24}]
+X: 96 Y: 23 output: 503 eol: False
+hit: [{'x': 94, 'y': 24}] X: 94 Y 24
+[]
+[]
+[{'x': 50, 'y': 23}]
+X: 52 Y: 24 output: 14 eol: False
+hit: [{'x': 50, 'y': 23}] X: 50 Y 23
+valid
+[]
+[{'x': 110, 'y': 23}]
+X: 111 Y: 24 output: 688 eol: False
+hit: [{'x': 110, 'y': 23}] X: 110 Y 23
+valid
+[{'x': 114, 'y': 25}]
+X: 115 Y: 24 output: 460 eol: False
+hit: [{'x': 114, 'y': 25}] X: 114 Y 25
+[{'x': 9, 'y': 26}]
+X: 9 Y: 25 output: 677 eol: False
+hit: [{'x': 9, 'y': 26}] X: 9 Y 26
+[]
+[]
+[]
+[]
+[{'x': 77, 'y': 26}]
+X: 80 Y: 25 output: 334 eol: False
+hit: [{'x': 77, 'y': 26}] X: 77 Y 26
+[]
+[{'x': 86, 'y': 24}]
+X: 89 Y: 25 output: 508 eol: False
+hit: [{'x': 86, 'y': 24}] X: 86 Y 24
+valid
+[{'x': 94, 'y': 24}]
+X: 97 Y: 25 output: 556 eol: False
+hit: [{'x': 94, 'y': 24}] X: 94 Y 24
+valid
+[{'x': 102, 'y': 26}]
+X: 106 Y: 25 output: 913 eol: False
+hit: [{'x': 102, 'y': 26}] X: 102 Y 26
+[]
+[]
+[]
+[{'x': 25, 'y': 27}]
+X: 27 Y: 26 output: 342 eol: False
+hit: [{'x': 25, 'y': 27}] X: 25 Y 27
+[]
+[]
+[]
+[{'x': 98, 'y': 27}]
+X: 101 Y: 26 output: 18 eol: False
+hit: [{'x': 98, 'y': 27}] X: 98 Y 27
+[{'x': 114, 'y': 25}]
+X: 116 Y: 26 output: 601 eol: False
+hit: [{'x': 114, 'y': 25}] X: 114 Y 25
+valid
+[]
+[{'x': 9, 'y': 26}]
+X: 11 Y: 27 output: 80 eol: False
+hit: [{'x': 9, 'y': 26}] X: 9 Y 26
+valid
+[]
+[{'x': 42, 'y': 28}]
+X: 46 Y: 27 output: 259 eol: False
+hit: [{'x': 42, 'y': 28}] X: 42 Y 28
+[{'x': 63, 'y': 28}]
+X: 64 Y: 27 output: 250 eol: False
+hit: [{'x': 63, 'y': 28}] X: 63 Y 28
+[{'x': 76, 'y': 28}]
+X: 76 Y: 27 output: 3 eol: False
+hit: [{'x': 76, 'y': 28}] X: 76 Y 28
+[{'x': 77, 'y': 26}]
+X: 81 Y: 27 output: 337 eol: False
+hit: [{'x': 77, 'y': 26}] X: 77 Y 26
+valid
+[]
+[]
+[{'x': 102, 'y': 26}]
+X: 106 Y: 27 output: 586 eol: False
+hit: [{'x': 102, 'y': 26}] X: 102 Y 26
+valid
+[{'x': 108, 'y': 28}]
+X: 108 Y: 27 output: 5 eol: False
+hit: [{'x': 108, 'y': 28}] X: 108 Y 28
+[{'x': 108, 'y': 28}]
+X: 112 Y: 27 output: 651 eol: False
+hit: [{'x': 108, 'y': 28}] X: 108 Y 28
+valid
+[]
+[]
+[{'x': 25, 'y': 27}]
+X: 29 Y: 28 output: 126 eol: False
+hit: [{'x': 25, 'y': 27}] X: 25 Y 27
+valid
+[]
+[{'x': 42, 'y': 28}]
+X: 42 Y: 28 output: 935 eol: False
+hit: [{'x': 42, 'y': 28}] X: 42 Y 28
+valid
+[{'x': 50, 'y': 29}]
+X: 52 Y: 28 output: 235 eol: False
+hit: [{'x': 50, 'y': 29}] X: 50 Y 29
+[]
+[]
+[{'x': 84, 'y': 29}]
+X: 87 Y: 28 output: 34 eol: False
+hit: [{'x': 84, 'y': 29}] X: 84 Y 29
+[{'x': 98, 'y': 27}]
+X: 100 Y: 28 output: 294 eol: False
+hit: [{'x': 98, 'y': 27}] X: 98 Y 27
+valid
+[]
+[{'x': 14, 'y': 30}]
+X: 14 Y: 29 output: 651 eol: False
+hit: [{'x': 14, 'y': 30}] X: 14 Y 30
+[{'x': 63, 'y': 28}]
+X: 63 Y: 29 output: 526 eol: False
+hit: [{'x': 63, 'y': 28}] X: 63 Y 28
+valid
+[{'x': 76, 'y': 28}]
+X: 78 Y: 29 output: 41 eol: False
+hit: [{'x': 76, 'y': 28}] X: 76 Y 28
+valid
+[]
+[{'x': 112, 'y': 30}]
+X: 116 Y: 29 output: 530 eol: False
+hit: [{'x': 112, 'y': 30}] X: 112 Y 30
+[]
+[]
+[]
+[]
+[{'x': 36, 'y': 31}]
+X: 40 Y: 30 output: 734 eol: False
+hit: [{'x': 36, 'y': 31}] X: 36 Y 31
+[{'x': 50, 'y': 29}]
+X: 50 Y: 30 output: 791 eol: False
+hit: [{'x': 50, 'y': 29}] X: 50 Y 29
+valid
+[]
+[]
+[{'x': 84, 'y': 29}]
+X: 86 Y: 30 output: 887 eol: False
+hit: [{'x': 84, 'y': 29}] X: 84 Y 29
+valid
+[{'x': 102, 'y': 31}]
+X: 105 Y: 30 output: 381 eol: False
+hit: [{'x': 102, 'y': 31}] X: 102 Y 31
+[]
+[{'x': 22, 'y': 32}]
+X: 25 Y: 31 output: 881 eol: False
+hit: [{'x': 22, 'y': 32}] X: 22 Y 32
+[]
+[]
+[{'x': 98, 'y': 32}]
+X: 99 Y: 31 output: 491 eol: False
+hit: [{'x': 98, 'y': 32}] X: 98 Y 32
+[{'x': 112, 'y': 30}]
+X: 115 Y: 31 output: 693 eol: False
+hit: [{'x': 112, 'y': 30}] X: 112 Y 30
+valid
+[]
+[{'x': 16, 'y': 32}]
+X: 16 Y: 32 output: 589 eol: False
+hit: [{'x': 16, 'y': 32}] X: 16 Y 32
+[{'x': 36, 'y': 31}]
+X: 39 Y: 32 output: 610 eol: False
+hit: [{'x': 36, 'y': 31}] X: 36 Y 31
+valid
+[]
+[]
+[]
+[{'x': 60, 'y': 33}]
+X: 62 Y: 32 output: 774 eol: False
+hit: [{'x': 60, 'y': 33}] X: 60 Y 33
+[]
+[{'x': 102, 'y': 31}]
+X: 105 Y: 32 output: 867 eol: False
+hit: [{'x': 102, 'y': 31}] X: 102 Y 31
+valid
+[]
+[]
+[{'x': 16, 'y': 32}]
+X: 20 Y: 33 output: 614 eol: False
+hit: [{'x': 16, 'y': 32}] X: 16 Y 32
+valid
+[{'x': 22, 'y': 32}]
+X: 25 Y: 33 output: 553 eol: False
+hit: [{'x': 22, 'y': 32}] X: 22 Y 32
+valid
+[{'x': 32, 'y': 33}]
+X: 32 Y: 33 output: 345 eol: False
+hit: [{'x': 32, 'y': 33}] X: 32 Y 33
+[{'x': 32, 'y': 33}]
+X: 35 Y: 33 output: 56 eol: False
+hit: [{'x': 32, 'y': 33}] X: 32 Y 33
+valid
+[{'x': 67, 'y': 34}]
+X: 67 Y: 33 output: 658 eol: False
+hit: [{'x': 67, 'y': 34}] X: 67 Y 34
+[{'x': 67, 'y': 34}]
+X: 71 Y: 33 output: 870 eol: False
+hit: [{'x': 67, 'y': 34}] X: 67 Y 34
+valid
+[{'x': 79, 'y': 34}]
+X: 82 Y: 33 output: 895 eol: False
+hit: [{'x': 79, 'y': 34}] X: 79 Y 34
+[{'x': 98, 'y': 32}]
+X: 100 Y: 33 output: 714 eol: False
+hit: [{'x': 98, 'y': 32}] X: 98 Y 32
+valid
+[]
+[{'x': 113, 'y': 34}]
+X: 114 Y: 33 output: 13 eol: False
+hit: [{'x': 113, 'y': 34}] X: 113 Y 34
+[]
+[{'x': 60, 'y': 33}]
+X: 62 Y: 34 output: 775 eol: False
+hit: [{'x': 60, 'y': 33}] X: 60 Y 33
+valid
+[]
+[]
+[{'x': 94, 'y': 35}]
+X: 96 Y: 34 output: 276 eol: False
+hit: [{'x': 94, 'y': 35}] X: 94 Y 35
+[{'x': 115, 'y': 35}]
+X: 119 Y: 34 output: 560 eol: False
+hit: [{'x': 115, 'y': 35}] X: 115 Y 35
+[{'x': 121, 'y': 35}]
+X: 123 Y: 34 output: 950 eol: False
+hit: [{'x': 121, 'y': 35}] X: 121 Y 35
+[{'x': 6, 'y': 36}]
+X: 7 Y: 35 output: 761 eol: False
+hit: [{'x': 6, 'y': 36}] X: 6 Y 36
+[{'x': 43, 'y': 36}]
+X: 43 Y: 35 output: 825 eol: False
+hit: [{'x': 43, 'y': 36}] X: 43 Y 36
+[{'x': 54, 'y': 36}]
+X: 55 Y: 35 output: 495 eol: False
+hit: [{'x': 54, 'y': 36}] X: 54 Y 36
+[]
+[{'x': 79, 'y': 34}]
+X: 81 Y: 35 output: 87 eol: False
+hit: [{'x': 79, 'y': 34}] X: 79 Y 34
+valid
+[{'x': 107, 'y': 36}]
+X: 107 Y: 35 output: 689 eol: False
+hit: [{'x': 107, 'y': 36}] X: 107 Y 36
+[]
+[{'x': 136, 'y': 34}]
+X: 136 Y: 35 output: 131 eol: False
+hit: [{'x': 136, 'y': 34}] X: 136 Y 34
+[{'x': 136, 'y': 34}]
+X: 140 Y: 35 output: 745 eol: True
+hit: [{'x': 136, 'y': 34}] X: 136 Y 34
+valid
+[]
+[]
+[{'x': 19, 'y': 36}]
+X: 19 Y: 36 output: 993 eol: False
+hit: [{'x': 19, 'y': 36}] X: 19 Y 36
+[{'x': 48, 'y': 37}]
+X: 48 Y: 36 output: 603 eol: False
+hit: [{'x': 48, 'y': 37}] X: 48 Y 37
+[]
+[{'x': 94, 'y': 35}]
+X: 95 Y: 36 output: 951 eol: False
+hit: [{'x': 94, 'y': 35}] X: 94 Y 35
+valid
+[{'x': 99, 'y': 35}]
+X: 99 Y: 36 output: 720 eol: False
+hit: [{'x': 99, 'y': 35}] X: 99 Y 35
+[{'x': 115, 'y': 35}]
+X: 117 Y: 36 output: 167 eol: False
+hit: [{'x': 115, 'y': 35}] X: 115 Y 35
+valid
+[{'x': 121, 'y': 35}]
+X: 122 Y: 36 output: 28 eol: False
+hit: [{'x': 121, 'y': 35}] X: 121 Y 35
+valid
+[{'x': 19, 'y': 36}]
+X: 23 Y: 37 output: 503 eol: False
+hit: [{'x': 19, 'y': 36}] X: 19 Y 36
+valid
+[{'x': 43, 'y': 36}]
+X: 44 Y: 37 output: 634 eol: False
+hit: [{'x': 43, 'y': 36}] X: 43 Y 36
+valid
+[{'x': 48, 'y': 37}]
+X: 52 Y: 37 output: 476 eol: False
+hit: [{'x': 48, 'y': 37}] X: 48 Y 37
+valid
+[{'x': 54, 'y': 36}]
+X: 58 Y: 37 output: 887 eol: False
+hit: [{'x': 54, 'y': 36}] X: 54 Y 36
+valid
+[]
+[{'x': 70, 'y': 38}]
+X: 73 Y: 37 output: 221 eol: False
+hit: [{'x': 70, 'y': 38}] X: 70 Y 38
+[{'x': 78, 'y': 38}]
+X: 80 Y: 37 output: 457 eol: False
+hit: [{'x': 78, 'y': 38}] X: 78 Y 38
+[{'x': 107, 'y': 36}]
+X: 108 Y: 37 output: 698 eol: False
+hit: [{'x': 107, 'y': 36}] X: 107 Y 36
+valid
+[]
+[{'x': 135, 'y': 37}]
+X: 135 Y: 37 output: 539 eol: False
+hit: [{'x': 135, 'y': 37}] X: 135 Y 37
+[]
+[{'x': 4, 'y': 39}]
+X: 8 Y: 38 output: 116 eol: False
+hit: [{'x': 4, 'y': 39}] X: 4 Y 39
+[]
+[]
+[{'x': 39, 'y': 39}]
+X: 40 Y: 38 output: 911 eol: False
+hit: [{'x': 39, 'y': 39}] X: 39 Y 39
+[{'x': 58, 'y': 39}]
+X: 62 Y: 38 output: 774 eol: False
+hit: [{'x': 58, 'y': 39}] X: 58 Y 39
+[]
+[{'x': 123, 'y': 38}]
+X: 123 Y: 38 output: 674 eol: False
+hit: [{'x': 123, 'y': 38}] X: 123 Y 38
+[{'x': 123, 'y': 38}]
+X: 127 Y: 38 output: 693 eol: False
+hit: [{'x': 123, 'y': 38}] X: 123 Y 38
+valid
+[{'x': 135, 'y': 37}]
+X: 139 Y: 38 output: 103 eol: False
+hit: [{'x': 135, 'y': 37}] X: 135 Y 37
+valid
+[]
+[{'x': 58, 'y': 39}]
+X: 58 Y: 39 output: 290 eol: False
+hit: [{'x': 58, 'y': 39}] X: 58 Y 39
+valid
+[{'x': 70, 'y': 38}]
+X: 70 Y: 39 output: 59 eol: False
+hit: [{'x': 70, 'y': 38}] X: 70 Y 38
+valid
+[{'x': 73, 'y': 40}]
+X: 75 Y: 39 output: 542 eol: False
+hit: [{'x': 73, 'y': 40}] X: 73 Y 40
+[{'x': 78, 'y': 38}]
+X: 79 Y: 39 output: 253 eol: False
+hit: [{'x': 78, 'y': 38}] X: 78 Y 38
+valid
+[{'x': 103, 'y': 40}]
+X: 105 Y: 39 output: 320 eol: False
+hit: [{'x': 103, 'y': 40}] X: 103 Y 40
+[{'x': 112, 'y': 39}]
+X: 112 Y: 39 output: 196 eol: False
+hit: [{'x': 112, 'y': 39}] X: 112 Y 39
+[{'x': 133, 'y': 40}]
+X: 135 Y: 39 output: 586 eol: False
+hit: [{'x': 133, 'y': 40}] X: 133 Y 40
+[{'x': 4, 'y': 39}]
+X: 6 Y: 40 output: 630 eol: False
+hit: [{'x': 4, 'y': 39}] X: 4 Y 39
+valid
+[]
+[{'x': 39, 'y': 39}]
+X: 40 Y: 40 output: 690 eol: False
+hit: [{'x': 39, 'y': 39}] X: 39 Y 39
+valid
+[{'x': 44, 'y': 41}]
+X: 46 Y: 40 output: 360 eol: False
+hit: [{'x': 44, 'y': 41}] X: 44 Y 41
+[]
+[]
+[]
+[]
+[{'x': 112, 'y': 39}]
+X: 116 Y: 40 output: 191 eol: False
+hit: [{'x': 112, 'y': 39}] X: 112 Y 39
+valid
+[]
+[{'x': 19, 'y': 40}]
+X: 22 Y: 41 output: 51 eol: False
+hit: [{'x': 19, 'y': 40}] X: 19 Y 40
+[{'x': 28, 'y': 42}]
+X: 29 Y: 41 output: 680 eol: False
+hit: [{'x': 28, 'y': 42}] X: 28 Y 42
+[{'x': 33, 'y': 42}]
+X: 36 Y: 41 output: 102 eol: False
+hit: [{'x': 33, 'y': 42}] X: 33 Y 42
+[{'x': 55, 'y': 42}]
+X: 55 Y: 41 output: 112 eol: False
+hit: [{'x': 55, 'y': 42}] X: 55 Y 42
+[{'x': 65, 'y': 42}]
+X: 66 Y: 41 output: 190 eol: False
+hit: [{'x': 65, 'y': 42}] X: 65 Y 42
+[{'x': 73, 'y': 40}]
+X: 75 Y: 41 output: 499 eol: False
+hit: [{'x': 73, 'y': 40}] X: 73 Y 40
+valid
+[]
+[{'x': 103, 'y': 40}]
+X: 103 Y: 41 output: 28 eol: False
+hit: [{'x': 103, 'y': 40}] X: 103 Y 40
+valid
+[{'x': 133, 'y': 40}]
+X: 135 Y: 41 output: 340 eol: False
+hit: [{'x': 133, 'y': 40}] X: 133 Y 40
+valid
+[{'x': 3, 'y': 42}]
+X: 7 Y: 42 output: 729 eol: False
+hit: [{'x': 3, 'y': 42}] X: 3 Y 42
+[{'x': 13, 'y': 41}]
+X: 13 Y: 42 output: 130 eol: False
+hit: [{'x': 13, 'y': 41}] X: 13 Y 41
+[{'x': 13, 'y': 41}]
+X: 17 Y: 42 output: 683 eol: False
+hit: [{'x': 13, 'y': 41}] X: 13 Y 41
+valid
+[{'x': 44, 'y': 41}]
+X: 44 Y: 42 output: 776 eol: False
+hit: [{'x': 44, 'y': 41}] X: 44 Y 41
+valid
+[]
+[]
+[]
+[{'x': 107, 'y': 41}]
+X: 107 Y: 42 output: 681 eol: False
+hit: [{'x': 107, 'y': 41}] X: 107 Y 41
+[{'x': 107, 'y': 41}]
+X: 111 Y: 42 output: 889 eol: False
+hit: [{'x': 107, 'y': 41}] X: 107 Y 41
+valid
+[{'x': 117, 'y': 42}]
+X: 117 Y: 42 output: 564 eol: False
+hit: [{'x': 117, 'y': 42}] X: 117 Y 42
+[{'x': 117, 'y': 42}]
+X: 120 Y: 42 output: 55 eol: False
+hit: [{'x': 117, 'y': 42}] X: 117 Y 42
+valid
+[]
+[{'x': 3, 'y': 42}]
+X: 3 Y: 43 output: 839 eol: False
+hit: [{'x': 3, 'y': 42}] X: 3 Y 42
+valid
+[{'x': 22, 'y': 44}]
+X: 23 Y: 43 output: 226 eol: False
+hit: [{'x': 22, 'y': 44}] X: 22 Y 44
+[{'x': 28, 'y': 42}]
+X: 29 Y: 43 output: 246 eol: False
+hit: [{'x': 28, 'y': 42}] X: 28 Y 42
+valid
+[{'x': 33, 'y': 42}]
+X: 35 Y: 43 output: 719 eol: False
+hit: [{'x': 33, 'y': 42}] X: 33 Y 42
+valid
+[]
+[{'x': 55, 'y': 42}]
+X: 56 Y: 43 output: 428 eol: False
+hit: [{'x': 55, 'y': 42}] X: 55 Y 42
+valid
+[{'x': 65, 'y': 42}]
+X: 68 Y: 43 output: 663 eol: False
+hit: [{'x': 65, 'y': 42}] X: 65 Y 42
+valid
+[]
+[{'x': 85, 'y': 44}]
+X: 88 Y: 43 output: 357 eol: False
+hit: [{'x': 85, 'y': 44}] X: 85 Y 44
+[]
+[]
+[{'x': 98, 'y': 45}]
+X: 102 Y: 44 output: 821 eol: False
+hit: [{'x': 98, 'y': 45}] X: 98 Y 45
+[]
+[]
+[{'x': 129, 'y': 44}]
+X: 133 Y: 44 output: 569 eol: False
+hit: [{'x': 129, 'y': 44}] X: 129 Y 44
+[]
+[]
+[{'x': 22, 'y': 44}]
+X: 25 Y: 45 output: 923 eol: False
+hit: [{'x': 22, 'y': 44}] X: 22 Y 44
+valid
+[{'x': 47, 'y': 46}]
+X: 49 Y: 45 output: 491 eol: False
+hit: [{'x': 47, 'y': 46}] X: 47 Y 46
+[]
+[{'x': 59, 'y': 46}]
+X: 62 Y: 45 output: 614 eol: False
+hit: [{'x': 59, 'y': 46}] X: 59 Y 46
+[{'x': 72, 'y': 46}]
+X: 73 Y: 45 output: 937 eol: False
+hit: [{'x': 72, 'y': 46}] X: 72 Y 46
+[]
+[{'x': 85, 'y': 44}]
+X: 85 Y: 45 output: 491 eol: False
+hit: [{'x': 85, 'y': 44}] X: 85 Y 44
+valid
+[]
+[{'x': 129, 'y': 44}]
+X: 129 Y: 45 output: 574 eol: False
+hit: [{'x': 129, 'y': 44}] X: 129 Y 44
+valid
+[]
+[{'x': 40, 'y': 47}]
+X: 42 Y: 46 output: 22 eol: False
+hit: [{'x': 40, 'y': 47}] X: 40 Y 47
+[{'x': 89, 'y': 45}]
+X: 93 Y: 46 output: 378 eol: False
+hit: [{'x': 89, 'y': 45}] X: 89 Y 45
+[{'x': 98, 'y': 45}]
+X: 102 Y: 46 output: 675 eol: False
+hit: [{'x': 98, 'y': 45}] X: 98 Y 45
+valid
+[]
+[{'x': 14, 'y': 48}]
+X: 18 Y: 47 output: 525 eol: False
+hit: [{'x': 14, 'y': 48}] X: 14 Y 48
+[]
+[{'x': 47, 'y': 46}]
+X: 47 Y: 47 output: 301 eol: False
+hit: [{'x': 47, 'y': 46}] X: 47 Y 46
+valid
+[{'x': 56, 'y': 48}]
+X: 57 Y: 47 output: 162 eol: False
+hit: [{'x': 56, 'y': 48}] X: 56 Y 48
+[{'x': 59, 'y': 46}]
+X: 61 Y: 47 output: 872 eol: False
+hit: [{'x': 59, 'y': 46}] X: 59 Y 46
+valid
+[]
+[{'x': 72, 'y': 46}]
+X: 74 Y: 47 output: 889 eol: False
+hit: [{'x': 72, 'y': 46}] X: 72 Y 46
+valid
+[]
+[{'x': 107, 'y': 48}]
+X: 109 Y: 47 output: 871 eol: False
+hit: [{'x': 107, 'y': 48}] X: 107 Y 48
+[{'x': 112, 'y': 48}]
+X: 113 Y: 47 output: 679 eol: False
+hit: [{'x': 112, 'y': 48}] X: 112 Y 48
+[]
+[]
+[]
+[]
+[{'x': 40, 'y': 47}]
+X: 40 Y: 48 output: 865 eol: False
+hit: [{'x': 40, 'y': 47}] X: 40 Y 47
+valid
+[{'x': 62, 'y': 48}]
+X: 66 Y: 48 output: 857 eol: False
+hit: [{'x': 62, 'y': 48}] X: 62 Y 48
+[{'x': 96, 'y': 49}]
+X: 96 Y: 48 output: 630 eol: False
+hit: [{'x': 96, 'y': 49}] X: 96 Y 49
+[{'x': 14, 'y': 48}]
+X: 16 Y: 49 output: 954 eol: False
+hit: [{'x': 14, 'y': 48}] X: 14 Y 48
+valid
+[]
+[{'x': 56, 'y': 48}]
+X: 56 Y: 49 output: 615 eol: False
+hit: [{'x': 56, 'y': 48}] X: 56 Y 48
+valid
+[{'x': 62, 'y': 48}]
+X: 62 Y: 49 output: 828 eol: False
+hit: [{'x': 62, 'y': 48}] X: 62 Y 48
+valid
+[{'x': 96, 'y': 49}]
+X: 100 Y: 49 output: 745 eol: False
+hit: [{'x': 96, 'y': 49}] X: 96 Y 49
+valid
+[{'x': 107, 'y': 48}]
+X: 110 Y: 49 output: 556 eol: False
+hit: [{'x': 107, 'y': 48}] X: 107 Y 48
+valid
+[{'x': 112, 'y': 48}]
+X: 115 Y: 49 output: 321 eol: False
+hit: [{'x': 112, 'y': 48}] X: 112 Y 48
+valid
+[]
+[]
+[{'x': 38, 'y': 51}]
+X: 38 Y: 50 output: 130 eol: False
+hit: [{'x': 38, 'y': 51}] X: 38 Y 51
+[{'x': 38, 'y': 51}]
+X: 42 Y: 50 output: 154 eol: False
+hit: [{'x': 38, 'y': 51}] X: 38 Y 51
+valid
+[]
+[{'x': 90, 'y': 49}]
+X: 90 Y: 50 output: 235 eol: False
+hit: [{'x': 90, 'y': 49}] X: 90 Y 49
+[{'x': 90, 'y': 49}]
+X: 94 Y: 50 output: 501 eol: False
+hit: [{'x': 90, 'y': 49}] X: 90 Y 49
+valid
+[]
+[{'x': 123, 'y': 51}]
+X: 123 Y: 50 output: 609 eol: False
+hit: [{'x': 123, 'y': 51}] X: 123 Y 51
+[]
+[{'x': 16, 'y': 52}]
+X: 17 Y: 51 output: 192 eol: False
+hit: [{'x': 16, 'y': 52}] X: 16 Y 52
+[{'x': 24, 'y': 52}]
+X: 24 Y: 51 output: 264 eol: False
+hit: [{'x': 24, 'y': 52}] X: 24 Y 52
+[]
+[]
+[]
+[]
+[]
+[{'x': 117, 'y': 52}]
+X: 118 Y: 51 output: 934 eol: False
+hit: [{'x': 117, 'y': 52}] X: 117 Y 52
+[{'x': 126, 'y': 52}]
+X: 129 Y: 51 output: 211 eol: False
+hit: [{'x': 126, 'y': 52}] X: 126 Y 52
+[]
+[{'x': 24, 'y': 52}]
+X: 28 Y: 52 output: 975 eol: False
+hit: [{'x': 24, 'y': 52}] X: 24 Y 52
+valid
+[{'x': 52, 'y': 53}]
+X: 52 Y: 52 output: 159 eol: False
+hit: [{'x': 52, 'y': 53}] X: 52 Y 53
+[{'x': 64, 'y': 51}]
+X: 64 Y: 52 output: 713 eol: False
+hit: [{'x': 64, 'y': 51}] X: 64 Y 51
+[]
+[]
+[{'x': 123, 'y': 51}]
+X: 123 Y: 52 output: 212 eol: False
+hit: [{'x': 123, 'y': 51}] X: 123 Y 51
+valid
+[]
+[{'x': 16, 'y': 52}]
+X: 19 Y: 53 output: 381 eol: False
+hit: [{'x': 16, 'y': 52}] X: 16 Y 52
+valid
+[{'x': 30, 'y': 54}]
+X: 32 Y: 53 output: 917 eol: False
+hit: [{'x': 30, 'y': 54}] X: 30 Y 54
+[]
+[{'x': 58, 'y': 54}]
+X: 59 Y: 53 output: 276 eol: False
+hit: [{'x': 58, 'y': 54}] X: 58 Y 54
+[{'x': 73, 'y': 54}]
+X: 75 Y: 53 output: 352 eol: False
+hit: [{'x': 73, 'y': 54}] X: 73 Y 54
+[{'x': 77, 'y': 54}]
+X: 81 Y: 53 output: 524 eol: False
+hit: [{'x': 77, 'y': 54}] X: 77 Y 54
+[]
+[]
+[]
+[{'x': 117, 'y': 52}]
+X: 117 Y: 53 output: 152 eol: False
+hit: [{'x': 117, 'y': 52}] X: 117 Y 52
+valid
+[{'x': 126, 'y': 52}]
+X: 128 Y: 53 output: 484 eol: False
+hit: [{'x': 126, 'y': 52}] X: 126 Y 52
+valid
+[]
+[]
+[]
+[]
+[]
+[{'x': 52, 'y': 53}]
+X: 55 Y: 54 output: 163 eol: False
+hit: [{'x': 52, 'y': 53}] X: 52 Y 53
+valid
+[]
+[]
+[{'x': 132, 'y': 54}]
+X: 132 Y: 54 output: 874 eol: False
+hit: [{'x': 132, 'y': 54}] X: 132 Y 54
+[]
+[{'x': 30, 'y': 54}]
+X: 33 Y: 55 output: 989 eol: False
+hit: [{'x': 30, 'y': 54}] X: 30 Y 54
+valid
+[]
+[{'x': 58, 'y': 54}]
+X: 59 Y: 55 output: 917 eol: False
+hit: [{'x': 58, 'y': 54}] X: 58 Y 54
+valid
+[]
+[{'x': 73, 'y': 54}]
+X: 73 Y: 55 output: 13 eol: False
+hit: [{'x': 73, 'y': 54}] X: 73 Y 54
+valid
+[{'x': 77, 'y': 54}]
+X: 81 Y: 55 output: 806 eol: False
+hit: [{'x': 77, 'y': 54}] X: 77 Y 54
+valid
+[{'x': 132, 'y': 54}]
+X: 136 Y: 55 output: 174 eol: False
+hit: [{'x': 132, 'y': 54}] X: 132 Y 54
+valid
+[{'x': 13, 'y': 57}]
+X: 14 Y: 56 output: 184 eol: False
+hit: [{'x': 13, 'y': 57}] X: 13 Y 57
+[{'x': 16, 'y': 57}]
+X: 18 Y: 56 output: 72 eol: False
+hit: [{'x': 16, 'y': 57}] X: 16 Y 57
+[{'x': 43, 'y': 57}]
+X: 45 Y: 56 output: 928 eol: False
+hit: [{'x': 43, 'y': 57}] X: 43 Y 57
+[{'x': 69, 'y': 57}]
+X: 69 Y: 56 output: 684 eol: False
+hit: [{'x': 69, 'y': 57}] X: 69 Y 57
+[{'x': 73, 'y': 57}]
+X: 77 Y: 56 output: 118 eol: False
+hit: [{'x': 73, 'y': 57}] X: 73 Y 57
+[{'x': 90, 'y': 57}]
+X: 93 Y: 56 output: 239 eol: False
+hit: [{'x': 90, 'y': 57}] X: 90 Y 57
+[{'x': 3, 'y': 58}]
+X: 4 Y: 57 output: 609 eol: False
+hit: [{'x': 3, 'y': 58}] X: 3 Y 58
+[{'x': 8, 'y': 58}]
+X: 10 Y: 57 output: 116 eol: False
+hit: [{'x': 8, 'y': 58}] X: 8 Y 58
+[]
+[]
+[{'x': 50, 'y': 58}]
+X: 54 Y: 57 output: 312 eol: False
+hit: [{'x': 50, 'y': 58}] X: 50 Y 58
+[]
+[{'x': 80, 'y': 58}]
+X: 83 Y: 57 output: 871 eol: False
+hit: [{'x': 80, 'y': 58}] X: 80 Y 58
+[]
+[{'x': 93, 'y': 58}]
+X: 97 Y: 57 output: 883 eol: False
+hit: [{'x': 93, 'y': 58}] X: 93 Y 58
+[]
+[]
+[]
+[]
+[{'x': 136, 'y': 58}]
+X: 137 Y: 57 output: 259 eol: False
+hit: [{'x': 136, 'y': 58}] X: 136 Y 58
+[{'x': 13, 'y': 57}]
+X: 14 Y: 58 output: 33 eol: False
+hit: [{'x': 13, 'y': 57}] X: 13 Y 57
+valid
+[{'x': 16, 'y': 57}]
+X: 19 Y: 58 output: 574 eol: False
+hit: [{'x': 16, 'y': 57}] X: 16 Y 57
+valid
+[{'x': 50, 'y': 58}]
+X: 50 Y: 58 output: 647 eol: False
+hit: [{'x': 50, 'y': 58}] X: 50 Y 58
+valid
+[{'x': 69, 'y': 57}]
+X: 70 Y: 58 output: 378 eol: False
+hit: [{'x': 69, 'y': 57}] X: 69 Y 57
+valid
+[{'x': 73, 'y': 57}]
+X: 77 Y: 58 output: 803 eol: False
+hit: [{'x': 73, 'y': 57}] X: 73 Y 57
+valid
+[{'x': 90, 'y': 57}]
+X: 91 Y: 58 output: 260 eol: False
+hit: [{'x': 90, 'y': 57}] X: 90 Y 57
+valid
+[{'x': 100, 'y': 59}]
+X: 103 Y: 58 output: 543 eol: False
+hit: [{'x': 100, 'y': 59}] X: 100 Y 59
+[]
+[{'x': 130, 'y': 59}]
+X: 133 Y: 58 output: 464 eol: False
+hit: [{'x': 130, 'y': 59}] X: 130 Y 59
+[{'x': 3, 'y': 58}]
+X: 6 Y: 59 output: 611 eol: False
+hit: [{'x': 3, 'y': 58}] X: 3 Y 58
+valid
+[{'x': 8, 'y': 58}]
+X: 11 Y: 59 output: 42 eol: False
+hit: [{'x': 8, 'y': 58}] X: 8 Y 58
+valid
+[]
+[]
+[]
+[]
+[{'x': 80, 'y': 58}]
+X: 81 Y: 59 output: 666 eol: False
+hit: [{'x': 80, 'y': 58}] X: 80 Y 58
+valid
+[{'x': 93, 'y': 58}]
+X: 95 Y: 59 output: 185 eol: False
+hit: [{'x': 93, 'y': 58}] X: 93 Y 58
+valid
+[]
+[{'x': 136, 'y': 58}]
+X: 139 Y: 59 output: 968 eol: False
+hit: [{'x': 136, 'y': 58}] X: 136 Y 58
+valid
+[{'x': 19, 'y': 61}]
+X: 23 Y: 60 output: 295 eol: False
+hit: [{'x': 19, 'y': 61}] X: 19 Y 61
+[{'x': 100, 'y': 59}]
+X: 103 Y: 60 output: 789 eol: False
+hit: [{'x': 100, 'y': 59}] X: 100 Y 59
+valid
+[]
+[{'x': 130, 'y': 59}]
+X: 134 Y: 60 output: 993 eol: False
+hit: [{'x': 130, 'y': 59}] X: 130 Y 59
+valid
+[]
+[]
+[]
+[]
+[{'x': 49, 'y': 61}]
+X: 53 Y: 61 output: 670 eol: False
+hit: [{'x': 49, 'y': 61}] X: 49 Y 61
+[{'x': 59, 'y': 62}]
+X: 62 Y: 61 output: 272 eol: False
+hit: [{'x': 59, 'y': 62}] X: 59 Y 62
+[]
+[{'x': 87, 'y': 60}]
+X: 87 Y: 61 output: 501 eol: False
+hit: [{'x': 87, 'y': 60}] X: 87 Y 60
+[{'x': 87, 'y': 60}]
+X: 91 Y: 61 output: 248 eol: False
+hit: [{'x': 87, 'y': 60}] X: 87 Y 60
+valid
+[{'x': 96, 'y': 62}]
+X: 98 Y: 61 output: 317 eol: False
+hit: [{'x': 96, 'y': 62}] X: 96 Y 62
+[{'x': 104, 'y': 62}]
+X: 107 Y: 61 output: 752 eol: False
+hit: [{'x': 104, 'y': 62}] X: 104 Y 62
+[]
+[{'x': 127, 'y': 62}]
+X: 128 Y: 61 output: 739 eol: False
+hit: [{'x': 127, 'y': 62}] X: 127 Y 62
+[]
+[{'x': 19, 'y': 61}]
+X: 21 Y: 62 output: 192 eol: False
+hit: [{'x': 19, 'y': 61}] X: 19 Y 61
+valid
+[{'x': 40, 'y': 63}]
+X: 43 Y: 62 output: 267 eol: False
+hit: [{'x': 40, 'y': 63}] X: 40 Y 63
+[{'x': 49, 'y': 61}]
+X: 49 Y: 62 output: 761 eol: False
+hit: [{'x': 49, 'y': 61}] X: 49 Y 61
+valid
+[{'x': 65, 'y': 63}]
+X: 66 Y: 62 output: 192 eol: False
+hit: [{'x': 65, 'y': 63}] X: 65 Y 63
+[{'x': 79, 'y': 63}]
+X: 82 Y: 62 output: 456 eol: False
+hit: [{'x': 79, 'y': 63}] X: 79 Y 63
+[]
+[]
+[{'x': 55, 'y': 63}]
+X: 55 Y: 63 output: 628 eol: False
+hit: [{'x': 55, 'y': 63}] X: 55 Y 63
+[{'x': 70, 'y': 63}]
+X: 70 Y: 63 output: 342 eol: False
+hit: [{'x': 70, 'y': 63}] X: 70 Y 63
+[{'x': 70, 'y': 63}]
+X: 74 Y: 63 output: 503 eol: False
+hit: [{'x': 70, 'y': 63}] X: 70 Y 63
+valid
+[{'x': 94, 'y': 64}]
+X: 94 Y: 63 output: 409 eol: False
+hit: [{'x': 94, 'y': 64}] X: 94 Y 64
+[{'x': 104, 'y': 62}]
+X: 104 Y: 63 output: 310 eol: False
+hit: [{'x': 104, 'y': 62}] X: 104 Y 62
+valid
+[{'x': 127, 'y': 62}]
+X: 131 Y: 63 output: 516 eol: False
+hit: [{'x': 127, 'y': 62}] X: 127 Y 62
+valid
+[]
+[{'x': 9, 'y': 65}]
+X: 9 Y: 64 output: 622 eol: False
+hit: [{'x': 9, 'y': 65}] X: 9 Y 65
+[]
+[{'x': 40, 'y': 63}]
+X: 43 Y: 64 output: 454 eol: False
+hit: [{'x': 40, 'y': 63}] X: 40 Y 63
+valid
+[{'x': 55, 'y': 63}]
+X: 59 Y: 64 output: 491 eol: False
+hit: [{'x': 55, 'y': 63}] X: 55 Y 63
+valid
+[{'x': 65, 'y': 63}]
+X: 66 Y: 64 output: 738 eol: False
+hit: [{'x': 65, 'y': 63}] X: 65 Y 63
+valid
+[{'x': 79, 'y': 63}]
+X: 80 Y: 64 output: 214 eol: False
+hit: [{'x': 79, 'y': 63}] X: 79 Y 63
+valid
+[{'x': 106, 'y': 65}]
+X: 108 Y: 64 output: 937 eol: False
+hit: [{'x': 106, 'y': 65}] X: 106 Y 65
+[]
+[]
+[]
+[]
+[{'x': 71, 'y': 66}]
+X: 71 Y: 65 output: 402 eol: False
+hit: [{'x': 71, 'y': 66}] X: 71 Y 66
+[]
+[{'x': 94, 'y': 64}]
+X: 98 Y: 65 output: 921 eol: False
+hit: [{'x': 94, 'y': 64}] X: 94 Y 64
+valid
+[{'x': 101, 'y': 66}]
+X: 103 Y: 65 output: 843 eol: False
+hit: [{'x': 101, 'y': 66}] X: 101 Y 66
+[]
+[{'x': 134, 'y': 66}]
+X: 135 Y: 65 output: 546 eol: False
+hit: [{'x': 134, 'y': 66}] X: 134 Y 66
+[{'x': 9, 'y': 65}]
+X: 10 Y: 66 output: 264 eol: False
+hit: [{'x': 9, 'y': 65}] X: 9 Y 65
+valid
+[]
+[]
+[]
+[{'x': 90, 'y': 65}]
+X: 94 Y: 66 output: 276 eol: False
+hit: [{'x': 90, 'y': 65}] X: 90 Y 65
+[{'x': 106, 'y': 65}]
+X: 108 Y: 66 output: 513 eol: False
+hit: [{'x': 106, 'y': 65}] X: 106 Y 65
+valid
+[{'x': 115, 'y': 67}]
+X: 118 Y: 66 output: 598 eol: False
+hit: [{'x': 115, 'y': 67}] X: 115 Y 67
+[]
+[]
+[]
+[]
+[{'x': 52, 'y': 68}]
+X: 52 Y: 67 output: 701 eol: False
+hit: [{'x': 52, 'y': 68}] X: 52 Y 68
+[{'x': 58, 'y': 68}]
+X: 62 Y: 67 output: 377 eol: False
+hit: [{'x': 58, 'y': 68}] X: 58 Y 68
+[]
+[{'x': 71, 'y': 66}]
+X: 73 Y: 67 output: 422 eol: False
+hit: [{'x': 71, 'y': 66}] X: 71 Y 66
+valid
+[]
+[]
+[{'x': 101, 'y': 66}]
+X: 104 Y: 67 output: 426 eol: False
+hit: [{'x': 101, 'y': 66}] X: 101 Y 66
+valid
+[{'x': 109, 'y': 67}]
+X: 113 Y: 67 output: 689 eol: False
+hit: [{'x': 109, 'y': 67}] X: 109 Y 67
+[]
+[{'x': 134, 'y': 66}]
+X: 138 Y: 67 output: 175 eol: False
+hit: [{'x': 134, 'y': 66}] X: 134 Y 66
+valid
+[]
+[{'x': 10, 'y': 69}]
+X: 12 Y: 68 output: 429 eol: False
+hit: [{'x': 10, 'y': 69}] X: 10 Y 69
+[]
+[{'x': 45, 'y': 69}]
+X: 45 Y: 68 output: 513 eol: False
+hit: [{'x': 45, 'y': 69}] X: 45 Y 69
+[{'x': 77, 'y': 68}]
+X: 77 Y: 68 output: 477 eol: False
+hit: [{'x': 77, 'y': 68}] X: 77 Y 68
+[]
+[{'x': 109, 'y': 67}]
+X: 109 Y: 68 output: 641 eol: False
+hit: [{'x': 109, 'y': 67}] X: 109 Y 67
+valid
+[{'x': 115, 'y': 67}]
+X: 117 Y: 68 output: 108 eol: False
+hit: [{'x': 115, 'y': 67}] X: 115 Y 67
+valid
+[]
+[]
+[{'x': 52, 'y': 68}]
+X: 55 Y: 69 output: 140 eol: False
+hit: [{'x': 52, 'y': 68}] X: 52 Y 68
+valid
+[{'x': 58, 'y': 68}]
+X: 58 Y: 69 output: 24 eol: False
+hit: [{'x': 58, 'y': 68}] X: 58 Y 68
+valid
+[{'x': 77, 'y': 68}]
+X: 80 Y: 69 output: 22 eol: False
+hit: [{'x': 77, 'y': 68}] X: 77 Y 68
+valid
+[]
+[{'x': 10, 'y': 69}]
+X: 10 Y: 70 output: 682 eol: False
+hit: [{'x': 10, 'y': 69}] X: 10 Y 69
+valid
+[]
+[{'x': 22, 'y': 71}]
+X: 23 Y: 70 output: 153 eol: False
+hit: [{'x': 22, 'y': 71}] X: 22 Y 71
+[]
+[{'x': 36, 'y': 71}]
+X: 39 Y: 70 output: 451 eol: False
+hit: [{'x': 36, 'y': 71}] X: 36 Y 71
+[]
+[{'x': 45, 'y': 69}]
+X: 47 Y: 70 output: 236 eol: False
+hit: [{'x': 45, 'y': 69}] X: 45 Y 69
+valid
+[{'x': 61, 'y': 71}]
+X: 62 Y: 70 output: 92 eol: False
+hit: [{'x': 61, 'y': 71}] X: 61 Y 71
+[{'x': 66, 'y': 71}]
+X: 66 Y: 70 output: 141 eol: False
+hit: [{'x': 66, 'y': 71}] X: 66 Y 71
+[{'x': 73, 'y': 71}]
+X: 74 Y: 70 output: 393 eol: False
+hit: [{'x': 73, 'y': 71}] X: 73 Y 71
+[{'x': 84, 'y': 71}]
+X: 85 Y: 70 output: 669 eol: False
+hit: [{'x': 84, 'y': 71}] X: 84 Y 71
+[]
+[]
+[]
+[]
+[]
+[{'x': 51, 'y': 72}]
+X: 52 Y: 71 output: 881 eol: False
+hit: [{'x': 51, 'y': 72}] X: 51 Y 72
+[{'x': 66, 'y': 71}]
+X: 70 Y: 71 output: 776 eol: False
+hit: [{'x': 66, 'y': 71}] X: 66 Y 71
+valid
+[]
+[{'x': 111, 'y': 72}]
+X: 112 Y: 71 output: 526 eol: False
+hit: [{'x': 111, 'y': 72}] X: 111 Y 72
+[{'x': 3, 'y': 73}]
+X: 7 Y: 72 output: 955 eol: False
+hit: [{'x': 3, 'y': 73}] X: 3 Y 73
+[]
+[{'x': 22, 'y': 71}]
+X: 24 Y: 72 output: 566 eol: False
+hit: [{'x': 22, 'y': 71}] X: 22 Y 71
+valid
+[{'x': 27, 'y': 73}]
+X: 29 Y: 72 output: 760 eol: False
+hit: [{'x': 27, 'y': 73}] X: 27 Y 73
+[{'x': 36, 'y': 71}]
+X: 36 Y: 72 output: 760 eol: False
+hit: [{'x': 36, 'y': 71}] X: 36 Y 71
+valid
+[{'x': 47, 'y': 73}]
+X: 47 Y: 72 output: 586 eol: False
+hit: [{'x': 47, 'y': 73}] X: 47 Y 73
+[{'x': 61, 'y': 71}]
+X: 63 Y: 72 output: 560 eol: False
+hit: [{'x': 61, 'y': 71}] X: 61 Y 71
+valid
+[{'x': 73, 'y': 71}]
+X: 74 Y: 72 output: 548 eol: False
+hit: [{'x': 73, 'y': 71}] X: 73 Y 71
+valid
+[{'x': 84, 'y': 71}]
+X: 84 Y: 72 output: 335 eol: False
+hit: [{'x': 84, 'y': 71}] X: 84 Y 71
+valid
+[]
+[]
+[]
+[]
+[]
+[{'x': 8, 'y': 74}]
+X: 10 Y: 73 output: 45 eol: False
+hit: [{'x': 8, 'y': 74}] X: 8 Y 74
+[{'x': 51, 'y': 72}]
+X: 53 Y: 73 output: 798 eol: False
+hit: [{'x': 51, 'y': 72}] X: 51 Y 72
+valid
+[{'x': 56, 'y': 72}]
+X: 57 Y: 73 output: 199 eol: False
+hit: [{'x': 56, 'y': 72}] X: 56 Y 72
+[{'x': 76, 'y': 74}]
+X: 79 Y: 73 output: 77 eol: False
+hit: [{'x': 76, 'y': 74}] X: 76 Y 74
+[]
+[{'x': 111, 'y': 72}]
+X: 113 Y: 73 output: 347 eol: False
+hit: [{'x': 111, 'y': 72}] X: 111 Y 72
+valid
+[{'x': 115, 'y': 74}]
+X: 117 Y: 73 output: 207 eol: False
+hit: [{'x': 115, 'y': 74}] X: 115 Y 74
+[]
+[{'x': 3, 'y': 73}]
+X: 4 Y: 74 output: 934 eol: False
+hit: [{'x': 3, 'y': 73}] X: 3 Y 73
+valid
+[]
+[{'x': 21, 'y': 75}]
+X: 21 Y: 74 output: 841 eol: False
+hit: [{'x': 21, 'y': 75}] X: 21 Y 75
+[{'x': 27, 'y': 73}]
+X: 30 Y: 74 output: 952 eol: False
+hit: [{'x': 27, 'y': 73}] X: 27 Y 73
+valid
+[{'x': 39, 'y': 74}]
+X: 39 Y: 74 output: 266 eol: False
+hit: [{'x': 39, 'y': 74}] X: 39 Y 74
+[{'x': 47, 'y': 73}]
+X: 47 Y: 74 output: 997 eol: False
+hit: [{'x': 47, 'y': 73}] X: 47 Y 73
+valid
+[]
+[]
+[{'x': 80, 'y': 75}]
+X: 84 Y: 74 output: 179 eol: False
+hit: [{'x': 80, 'y': 75}] X: 80 Y 75
+[{'x': 122, 'y': 75}]
+X: 123 Y: 74 output: 86 eol: False
+hit: [{'x': 122, 'y': 75}] X: 122 Y 75
+[{'x': 127, 'y': 75}]
+X: 131 Y: 74 output: 759 eol: False
+hit: [{'x': 127, 'y': 75}] X: 127 Y 75
+[{'x': 135, 'y': 74}]
+X: 135 Y: 74 output: 33 eol: False
+hit: [{'x': 135, 'y': 74}] X: 135 Y 74
+[{'x': 8, 'y': 74}]
+X: 10 Y: 75 output: 576 eol: False
+hit: [{'x': 8, 'y': 74}] X: 8 Y 74
+valid
+[{'x': 33, 'y': 76}]
+X: 35 Y: 75 output: 953 eol: False
+hit: [{'x': 33, 'y': 76}] X: 33 Y 76
+[]
+[{'x': 76, 'y': 74}]
+X: 78 Y: 75 output: 22 eol: False
+hit: [{'x': 76, 'y': 74}] X: 76 Y 74
+valid
+[]
+[]
+[{'x': 115, 'y': 74}]
+X: 117 Y: 75 output: 777 eol: False
+hit: [{'x': 115, 'y': 74}] X: 115 Y 74
+valid
+[{'x': 135, 'y': 74}]
+X: 139 Y: 75 output: 371 eol: False
+hit: [{'x': 135, 'y': 74}] X: 135 Y 74
+valid
+[]
+[{'x': 21, 'y': 75}]
+X: 24 Y: 76 output: 987 eol: False
+hit: [{'x': 21, 'y': 75}] X: 21 Y 75
+valid
+[]
+[{'x': 67, 'y': 77}]
+X: 67 Y: 76 output: 904 eol: False
+hit: [{'x': 67, 'y': 77}] X: 67 Y 77
+[]
+[{'x': 80, 'y': 75}]
+X: 83 Y: 76 output: 598 eol: False
+hit: [{'x': 80, 'y': 75}] X: 80 Y 75
+valid
+[{'x': 122, 'y': 75}]
+X: 122 Y: 76 output: 635 eol: False
+hit: [{'x': 122, 'y': 75}] X: 122 Y 75
+valid
+[{'x': 127, 'y': 75}]
+X: 127 Y: 76 output: 328 eol: False
+hit: [{'x': 127, 'y': 75}] X: 127 Y 75
+valid
+[]
+[{'x': 33, 'y': 76}]
+X: 35 Y: 77 output: 270 eol: False
+hit: [{'x': 33, 'y': 76}] X: 33 Y 76
+valid
+[]
+[{'x': 98, 'y': 78}]
+X: 101 Y: 77 output: 689 eol: False
+hit: [{'x': 98, 'y': 78}] X: 98 Y 78
+[]
+[]
+[{'x': 41, 'y': 79}]
+X: 42 Y: 78 output: 790 eol: False
+hit: [{'x': 41, 'y': 79}] X: 41 Y 79
+[{'x': 45, 'y': 77}]
+X: 48 Y: 78 output: 608 eol: False
+hit: [{'x': 45, 'y': 77}] X: 45 Y 77
+[]
+[]
+[{'x': 67, 'y': 77}]
+X: 70 Y: 78 output: 250 eol: False
+hit: [{'x': 67, 'y': 77}] X: 67 Y 77
+valid
+[]
+[{'x': 84, 'y': 79}]
+X: 85 Y: 78 output: 996 eol: False
+hit: [{'x': 84, 'y': 79}] X: 84 Y 79
+[]
+[]
+[]
+[{'x': 24, 'y': 80}]
+X: 24 Y: 79 output: 604 eol: False
+hit: [{'x': 24, 'y': 80}] X: 24 Y 80
+[{'x': 51, 'y': 80}]
+X: 52 Y: 79 output: 401 eol: False
+hit: [{'x': 51, 'y': 80}] X: 51 Y 80
+[{'x': 98, 'y': 78}]
+X: 101 Y: 79 output: 622 eol: False
+hit: [{'x': 98, 'y': 78}] X: 98 Y 78
+valid
+[]
+[]
+[]
+[{'x': 33, 'y': 81}]
+X: 35 Y: 80 output: 401 eol: False
+hit: [{'x': 33, 'y': 81}] X: 33 Y 81
+[{'x': 41, 'y': 79}]
+X: 41 Y: 80 output: 802 eol: False
+hit: [{'x': 41, 'y': 79}] X: 41 Y 79
+valid
+[{'x': 67, 'y': 81}]
+X: 69 Y: 80 output: 65 eol: False
+hit: [{'x': 67, 'y': 81}] X: 67 Y 81
+[{'x': 76, 'y': 81}]
+X: 78 Y: 80 output: 166 eol: False
+hit: [{'x': 76, 'y': 81}] X: 76 Y 81
+[{'x': 84, 'y': 79}]
+X: 85 Y: 80 output: 901 eol: False
+hit: [{'x': 84, 'y': 79}] X: 84 Y 79
+valid
+[{'x': 96, 'y': 80}]
+X: 96 Y: 80 output: 196 eol: False
+hit: [{'x': 96, 'y': 80}] X: 96 Y 80
+[{'x': 111, 'y': 80}]
+X: 111 Y: 80 output: 65 eol: False
+hit: [{'x': 111, 'y': 80}] X: 111 Y 80
+[]
+[]
+[]
+[{'x': 51, 'y': 80}]
+X: 52 Y: 81 output: 529 eol: False
+hit: [{'x': 51, 'y': 80}] X: 51 Y 80
+valid
+[]
+[]
+[{'x': 96, 'y': 80}]
+X: 100 Y: 81 output: 729 eol: False
+hit: [{'x': 96, 'y': 80}] X: 96 Y 80
+valid
+[]
+[{'x': 111, 'y': 80}]
+X: 114 Y: 81 output: 95 eol: False
+hit: [{'x': 111, 'y': 80}] X: 111 Y 80
+valid
+[{'x': 120, 'y': 82}]
+X: 124 Y: 81 output: 401 eol: False
+hit: [{'x': 120, 'y': 82}] X: 120 Y 82
+[]
+[]
+[{'x': 19, 'y': 83}]
+X: 23 Y: 82 output: 775 eol: False
+hit: [{'x': 19, 'y': 83}] X: 19 Y 83
+[{'x': 33, 'y': 81}]
+X: 35 Y: 82 output: 475 eol: False
+hit: [{'x': 33, 'y': 81}] X: 33 Y 81
+valid
+[]
+[{'x': 67, 'y': 81}]
+X: 69 Y: 82 output: 379 eol: False
+hit: [{'x': 67, 'y': 81}] X: 67 Y 81
+valid
+[{'x': 76, 'y': 81}]
+X: 79 Y: 82 output: 597 eol: False
+hit: [{'x': 76, 'y': 81}] X: 76 Y 81
+valid
+[{'x': 114, 'y': 83}]
+X: 118 Y: 82 output: 527 eol: False
+hit: [{'x': 114, 'y': 83}] X: 114 Y 83
+[]
+[{'x': 19, 'y': 83}]
+X: 19 Y: 83 output: 728 eol: False
+hit: [{'x': 19, 'y': 83}] X: 19 Y 83
+valid
+[]
+[{'x': 39, 'y': 83}]
+X: 39 Y: 83 output: 619 eol: False
+hit: [{'x': 39, 'y': 83}] X: 39 Y 83
+[]
+[{'x': 61, 'y': 84}]
+X: 62 Y: 83 output: 75 eol: False
+hit: [{'x': 61, 'y': 84}] X: 61 Y 84
+[]
+[{'x': 107, 'y': 84}]
+X: 110 Y: 83 output: 912 eol: False
+hit: [{'x': 107, 'y': 84}] X: 107 Y 84
+[{'x': 120, 'y': 82}]
+X: 123 Y: 83 output: 715 eol: False
+hit: [{'x': 120, 'y': 82}] X: 120 Y 82
+valid
+[{'x': 10, 'y': 85}]
+X: 10 Y: 84 output: 981 eol: False
+hit: [{'x': 10, 'y': 85}] X: 10 Y 85
+[{'x': 10, 'y': 85}]
+X: 14 Y: 84 output: 556 eol: False
+hit: [{'x': 10, 'y': 85}] X: 10 Y 85
+valid
+[{'x': 39, 'y': 83}]
+X: 43 Y: 84 output: 389 eol: False
+hit: [{'x': 39, 'y': 83}] X: 39 Y 83
+valid
+[]
+[{'x': 76, 'y': 85}]
+X: 80 Y: 84 output: 734 eol: False
+hit: [{'x': 76, 'y': 85}] X: 76 Y 85
+[{'x': 89, 'y': 83}]
+X: 89 Y: 84 output: 862 eol: False
+hit: [{'x': 89, 'y': 83}] X: 89 Y 83
+[{'x': 89, 'y': 83}]
+X: 93 Y: 84 output: 378 eol: False
+hit: [{'x': 89, 'y': 83}] X: 89 Y 83
+valid
+[{'x': 98, 'y': 85}]
+X: 99 Y: 84 output: 412 eol: False
+hit: [{'x': 98, 'y': 85}] X: 98 Y 85
+[{'x': 133, 'y': 84}]
+X: 133 Y: 84 output: 556 eol: False
+hit: [{'x': 133, 'y': 84}] X: 133 Y 84
+[{'x': 37, 'y': 86}]
+X: 38 Y: 85 output: 213 eol: False
+hit: [{'x': 37, 'y': 86}] X: 37 Y 86
+[{'x': 47, 'y': 86}]
+X: 48 Y: 85 output: 68 eol: False
+hit: [{'x': 47, 'y': 86}] X: 47 Y 86
+[{'x': 61, 'y': 84}]
+X: 61 Y: 85 output: 696 eol: False
+hit: [{'x': 61, 'y': 84}] X: 61 Y 84
+valid
+[{'x': 107, 'y': 84}]
+X: 111 Y: 85 output: 726 eol: False
+hit: [{'x': 107, 'y': 84}] X: 107 Y 84
+valid
+[{'x': 114, 'y': 86}]
+X: 116 Y: 85 output: 678 eol: False
+hit: [{'x': 114, 'y': 86}] X: 114 Y 86
+[]
+[{'x': 133, 'y': 84}]
+X: 137 Y: 85 output: 991 eol: False
+hit: [{'x': 133, 'y': 84}] X: 133 Y 84
+valid
+[{'x': 26, 'y': 87}]
+X: 30 Y: 86 output: 349 eol: False
+hit: [{'x': 26, 'y': 87}] X: 26 Y 87
+[]
+[{'x': 76, 'y': 85}]
+X: 76 Y: 86 output: 7 eol: False
+hit: [{'x': 76, 'y': 85}] X: 76 Y 85
+valid
+[{'x': 89, 'y': 87}]
+X: 93 Y: 86 output: 313 eol: False
+hit: [{'x': 89, 'y': 87}] X: 89 Y 87
+[{'x': 98, 'y': 85}]
+X: 98 Y: 86 output: 27 eol: False
+hit: [{'x': 98, 'y': 85}] X: 98 Y 85
+valid
+[]
+[]
+[]
+[{'x': 7, 'y': 88}]
+X: 10 Y: 87 output: 386 eol: False
+hit: [{'x': 7, 'y': 88}] X: 7 Y 88
+[]
+[{'x': 37, 'y': 86}]
+X: 37 Y: 87 output: 471 eol: False
+hit: [{'x': 37, 'y': 86}] X: 37 Y 86
+valid
+[{'x': 47, 'y': 86}]
+X: 49 Y: 87 output: 126 eol: False
+hit: [{'x': 47, 'y': 86}] X: 47 Y 86
+valid
+[]
+[]
+[]
+[]
+[{'x': 114, 'y': 86}]
+X: 114 Y: 87 output: 644 eol: False
+hit: [{'x': 114, 'y': 86}] X: 114 Y 86
+valid
+[{'x': 129, 'y': 88}]
+X: 133 Y: 87 output: 844 eol: False
+hit: [{'x': 129, 'y': 88}] X: 129 Y 88
+[]
+[{'x': 26, 'y': 87}]
+X: 26 Y: 88 output: 263 eol: False
+hit: [{'x': 26, 'y': 87}] X: 26 Y 87
+valid
+[{'x': 37, 'y': 89}]
+X: 41 Y: 88 output: 457 eol: False
+hit: [{'x': 37, 'y': 89}] X: 37 Y 89
+[{'x': 89, 'y': 87}]
+X: 91 Y: 88 output: 772 eol: False
+hit: [{'x': 89, 'y': 87}] X: 89 Y 87
+valid
+[{'x': 102, 'y': 89}]
+X: 103 Y: 88 output: 803 eol: False
+hit: [{'x': 102, 'y': 89}] X: 102 Y 89
+[]
+[{'x': 7, 'y': 88}]
+X: 7 Y: 89 output: 202 eol: False
+hit: [{'x': 7, 'y': 88}] X: 7 Y 88
+valid
+[]
+[{'x': 74, 'y': 90}]
+X: 74 Y: 89 output: 362 eol: False
+hit: [{'x': 74, 'y': 90}] X: 74 Y 90
+[{'x': 93, 'y': 90}]
+X: 95 Y: 89 output: 841 eol: False
+hit: [{'x': 93, 'y': 90}] X: 93 Y 90
+[]
+[]
+[]
+[{'x': 129, 'y': 88}]
+X: 130 Y: 89 output: 116 eol: False
+hit: [{'x': 129, 'y': 88}] X: 129 Y 88
+valid
+[{'x': 37, 'y': 89}]
+X: 37 Y: 90 output: 221 eol: False
+hit: [{'x': 37, 'y': 89}] X: 37 Y 89
+valid
+[]
+[{'x': 102, 'y': 89}]
+X: 106 Y: 90 output: 508 eol: False
+hit: [{'x': 102, 'y': 89}] X: 102 Y 89
+valid
+[{'x': 132, 'y': 91}]
+X: 135 Y: 90 output: 465 eol: False
+hit: [{'x': 132, 'y': 91}] X: 132 Y 91
+[{'x': 3, 'y': 91}]
+X: 7 Y: 91 output: 667 eol: False
+hit: [{'x': 3, 'y': 91}] X: 3 Y 91
+[]
+[{'x': 14, 'y': 92}]
+X: 17 Y: 91 output: 983 eol: False
+hit: [{'x': 14, 'y': 92}] X: 14 Y 92
+[{'x': 41, 'y': 92}]
+X: 42 Y: 91 output: 905 eol: False
+hit: [{'x': 41, 'y': 92}] X: 41 Y 92
+[]
+[]
+[{'x': 74, 'y': 90}]
+X: 77 Y: 91 output: 690 eol: False
+hit: [{'x': 74, 'y': 90}] X: 74 Y 90
+valid
+[]
+[{'x': 93, 'y': 90}]
+X: 94 Y: 91 output: 999 eol: False
+hit: [{'x': 93, 'y': 90}] X: 93 Y 90
+valid
+[{'x': 108, 'y': 91}]
+X: 112 Y: 91 output: 759 eol: False
+hit: [{'x': 108, 'y': 91}] X: 108 Y 91
+[]
+[{'x': 3, 'y': 91}]
+X: 3 Y: 92 output: 905 eol: False
+hit: [{'x': 3, 'y': 91}] X: 3 Y 91
+valid
+[{'x': 30, 'y': 93}]
+X: 32 Y: 92 output: 58 eol: False
+hit: [{'x': 30, 'y': 93}] X: 30 Y 93
+[]
+[]
+[{'x': 66, 'y': 93}]
+X: 68 Y: 92 output: 305 eol: False
+hit: [{'x': 66, 'y': 93}] X: 66 Y 93
+[{'x': 83, 'y': 93}]
+X: 84 Y: 92 output: 168 eol: False
+hit: [{'x': 83, 'y': 93}] X: 83 Y 93
+[]
+[{'x': 108, 'y': 91}]
+X: 108 Y: 92 output: 25 eol: False
+hit: [{'x': 108, 'y': 91}] X: 108 Y 91
+valid
+[]
+[{'x': 132, 'y': 91}]
+X: 134 Y: 92 output: 434 eol: False
+hit: [{'x': 132, 'y': 91}] X: 132 Y 91
+valid
+[]
+[{'x': 14, 'y': 92}]
+X: 17 Y: 93 output: 217 eol: False
+hit: [{'x': 14, 'y': 92}] X: 14 Y 92
+valid
+[]
+[{'x': 41, 'y': 92}]
+X: 41 Y: 93 output: 744 eol: False
+hit: [{'x': 41, 'y': 92}] X: 41 Y 92
+valid
+[]
+[]
+[]
+[]
+[{'x': 5, 'y': 95}]
+X: 9 Y: 94 output: 241 eol: False
+hit: [{'x': 5, 'y': 95}] X: 5 Y 95
+[{'x': 30, 'y': 93}]
+X: 31 Y: 94 output: 675 eol: False
+hit: [{'x': 30, 'y': 93}] X: 30 Y 93
+valid
+[{'x': 35, 'y': 95}]
+X: 35 Y: 94 output: 156 eol: False
+hit: [{'x': 35, 'y': 95}] X: 35 Y 95
+[{'x': 51, 'y': 95}]
+X: 54 Y: 94 output: 831 eol: False
+hit: [{'x': 51, 'y': 95}] X: 51 Y 95
+[{'x': 66, 'y': 93}]
+X: 66 Y: 94 output: 800 eol: False
+hit: [{'x': 66, 'y': 93}] X: 66 Y 93
+valid
+[]
+[]
+[{'x': 83, 'y': 93}]
+X: 86 Y: 94 output: 894 eol: False
+hit: [{'x': 83, 'y': 93}] X: 83 Y 93
+valid
+[]
+[]
+[{'x': 126, 'y': 95}]
+X: 126 Y: 94 output: 655 eol: False
+hit: [{'x': 126, 'y': 95}] X: 126 Y 95
+[{'x': 131, 'y': 95}]
+X: 131 Y: 94 output: 627 eol: False
+hit: [{'x': 131, 'y': 95}] X: 131 Y 95
+[]
+[{'x': 47, 'y': 96}]
+X: 49 Y: 95 output: 790 eol: False
+hit: [{'x': 47, 'y': 96}] X: 47 Y 96
+[]
+[]
+[]
+[]
+[{'x': 131, 'y': 95}]
+X: 135 Y: 95 output: 794 eol: False
+hit: [{'x': 131, 'y': 95}] X: 131 Y 95
+valid
+[{'x': 5, 'y': 95}]
+X: 7 Y: 96 output: 401 eol: False
+hit: [{'x': 5, 'y': 95}] X: 5 Y 95
+valid
+[]
+[]
+[{'x': 28, 'y': 97}]
+X: 30 Y: 96 output: 655 eol: False
+hit: [{'x': 28, 'y': 97}] X: 28 Y 97
+[{'x': 35, 'y': 95}]
+X: 36 Y: 96 output: 351 eol: False
+hit: [{'x': 35, 'y': 95}] X: 35 Y 95
+valid
+[]
+[{'x': 51, 'y': 95}]
+X: 54 Y: 96 output: 148 eol: False
+hit: [{'x': 51, 'y': 95}] X: 51 Y 95
+valid
+[]
+[{'x': 88, 'y': 97}]
+X: 91 Y: 96 output: 594 eol: False
+hit: [{'x': 88, 'y': 97}] X: 88 Y 97
+[{'x': 102, 'y': 95}]
+X: 106 Y: 96 output: 827 eol: False
+hit: [{'x': 102, 'y': 95}] X: 102 Y 95
+[{'x': 120, 'y': 97}]
+X: 124 Y: 96 output: 166 eol: False
+hit: [{'x': 120, 'y': 97}] X: 120 Y 97
+[{'x': 126, 'y': 95}]
+X: 129 Y: 96 output: 784 eol: False
+hit: [{'x': 126, 'y': 95}] X: 126 Y 95
+valid
+[]
+[]
+[]
+[{'x': 69, 'y': 98}]
+X: 70 Y: 97 output: 87 eol: False
+hit: [{'x': 69, 'y': 98}] X: 69 Y 98
+[{'x': 95, 'y': 98}]
+X: 96 Y: 97 output: 205 eol: False
+hit: [{'x': 95, 'y': 98}] X: 95 Y 98
+[{'x': 132, 'y': 98}]
+X: 134 Y: 97 output: 224 eol: False
+hit: [{'x': 132, 'y': 98}] X: 132 Y 98
+[{'x': 15, 'y': 99}]
+X: 15 Y: 98 output: 784 eol: False
+hit: [{'x': 15, 'y': 99}] X: 15 Y 99
+[{'x': 28, 'y': 97}]
+X: 29 Y: 98 output: 88 eol: False
+hit: [{'x': 28, 'y': 97}] X: 28 Y 97
+valid
+[{'x': 51, 'y': 99}]
+X: 51 Y: 98 output: 18 eol: False
+hit: [{'x': 51, 'y': 99}] X: 51 Y 99
+[{'x': 51, 'y': 99}]
+X: 55 Y: 98 output: 977 eol: False
+hit: [{'x': 51, 'y': 99}] X: 51 Y 99
+valid
+[{'x': 88, 'y': 97}]
+X: 92 Y: 98 output: 726 eol: False
+hit: [{'x': 88, 'y': 97}] X: 88 Y 97
+valid
+[]
+[{'x': 107, 'y': 99}]
+X: 110 Y: 98 output: 575 eol: False
+hit: [{'x': 107, 'y': 99}] X: 107 Y 99
+[{'x': 120, 'y': 97}]
+X: 122 Y: 98 output: 139 eol: False
+hit: [{'x': 120, 'y': 97}] X: 120 Y 97
+valid
+[]
+[{'x': 22, 'y': 99}]
+X: 26 Y: 99 output: 304 eol: False
+hit: [{'x': 22, 'y': 99}] X: 22 Y 99
+[{'x': 31, 'y': 99}]
+X: 35 Y: 99 output: 574 eol: False
+hit: [{'x': 31, 'y': 99}] X: 31 Y 99
+[]
+[{'x': 40, 'y': 100}]
+X: 43 Y: 99 output: 397 eol: False
+hit: [{'x': 40, 'y': 100}] X: 40 Y 100
+[{'x': 59, 'y': 99}]
+X: 63 Y: 99 output: 920 eol: False
+hit: [{'x': 59, 'y': 99}] X: 59 Y 99
+[{'x': 69, 'y': 98}]
+X: 69 Y: 99 output: 376 eol: False
+hit: [{'x': 69, 'y': 98}] X: 69 Y 98
+valid
+[{'x': 95, 'y': 98}]
+X: 97 Y: 99 output: 627 eol: False
+hit: [{'x': 95, 'y': 98}] X: 95 Y 98
+valid
+[{'x': 123, 'y': 100}]
+X: 127 Y: 99 output: 208 eol: False
+hit: [{'x': 123, 'y': 100}] X: 123 Y 100
+[{'x': 132, 'y': 98}]
+X: 133 Y: 99 output: 504 eol: False
+hit: [{'x': 132, 'y': 98}] X: 132 Y 98
+valid
+[]
+[]
+[{'x': 22, 'y': 99}]
+X: 22 Y: 100 output: 280 eol: False
+hit: [{'x': 22, 'y': 99}] X: 22 Y 99
+valid
+[{'x': 31, 'y': 99}]
+X: 31 Y: 100 output: 330 eol: False
+hit: [{'x': 31, 'y': 99}] X: 31 Y 99
+valid
+[{'x': 59, 'y': 99}]
+X: 59 Y: 100 output: 257 eol: False
+hit: [{'x': 59, 'y': 99}] X: 59 Y 99
+valid
+[{'x': 73, 'y': 99}]
+X: 77 Y: 100 output: 738 eol: False
+hit: [{'x': 73, 'y': 99}] X: 73 Y 99
+[]
+[{'x': 88, 'y': 101}]
+X: 91 Y: 100 output: 453 eol: False
+hit: [{'x': 88, 'y': 101}] X: 88 Y 101
+[{'x': 107, 'y': 99}]
+X: 110 Y: 100 output: 55 eol: False
+hit: [{'x': 107, 'y': 99}] X: 107 Y 99
+valid
+[{'x': 114, 'y': 101}]
+X: 117 Y: 100 output: 971 eol: False
+hit: [{'x': 114, 'y': 101}] X: 114 Y 101
+[]
+[]
+[]
+[{'x': 40, 'y': 100}]
+X: 43 Y: 101 output: 902 eol: False
+hit: [{'x': 40, 'y': 100}] X: 40 Y 100
+valid
+[{'x': 55, 'y': 102}]
+X: 55 Y: 101 output: 837 eol: False
+hit: [{'x': 55, 'y': 102}] X: 55 Y 102
+[]
+[]
+[{'x': 96, 'y': 101}]
+X: 96 Y: 101 output: 915 eol: False
+hit: [{'x': 96, 'y': 101}] X: 96 Y 101
+[{'x': 123, 'y': 100}]
+X: 127 Y: 101 output: 158 eol: False
+hit: [{'x': 123, 'y': 100}] X: 123 Y 100
+valid
+[{'x': 29, 'y': 103}]
+X: 32 Y: 102 output: 107 eol: False
+hit: [{'x': 29, 'y': 103}] X: 29 Y 103
+[{'x': 45, 'y': 102}]
+X: 48 Y: 102 output: 92 eol: False
+hit: [{'x': 45, 'y': 102}] X: 45 Y 102
+[{'x': 55, 'y': 102}]
+X: 59 Y: 102 output: 770 eol: False
+hit: [{'x': 55, 'y': 102}] X: 55 Y 102
+valid
+[{'x': 65, 'y': 102}]
+X: 65 Y: 102 output: 991 eol: False
+hit: [{'x': 65, 'y': 102}] X: 65 Y 102
+[{'x': 88, 'y': 101}]
+X: 88 Y: 102 output: 130 eol: False
+hit: [{'x': 88, 'y': 101}] X: 88 Y 101
+valid
+[{'x': 96, 'y': 101}]
+X: 100 Y: 102 output: 256 eol: False
+hit: [{'x': 96, 'y': 101}] X: 96 Y 101
+valid
+[{'x': 106, 'y': 103}]
+X: 106 Y: 102 output: 910 eol: False
+hit: [{'x': 106, 'y': 103}] X: 106 Y 103
+[{'x': 114, 'y': 101}]
+X: 114 Y: 102 output: 550 eol: False
+hit: [{'x': 114, 'y': 101}] X: 114 Y 101
+valid
+[]
+[{'x': 135, 'y': 103}]
+X: 138 Y: 102 output: 675 eol: False
+hit: [{'x': 135, 'y': 103}] X: 135 Y 103
+[]
+[{'x': 40, 'y': 104}]
+X: 42 Y: 103 output: 516 eol: False
+hit: [{'x': 40, 'y': 104}] X: 40 Y 104
+[{'x': 49, 'y': 103}]
+X: 52 Y: 103 output: 87 eol: False
+hit: [{'x': 49, 'y': 103}] X: 49 Y 103
+[{'x': 65, 'y': 102}]
+X: 69 Y: 103 output: 147 eol: False
+hit: [{'x': 65, 'y': 102}] X: 65 Y 102
+valid
+[]
+[{'x': 118, 'y': 103}]
+X: 118 Y: 103 output: 492 eol: False
+hit: [{'x': 118, 'y': 103}] X: 118 Y 103
+[]
+[]
+[{'x': 29, 'y': 103}]
+X: 29 Y: 104 output: 450 eol: False
+hit: [{'x': 29, 'y': 103}] X: 29 Y 103
+valid
+[{'x': 49, 'y': 103}]
+X: 49 Y: 104 output: 828 eol: False
+hit: [{'x': 49, 'y': 103}] X: 49 Y 103
+valid
+[]
+[{'x': 82, 'y': 105}]
+X: 82 Y: 104 output: 514 eol: False
+hit: [{'x': 82, 'y': 105}] X: 82 Y 105
+[{'x': 106, 'y': 103}]
+X: 109 Y: 104 output: 24 eol: False
+hit: [{'x': 106, 'y': 103}] X: 106 Y 103
+valid
+[{'x': 114, 'y': 105}]
+X: 114 Y: 104 output: 361 eol: False
+hit: [{'x': 114, 'y': 105}] X: 114 Y 105
+[{'x': 118, 'y': 103}]
+X: 122 Y: 104 output: 485 eol: False
+hit: [{'x': 118, 'y': 103}] X: 118 Y 103
+valid
+[{'x': 129, 'y': 104}]
+X: 133 Y: 104 output: 504 eol: False
+hit: [{'x': 129, 'y': 104}] X: 129 Y 104
+[{'x': 135, 'y': 103}]
+X: 139 Y: 104 output: 778 eol: False
+hit: [{'x': 135, 'y': 103}] X: 135 Y 103
+valid
+[]
+[{'x': 36, 'y': 106}]
+X: 38 Y: 105 output: 486 eol: False
+hit: [{'x': 36, 'y': 106}] X: 36 Y 106
+[{'x': 40, 'y': 104}]
+X: 42 Y: 105 output: 552 eol: False
+hit: [{'x': 40, 'y': 104}] X: 40 Y 104
+valid
+[]
+[{'x': 97, 'y': 106}]
+X: 99 Y: 105 output: 576 eol: False
+hit: [{'x': 97, 'y': 106}] X: 97 Y 106
+[]
+[{'x': 114, 'y': 105}]
+X: 118 Y: 105 output: 382 eol: False
+hit: [{'x': 114, 'y': 105}] X: 114 Y 105
+valid
+[]
+[]
+[]
+[]
+[]
+[{'x': 82, 'y': 105}]
+X: 83 Y: 106 output: 344 eol: False
+hit: [{'x': 82, 'y': 105}] X: 82 Y 105
+valid
+[]
+[]
+[]
+[]
+[{'x': 36, 'y': 106}]
+X: 39 Y: 107 output: 912 eol: False
+hit: [{'x': 36, 'y': 106}] X: 36 Y 106
+valid
+[{'x': 42, 'y': 108}]
+X: 45 Y: 107 output: 593 eol: False
+hit: [{'x': 42, 'y': 108}] X: 42 Y 108
+[]
+[]
+[{'x': 96, 'y': 108}]
+X: 96 Y: 107 output: 193 eol: False
+hit: [{'x': 96, 'y': 108}] X: 96 Y 108
+[{'x': 115, 'y': 108}]
+X: 116 Y: 107 output: 676 eol: False
+hit: [{'x': 115, 'y': 108}] X: 115 Y 108
+[]
+[]
+[]
+[{'x': 83, 'y': 109}]
+X: 83 Y: 108 output: 724 eol: False
+hit: [{'x': 83, 'y': 109}] X: 83 Y 109
+[]
+[{'x': 96, 'y': 108}]
+X: 100 Y: 108 output: 879 eol: False
+hit: [{'x': 96, 'y': 108}] X: 96 Y 108
+valid
+[]
+[{'x': 42, 'y': 108}]
+X: 42 Y: 109 output: 247 eol: False
+hit: [{'x': 42, 'y': 108}] X: 42 Y 108
+valid
+[{'x': 60, 'y': 110}]
+X: 64 Y: 109 output: 381 eol: False
+hit: [{'x': 60, 'y': 110}] X: 60 Y 110
+[{'x': 83, 'y': 109}]
+X: 86 Y: 109 output: 32 eol: False
+hit: [{'x': 83, 'y': 109}] X: 83 Y 109
+valid
+[]
+[{'x': 115, 'y': 108}]
+X: 117 Y: 109 output: 735 eol: False
+hit: [{'x': 115, 'y': 108}] X: 115 Y 108
+valid
+[{'x': 132, 'y': 110}]
+X: 135 Y: 109 output: 171 eol: False
+hit: [{'x': 132, 'y': 110}] X: 132 Y 110
+[]
+[]
+[{'x': 56, 'y': 111}]
+X: 56 Y: 110 output: 70 eol: False
+hit: [{'x': 56, 'y': 111}] X: 56 Y 111
+[]
+[{'x': 96, 'y': 111}]
+X: 98 Y: 110 output: 363 eol: False
+hit: [{'x': 96, 'y': 111}] X: 96 Y 111
+[]
+[{'x': 126, 'y': 111}]
+X: 126 Y: 110 output: 764 eol: False
+hit: [{'x': 126, 'y': 111}] X: 126 Y 111
+[{'x': 126, 'y': 111}]
+X: 130 Y: 110 output: 792 eol: False
+hit: [{'x': 126, 'y': 111}] X: 126 Y 111
+valid
+[{'x': 4, 'y': 112}]
+X: 4 Y: 111 output: 250 eol: False
+hit: [{'x': 4, 'y': 112}] X: 4 Y 112
+[{'x': 22, 'y': 111}]
+X: 26 Y: 111 output: 471 eol: False
+hit: [{'x': 22, 'y': 111}] X: 22 Y 111
+[{'x': 42, 'y': 112}]
+X: 46 Y: 111 output: 975 eol: False
+hit: [{'x': 42, 'y': 112}] X: 42 Y 112
+[{'x': 60, 'y': 110}]
+X: 61 Y: 111 output: 42 eol: False
+hit: [{'x': 60, 'y': 110}] X: 60 Y 110
+valid
+[{'x': 66, 'y': 111}]
+X: 66 Y: 111 output: 13 eol: False
+hit: [{'x': 66, 'y': 111}] X: 66 Y 111
+[{'x': 66, 'y': 111}]
+X: 70 Y: 111 output: 687 eol: False
+hit: [{'x': 66, 'y': 111}] X: 66 Y 111
+valid
+[{'x': 82, 'y': 112}]
+X: 86 Y: 111 output: 934 eol: False
+hit: [{'x': 82, 'y': 112}] X: 82 Y 112
+[{'x': 88, 'y': 112}]
+X: 92 Y: 111 output: 181 eol: False
+hit: [{'x': 88, 'y': 112}] X: 88 Y 112
+[]
+[]
+[]
+[{'x': 132, 'y': 110}]
+X: 135 Y: 111 output: 678 eol: False
+hit: [{'x': 132, 'y': 110}] X: 132 Y 110
+valid
+[{'x': 13, 'y': 113}]
+X: 15 Y: 112 output: 714 eol: False
+hit: [{'x': 13, 'y': 113}] X: 13 Y 113
+[]
+[{'x': 27, 'y': 113}]
+X: 31 Y: 112 output: 245 eol: False
+hit: [{'x': 27, 'y': 113}] X: 27 Y 113
+[]
+[{'x': 56, 'y': 111}]
+X: 56 Y: 112 output: 251 eol: False
+hit: [{'x': 56, 'y': 111}] X: 56 Y 111
+valid
+[{'x': 82, 'y': 112}]
+X: 82 Y: 112 output: 116 eol: False
+hit: [{'x': 82, 'y': 112}] X: 82 Y 112
+valid
+[{'x': 96, 'y': 111}]
+X: 100 Y: 112 output: 269 eol: False
+hit: [{'x': 96, 'y': 111}] X: 96 Y 111
+valid
+[]
+[{'x': 4, 'y': 112}]
+X: 7 Y: 113 output: 387 eol: False
+hit: [{'x': 4, 'y': 112}] X: 4 Y 112
+valid
+[{'x': 27, 'y': 113}]
+X: 27 Y: 113 output: 498 eol: False
+hit: [{'x': 27, 'y': 113}] X: 27 Y 113
+valid
+[{'x': 42, 'y': 112}]
+X: 43 Y: 113 output: 519 eol: False
+hit: [{'x': 42, 'y': 112}] X: 42 Y 112
+valid
+[{'x': 88, 'y': 112}]
+X: 89 Y: 113 output: 600 eol: False
+hit: [{'x': 88, 'y': 112}] X: 88 Y 112
+valid
+[]
+[]
+[]
+[]
+[]
+[{'x': 13, 'y': 113}]
+X: 13 Y: 114 output: 42 eol: False
+hit: [{'x': 13, 'y': 113}] X: 13 Y 113
+valid
+[]
+[{'x': 32, 'y': 115}]
+X: 36 Y: 114 output: 776 eol: False
+hit: [{'x': 32, 'y': 115}] X: 32 Y 115
+[]
+[]
+[]
+[]
+[{'x': 76, 'y': 115}]
+X: 77 Y: 114 output: 267 eol: False
+hit: [{'x': 76, 'y': 115}] X: 76 Y 115
+[{'x': 103, 'y': 115}]
+X: 103 Y: 114 output: 102 eol: False
+hit: [{'x': 103, 'y': 115}] X: 103 Y 115
+[{'x': 116, 'y': 115}]
+X: 117 Y: 114 output: 250 eol: False
+hit: [{'x': 116, 'y': 115}] X: 116 Y 115
+[{'x': 130, 'y': 115}]
+X: 132 Y: 114 output: 289 eol: False
+hit: [{'x': 130, 'y': 115}] X: 130 Y 115
+[{'x': 135, 'y': 114}]
+X: 135 Y: 114 output: 33 eol: False
+hit: [{'x': 135, 'y': 114}] X: 135 Y 114
+[]
+[{'x': 32, 'y': 115}]
+X: 32 Y: 115 output: 793 eol: False
+hit: [{'x': 32, 'y': 115}] X: 32 Y 115
+valid
+[]
+[{'x': 90, 'y': 116}]
+X: 90 Y: 115 output: 81 eol: False
+hit: [{'x': 90, 'y': 116}] X: 90 Y 116
+[{'x': 103, 'y': 115}]
+X: 107 Y: 115 output: 996 eol: False
+hit: [{'x': 103, 'y': 115}] X: 103 Y 115
+valid
+[{'x': 135, 'y': 114}]
+X: 139 Y: 115 output: 713 eol: False
+hit: [{'x': 135, 'y': 114}] X: 135 Y 114
+valid
+[{'x': 12, 'y': 117}]
+X: 13 Y: 116 output: 92 eol: False
+hit: [{'x': 12, 'y': 117}] X: 12 Y 117
+[{'x': 53, 'y': 117}]
+X: 57 Y: 116 output: 708 eol: False
+hit: [{'x': 53, 'y': 117}] X: 53 Y 117
+[{'x': 76, 'y': 115}]
+X: 76 Y: 116 output: 799 eol: False
+hit: [{'x': 76, 'y': 115}] X: 76 Y 115
+valid
+[]
+[]
+[{'x': 113, 'y': 117}]
+X: 115 Y: 116 output: 779 eol: False
+hit: [{'x': 113, 'y': 117}] X: 113 Y 117
+[{'x': 130, 'y': 115}]
+X: 134 Y: 116 output: 439 eol: False
+hit: [{'x': 130, 'y': 115}] X: 130 Y 115
+valid
+[]
+[]
+[{'x': 28, 'y': 118}]
+X: 30 Y: 117 output: 555 eol: False
+hit: [{'x': 28, 'y': 118}] X: 28 Y 118
+[{'x': 35, 'y': 116}]
+X: 35 Y: 117 output: 471 eol: False
+hit: [{'x': 35, 'y': 116}] X: 35 Y 116
+[{'x': 35, 'y': 116}]
+X: 39 Y: 117 output: 707 eol: False
+hit: [{'x': 35, 'y': 116}] X: 35 Y 116
+valid
+[]
+[]
+[{'x': 90, 'y': 116}]
+X: 94 Y: 117 output: 797 eol: False
+hit: [{'x': 90, 'y': 116}] X: 90 Y 116
+valid
+[{'x': 101, 'y': 118}]
+X: 105 Y: 117 output: 374 eol: False
+hit: [{'x': 101, 'y': 118}] X: 101 Y 118
+[]
+[{'x': 12, 'y': 117}]
+X: 15 Y: 118 output: 284 eol: False
+hit: [{'x': 12, 'y': 117}] X: 12 Y 117
+valid
+[]
+[{'x': 53, 'y': 117}]
+X: 53 Y: 118 output: 378 eol: False
+hit: [{'x': 53, 'y': 117}] X: 53 Y 117
+valid
+[]
+[{'x': 88, 'y': 119}]
+X: 88 Y: 118 output: 694 eol: False
+hit: [{'x': 88, 'y': 119}] X: 88 Y 119
+[{'x': 97, 'y': 119}]
+X: 98 Y: 118 output: 709 eol: False
+hit: [{'x': 97, 'y': 119}] X: 97 Y 119
+[{'x': 113, 'y': 117}]
+X: 117 Y: 118 output: 499 eol: False
+hit: [{'x': 113, 'y': 117}] X: 113 Y 117
+valid
+[]
+[{'x': 3, 'y': 120}]
+X: 5 Y: 119 output: 931 eol: False
+hit: [{'x': 3, 'y': 120}] X: 3 Y 120
+[]
+[]
+[{'x': 25, 'y': 120}]
+X: 27 Y: 119 output: 805 eol: False
+hit: [{'x': 25, 'y': 120}] X: 25 Y 120
+[]
+[]
+[{'x': 79, 'y': 118}]
+X: 79 Y: 119 output: 887 eol: False
+hit: [{'x': 79, 'y': 118}] X: 79 Y 118
+[{'x': 79, 'y': 118}]
+X: 83 Y: 119 output: 127 eol: False
+hit: [{'x': 79, 'y': 118}] X: 79 Y 118
+valid
+[{'x': 101, 'y': 118}]
+X: 104 Y: 119 output: 221 eol: False
+hit: [{'x': 101, 'y': 118}] X: 101 Y 118
+valid
+[{'x': 12, 'y': 121}]
+X: 14 Y: 120 output: 105 eol: False
+hit: [{'x': 12, 'y': 121}] X: 12 Y 121
+[{'x': 30, 'y': 121}]
+X: 33 Y: 120 output: 141 eol: False
+hit: [{'x': 30, 'y': 121}] X: 30 Y 121
+[{'x': 56, 'y': 121}]
+X: 60 Y: 120 output: 186 eol: False
+hit: [{'x': 56, 'y': 121}] X: 56 Y 121
+[{'x': 88, 'y': 119}]
+X: 92 Y: 120 output: 134 eol: False
+hit: [{'x': 88, 'y': 119}] X: 88 Y 119
+valid
+[{'x': 97, 'y': 119}]
+X: 99 Y: 120 output: 408 eol: False
+hit: [{'x': 97, 'y': 119}] X: 97 Y 119
+valid
+[{'x': 105, 'y': 120}]
+X: 109 Y: 120 output: 230 eol: False
+hit: [{'x': 105, 'y': 120}] X: 105 Y 120
+[]
+[{'x': 119, 'y': 121}]
+X: 120 Y: 120 output: 767 eol: False
+hit: [{'x': 119, 'y': 121}] X: 119 Y 121
+[]
+[]
+[{'x': 3, 'y': 120}]
+X: 5 Y: 121 output: 619 eol: False
+hit: [{'x': 3, 'y': 120}] X: 3 Y 120
+valid
+[]
+[{'x': 25, 'y': 120}]
+X: 29 Y: 121 output: 903 eol: False
+hit: [{'x': 25, 'y': 120}] X: 25 Y 120
+valid
+[{'x': 37, 'y': 122}]
+X: 41 Y: 121 output: 594 eol: False
+hit: [{'x': 37, 'y': 122}] X: 37 Y 122
+[{'x': 56, 'y': 121}]
+X: 56 Y: 121 output: 446 eol: False
+hit: [{'x': 56, 'y': 121}] X: 56 Y 121
+valid
+[]
+[{'x': 105, 'y': 120}]
+X: 105 Y: 121 output: 108 eol: False
+hit: [{'x': 105, 'y': 120}] X: 105 Y 120
+valid
+[{'x': 134, 'y': 122}]
+X: 138 Y: 121 output: 876 eol: False
+hit: [{'x': 134, 'y': 122}] X: 134 Y 122
+[{'x': 12, 'y': 121}]
+X: 15 Y: 122 output: 204 eol: False
+hit: [{'x': 12, 'y': 121}] X: 12 Y 121
+valid
+[]
+[{'x': 30, 'y': 121}]
+X: 33 Y: 122 output: 285 eol: False
+hit: [{'x': 30, 'y': 121}] X: 30 Y 121
+valid
+[{'x': 37, 'y': 122}]
+X: 37 Y: 122 output: 74 eol: False
+hit: [{'x': 37, 'y': 122}] X: 37 Y 122
+valid
+[{'x': 46, 'y': 123}]
+X: 46 Y: 122 output: 898 eol: False
+hit: [{'x': 46, 'y': 123}] X: 46 Y 123
+[{'x': 49, 'y': 123}]
+X: 51 Y: 122 output: 373 eol: False
+hit: [{'x': 49, 'y': 123}] X: 49 Y 123
+[{'x': 64, 'y': 121}]
+X: 64 Y: 122 output: 243 eol: False
+hit: [{'x': 64, 'y': 121}] X: 64 Y 121
+[]
+[{'x': 77, 'y': 123}]
+X: 81 Y: 122 output: 616 eol: False
+hit: [{'x': 77, 'y': 123}] X: 77 Y 123
+[{'x': 86, 'y': 123}]
+X: 89 Y: 122 output: 242 eol: False
+hit: [{'x': 86, 'y': 123}] X: 86 Y 123
+[{'x': 99, 'y': 123}]
+X: 100 Y: 122 output: 682 eol: False
+hit: [{'x': 99, 'y': 123}] X: 99 Y 123
+[{'x': 119, 'y': 121}]
+X: 121 Y: 122 output: 923 eol: False
+hit: [{'x': 119, 'y': 121}] X: 119 Y 121
+valid
+[{'x': 122, 'y': 123}]
+X: 126 Y: 122 output: 582 eol: False
+hit: [{'x': 122, 'y': 123}] X: 122 Y 123
+[{'x': 134, 'y': 122}]
+X: 134 Y: 122 output: 508 eol: False
+hit: [{'x': 134, 'y': 122}] X: 134 Y 122
+valid
+[]
+[{'x': 103, 'y': 124}]
+X: 104 Y: 123 output: 807 eol: False
+hit: [{'x': 103, 'y': 124}] X: 103 Y 124
+[]
+[]
+[{'x': 21, 'y': 125}]
+X: 25 Y: 124 output: 416 eol: False
+hit: [{'x': 21, 'y': 125}] X: 21 Y 125
+[{'x': 31, 'y': 125}]
+X: 34 Y: 124 output: 851 eol: False
+hit: [{'x': 31, 'y': 125}] X: 31 Y 125
+[]
+[{'x': 46, 'y': 123}]
+X: 46 Y: 124 output: 29 eol: False
+hit: [{'x': 46, 'y': 123}] X: 46 Y 123
+valid
+[{'x': 49, 'y': 123}]
+X: 51 Y: 124 output: 327 eol: False
+hit: [{'x': 49, 'y': 123}] X: 49 Y 123
+valid
+[{'x': 52, 'y': 125}]
+X: 55 Y: 124 output: 782 eol: False
+hit: [{'x': 52, 'y': 125}] X: 52 Y 125
+[{'x': 72, 'y': 125}]
+X: 72 Y: 124 output: 706 eol: False
+hit: [{'x': 72, 'y': 125}] X: 72 Y 125
+[{'x': 77, 'y': 123}]
+X: 80 Y: 124 output: 529 eol: False
+hit: [{'x': 77, 'y': 123}] X: 77 Y 123
+valid
+[]
+[{'x': 86, 'y': 123}]
+X: 89 Y: 124 output: 379 eol: False
+hit: [{'x': 86, 'y': 123}] X: 86 Y 123
+valid
+[{'x': 99, 'y': 123}]
+X: 100 Y: 124 output: 939 eol: False
+hit: [{'x': 99, 'y': 123}] X: 99 Y 123
+valid
+[{'x': 114, 'y': 123}]
+X: 114 Y: 124 output: 902 eol: False
+hit: [{'x': 114, 'y': 123}] X: 114 Y 123
+[{'x': 114, 'y': 123}]
+X: 118 Y: 124 output: 243 eol: False
+hit: [{'x': 114, 'y': 123}] X: 114 Y 123
+valid
+[{'x': 122, 'y': 123}]
+X: 123 Y: 124 output: 703 eol: False
+hit: [{'x': 122, 'y': 123}] X: 122 Y 123
+valid
+[]
+[]
+[{'x': 91, 'y': 126}]
+X: 95 Y: 125 output: 136 eol: False
+hit: [{'x': 91, 'y': 126}] X: 91 Y 126
+[{'x': 103, 'y': 124}]
+X: 105 Y: 125 output: 944 eol: False
+hit: [{'x': 103, 'y': 124}] X: 103 Y 124
+valid
+[]
+[]
+[{'x': 21, 'y': 125}]
+X: 24 Y: 126 output: 40 eol: False
+hit: [{'x': 21, 'y': 125}] X: 21 Y 125
+valid
+[]
+[{'x': 31, 'y': 125}]
+X: 35 Y: 126 output: 222 eol: False
+hit: [{'x': 31, 'y': 125}] X: 31 Y 125
+valid
+[]
+[{'x': 52, 'y': 125}]
+X: 53 Y: 126 output: 408 eol: False
+hit: [{'x': 52, 'y': 125}] X: 52 Y 125
+valid
+[{'x': 60, 'y': 125}]
+X: 60 Y: 126 output: 995 eol: False
+hit: [{'x': 60, 'y': 125}] X: 60 Y 125
+[]
+[{'x': 72, 'y': 125}]
+X: 76 Y: 126 output: 708 eol: False
+hit: [{'x': 72, 'y': 125}] X: 72 Y 125
+valid
+[]
+[{'x': 91, 'y': 126}]
+X: 91 Y: 126 output: 770 eol: False
+hit: [{'x': 91, 'y': 126}] X: 91 Y 126
+valid
+[{'x': 96, 'y': 126}]
+X: 100 Y: 126 output: 492 eol: False
+hit: [{'x': 96, 'y': 126}] X: 96 Y 126
+[]
+[]
+[{'x': 5, 'y': 128}]
+X: 8 Y: 127 output: 759 eol: False
+hit: [{'x': 5, 'y': 128}] X: 5 Y 128
+[]
+[{'x': 96, 'y': 126}]
+X: 96 Y: 127 output: 517 eol: False
+hit: [{'x': 96, 'y': 126}] X: 96 Y 126
+valid
+[{'x': 108, 'y': 128}]
+X: 111 Y: 127 output: 874 eol: False
+hit: [{'x': 108, 'y': 128}] X: 108 Y 128
+[]
+[]
+[{'x': 69, 'y': 129}]
+X: 69 Y: 128 output: 129 eol: False
+hit: [{'x': 69, 'y': 129}] X: 69 Y 129
+[]
+[]
+[]
+[]
+[{'x': 5, 'y': 128}]
+X: 9 Y: 129 output: 769 eol: False
+hit: [{'x': 5, 'y': 128}] X: 5 Y 128
+valid
+[]
+[]
+[{'x': 27, 'y': 130}]
+X: 31 Y: 129 output: 198 eol: False
+hit: [{'x': 27, 'y': 130}] X: 27 Y 130
+[{'x': 36, 'y': 130}]
+X: 36 Y: 129 output: 44 eol: False
+hit: [{'x': 36, 'y': 130}] X: 36 Y 130
+[{'x': 36, 'y': 130}]
+X: 40 Y: 129 output: 102 eol: False
+hit: [{'x': 36, 'y': 130}] X: 36 Y 130
+valid
+[]
+[]
+[]
+[{'x': 69, 'y': 129}]
+X: 73 Y: 129 output: 874 eol: False
+hit: [{'x': 69, 'y': 129}] X: 69 Y 129
+valid
+[]
+[{'x': 108, 'y': 128}]
+X: 112 Y: 129 output: 941 eol: False
+hit: [{'x': 108, 'y': 128}] X: 108 Y 128
+valid
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[{'x': 66, 'y': 130}]
+X: 66 Y: 131 output: 283 eol: False
+hit: [{'x': 66, 'y': 130}] X: 66 Y 130
+[{'x': 66, 'y': 130}]
+X: 70 Y: 131 output: 328 eol: False
+hit: [{'x': 66, 'y': 130}] X: 66 Y 130
+valid
+[]
+[]
+[]
+[]
+[{'x': 34, 'y': 133}]
+X: 34 Y: 132 output: 984 eol: False
+hit: [{'x': 34, 'y': 133}] X: 34 Y 133
+[{'x': 48, 'y': 133}]
+X: 49 Y: 132 output: 799 eol: False
+hit: [{'x': 48, 'y': 133}] X: 48 Y 133
+[{'x': 50, 'y': 133}]
+X: 53 Y: 132 output: 210 eol: False
+hit: [{'x': 50, 'y': 133}] X: 50 Y 133
+[]
+[]
+[{'x': 76, 'y': 133}]
+X: 78 Y: 132 output: 29 eol: False
+hit: [{'x': 76, 'y': 133}] X: 76 Y 133
+[{'x': 88, 'y': 133}]
+X: 90 Y: 132 output: 99 eol: False
+hit: [{'x': 88, 'y': 133}] X: 88 Y 133
+[]
+[]
+[{'x': 20, 'y': 134}]
+X: 20 Y: 133 output: 320 eol: False
+hit: [{'x': 20, 'y': 134}] X: 20 Y 134
+[]
+[{'x': 68, 'y': 134}]
+X: 69 Y: 133 output: 2 eol: False
+hit: [{'x': 68, 'y': 134}] X: 68 Y 134
+[]
+[{'x': 97, 'y': 133}]
+X: 97 Y: 133 output: 356 eol: False
+hit: [{'x': 97, 'y': 133}] X: 97 Y 133
+[{'x': 107, 'y': 134}]
+X: 107 Y: 133 output: 313 eol: False
+hit: [{'x': 107, 'y': 134}] X: 107 Y 134
+[{'x': 107, 'y': 134}]
+X: 111 Y: 133 output: 994 eol: False
+hit: [{'x': 107, 'y': 134}] X: 107 Y 134
+valid
+[]
+[{'x': 118, 'y': 132}]
+X: 120 Y: 133 output: 984 eol: False
+hit: [{'x': 118, 'y': 132}] X: 118 Y 132
+[]
+[{'x': 34, 'y': 133}]
+X: 38 Y: 134 output: 473 eol: False
+hit: [{'x': 34, 'y': 133}] X: 34 Y 133
+valid
+[{'x': 48, 'y': 133}]
+X: 48 Y: 134 output: 789 eol: False
+hit: [{'x': 48, 'y': 133}] X: 48 Y 133
+valid
+[{'x': 76, 'y': 133}]
+X: 79 Y: 134 output: 902 eol: False
+hit: [{'x': 76, 'y': 133}] X: 76 Y 133
+valid
+[{'x': 88, 'y': 133}]
+X: 88 Y: 134 output: 987 eol: False
+hit: [{'x': 88, 'y': 133}] X: 88 Y 133
+valid
+[{'x': 97, 'y': 133}]
+X: 101 Y: 134 output: 179 eol: False
+hit: [{'x': 97, 'y': 133}] X: 97 Y 133
+valid
+[{'x': 126, 'y': 135}]
+X: 128 Y: 134 output: 382 eol: False
+hit: [{'x': 126, 'y': 135}] X: 126 Y 135
+[{'x': 132, 'y': 135}]
+X: 133 Y: 134 output: 519 eol: False
+hit: [{'x': 132, 'y': 135}] X: 132 Y 135
+[]
+[]
+[{'x': 68, 'y': 134}]
+X: 71 Y: 135 output: 153 eol: False
+hit: [{'x': 68, 'y': 134}] X: 68 Y 134
+valid
+[{'x': 93, 'y': 135}]
+X: 93 Y: 135 output: 725 eol: False
+hit: [{'x': 93, 'y': 135}] X: 93 Y 135
+[{'x': 5, 'y': 137}]
+X: 6 Y: 136 output: 358 eol: False
+hit: [{'x': 5, 'y': 137}] X: 5 Y 137
+[{'x': 9, 'y': 137}]
+X: 12 Y: 136 output: 527 eol: False
+hit: [{'x': 9, 'y': 137}] X: 9 Y 137
+[]
+[{'x': 22, 'y': 135}]
+X: 22 Y: 136 output: 746 eol: False
+hit: [{'x': 22, 'y': 135}] X: 22 Y 135
+[{'x': 22, 'y': 135}]
+X: 26 Y: 136 output: 978 eol: False
+hit: [{'x': 22, 'y': 135}] X: 22 Y 135
+valid
+[]
+[{'x': 76, 'y': 137}]
+X: 80 Y: 136 output: 798 eol: False
+hit: [{'x': 76, 'y': 137}] X: 76 Y 137
+[]
+[{'x': 93, 'y': 135}]
+X: 96 Y: 136 output: 86 eol: False
+hit: [{'x': 93, 'y': 135}] X: 93 Y 135
+valid
+[{'x': 105, 'y': 136}]
+X: 109 Y: 136 output: 478 eol: False
+hit: [{'x': 105, 'y': 136}] X: 105 Y 136
+[{'x': 115, 'y': 137}]
+X: 119 Y: 136 output: 888 eol: False
+hit: [{'x': 115, 'y': 137}] X: 115 Y 137
+[{'x': 126, 'y': 135}]
+X: 126 Y: 136 output: 949 eol: False
+hit: [{'x': 126, 'y': 135}] X: 126 Y 135
+valid
+[]
+[{'x': 132, 'y': 135}]
+X: 136 Y: 136 output: 807 eol: False
+hit: [{'x': 132, 'y': 135}] X: 132 Y 135
+valid
+[{'x': 35, 'y': 137}]
+X: 35 Y: 137 output: 743 eol: False
+hit: [{'x': 35, 'y': 137}] X: 35 Y 137
+[{'x': 35, 'y': 137}]
+X: 39 Y: 137 output: 715 eol: False
+hit: [{'x': 35, 'y': 137}] X: 35 Y 137
+valid
+[]
+[{'x': 46, 'y': 136}]
+X: 49 Y: 137 output: 56 eol: False
+hit: [{'x': 46, 'y': 136}] X: 46 Y 136
+[]
+[]
+[{'x': 105, 'y': 136}]
+X: 105 Y: 137 output: 802 eol: False
+hit: [{'x': 105, 'y': 136}] X: 105 Y 136
+valid
+[{'x': 115, 'y': 137}]
+X: 115 Y: 137 output: 776 eol: False
+hit: [{'x': 115, 'y': 137}] X: 115 Y 137
+valid
+[{'x': 5, 'y': 137}]
+X: 6 Y: 138 output: 26 eol: False
+hit: [{'x': 5, 'y': 137}] X: 5 Y 137
+valid
+[{'x': 9, 'y': 137}]
+X: 10 Y: 138 output: 743 eol: False
+hit: [{'x': 9, 'y': 137}] X: 9 Y 137
+valid
+[]
+[{'x': 76, 'y': 137}]
+X: 76 Y: 138 output: 971 eol: False
+hit: [{'x': 76, 'y': 137}] X: 76 Y 137
+valid
+[]
+[]
+[]
+[]
+[]
+[{'x': 118, 'y': 138}]
+X: 118 Y: 139 output: 991 eol: False
+hit: [{'x': 118, 'y': 138}] X: 118 Y 138
+[{'x': 118, 'y': 138}]
+X: 122 Y: 139 output: 702 eol: False
+hit: [{'x': 118, 'y': 138}] X: 118 Y 138
+valid
+[]
+[]
+[]
+{'gears': [206, 102], 'valid': True}
+21012
+{'gears': [449, 140], 'valid': True}
+62860
+{'gears': [138, 301], 'valid': True}
+41538
+{'gears': [723, 877], 'valid': True}
+634071
+{'gears': [687, 380], 'valid': True}
+261060
+{'gears': [692, 263], 'valid': True}
+181996
+{'gears': [814, 483], 'valid': True}
+393162
+{'gears': [489, 551], 'valid': True}
+269439
+{'gears': [733, 758], 'valid': True}
+555614
+{'gears': [154, 779], 'valid': True}
+119966
+{'gears': [674, 405], 'valid': True}
+272970
+{'gears': [503, 422], 'valid': True}
+212266
+{'gears': [591, 840], 'valid': True}
+496440
+{'gears': [676, 167], 'valid': True}
+112892
+{'gears': [410, 147], 'valid': True}
+60270
+{'gears': [146, 486], 'valid': True}
+70956
+{'gears': [636, 993], 'valid': True}
+631548
+{'gears': [190, 692], 'valid': True}
+131480
+{'gears': [498, 305], 'valid': True}
+151890
+{'gears': [364, 681], 'valid': True}
+247884
+{'gears': [245, 524], 'valid': True}
+128380
+{'gears': [128, 417], 'valid': True}
+53376
+{'gears': [7], 'valid': False}
+{'gears': [978, 160], 'valid': True}
+156480
+{'gears': [905, 343], 'valid': True}
+310415
+{'gears': [615, 257], 'valid': True}
+158055
+{'gears': [354, 126], 'valid': True}
+44604
+{'gears': [424, 68], 'valid': True}
+28832
+{'gears': [518, 64], 'valid': True}
+33152
+{'gears': [96, 48], 'valid': True}
+4608
+{'gears': [92, 235], 'valid': True}
+21620
+{'gears': [441, 681], 'valid': True}
+300321
+{'gears': [2, 535], 'valid': True}
+1070
+{'gears': [318, 72], 'valid': True}
+22896
+{'gears': [716, 141], 'valid': True}
+100956
+{'gears': [409, 342], 'valid': True}
+139878
+{'gears': [638, 639], 'valid': True}
+407682
+{'gears': [367, 741], 'valid': True}
+271947
+{'gears': [802, 784], 'valid': True}
+628768
+{'gears': [401, 773], 'valid': True}
+309973
+{'gears': [526, 910], 'valid': True}
+478660
+{'gears': [745, 140], 'valid': True}
+104300
+{'gears': [327], 'valid': False}
+{'gears': [531, 994], 'valid': True}
+527814
+{'gears': [566, 436], 'valid': True}
+246776
+{'gears': [37, 311], 'valid': True}
+11507
+{'gears': [307, 317], 'valid': True}
+97319
+{'gears': [334, 467], 'valid': True}
+155978
+{'gears': [553, 620], 'valid': True}
+342860
+{'gears': [62, 527], 'valid': True}
+32674
+{'gears': [795, 859], 'valid': True}
+682905
+{'gears': [968, 979], 'valid': True}
+947672
+{'gears': [222, 514], 'valid': True}
+114108
+{'gears': [448, 30], 'valid': True}
+13440
+{'gears': [702, 888], 'valid': True}
+623376
+{'gears': [881, 176], 'valid': True}
+155056
+{'gears': [630], 'valid': False}
+{'gears': [360, 14], 'valid': True}
+5040
+{'gears': [586, 688], 'valid': True}
+403168
+{'gears': [200, 300], 'valid': True}
+60000
+{'gears': [460, 508], 'valid': True}
+233680
+{'gears': [503, 556], 'valid': True}
+279668
+{'gears': [460, 601], 'valid': True}
+276460
+{'gears': [677, 80], 'valid': True}
+54160
+{'gears': [334, 337], 'valid': True}
+112558
+{'gears': [913, 586], 'valid': True}
+535018
+{'gears': [342, 126], 'valid': True}
+43092
+{'gears': [18, 294], 'valid': True}
+5292
+{'gears': [259, 935], 'valid': True}
+242165
+{'gears': [250, 526], 'valid': True}
+131500
+{'gears': [3, 41], 'valid': True}
+123
+{'gears': [5, 651], 'valid': True}
+3255
+{'gears': [235, 791], 'valid': True}
+185885
+{'gears': [34, 887], 'valid': True}
+30158
+{'gears': [651], 'valid': False}
+{'gears': [530, 693], 'valid': True}
+367290
+{'gears': [734, 610], 'valid': True}
+447740
+{'gears': [381, 867], 'valid': True}
+330327
+{'gears': [881, 553], 'valid': True}
+487193
+{'gears': [491, 714], 'valid': True}
+350574
+{'gears': [589, 614], 'valid': True}
+361646
+{'gears': [774, 775], 'valid': True}
+599850
+{'gears': [345, 56], 'valid': True}
+19320
+{'gears': [658, 870], 'valid': True}
+572460
+{'gears': [895, 87], 'valid': True}
+77865
+{'gears': [13], 'valid': False}
+{'gears': [276, 951], 'valid': True}
+262476
+{'gears': [560, 167], 'valid': True}
+93520
+{'gears': [950, 28], 'valid': True}
+26600
+{'gears': [761], 'valid': False}
+{'gears': [825, 634], 'valid': True}
+523050
+{'gears': [495, 887], 'valid': True}
+439065
+{'gears': [689, 698], 'valid': True}
+480922
+{'gears': [131, 745], 'valid': True}
+97595
+{'gears': [993, 503], 'valid': True}
+499479
+{'gears': [603, 476], 'valid': True}
+287028
+{'gears': [720], 'valid': False}
+{'gears': [221, 59], 'valid': True}
+13039
+{'gears': [457, 253], 'valid': True}
+115621
+{'gears': [539, 103], 'valid': True}
+55517
+{'gears': [116, 630], 'valid': True}
+73080
+{'gears': [911, 690], 'valid': True}
+628590
+{'gears': [774, 290], 'valid': True}
+224460
+{'gears': [674, 693], 'valid': True}
+467082
+{'gears': [542, 499], 'valid': True}
+270458
+{'gears': [320, 28], 'valid': True}
+8960
+{'gears': [196, 191], 'valid': True}
+37436
+{'gears': [586, 340], 'valid': True}
+199240
+{'gears': [360, 776], 'valid': True}
+279360
+{'gears': [51], 'valid': False}
+{'gears': [680, 246], 'valid': True}
+167280
+{'gears': [102, 719], 'valid': True}
+73338
+{'gears': [112, 428], 'valid': True}
+47936
+{'gears': [190, 663], 'valid': True}
+125970
+{'gears': [729, 839], 'valid': True}
+611631
+{'gears': [130, 683], 'valid': True}
+88790
+{'gears': [681, 889], 'valid': True}
+605409
+{'gears': [564, 55], 'valid': True}
+31020
+{'gears': [226, 923], 'valid': True}
+208598
+{'gears': [357, 491], 'valid': True}
+175287
+{'gears': [821, 675], 'valid': True}
+554175
+{'gears': [569, 574], 'valid': True}
+326606
+{'gears': [491, 301], 'valid': True}
+147791
+{'gears': [614, 872], 'valid': True}
+535408
+{'gears': [937, 889], 'valid': True}
+832993
+{'gears': [22, 865], 'valid': True}
+19030
+{'gears': [378], 'valid': False}
+{'gears': [525, 954], 'valid': True}
+500850
+{'gears': [162, 615], 'valid': True}
+99630
+{'gears': [871, 556], 'valid': True}
+484276
+{'gears': [679, 321], 'valid': True}
+217959
+{'gears': [857, 828], 'valid': True}
+709596
+{'gears': [630, 745], 'valid': True}
+469350
+{'gears': [130, 154], 'valid': True}
+20020
+{'gears': [235, 501], 'valid': True}
+117735
+{'gears': [609, 212], 'valid': True}
+129108
+{'gears': [192, 381], 'valid': True}
+73152
+{'gears': [264, 975], 'valid': True}
+257400
+{'gears': [934, 152], 'valid': True}
+141968
+{'gears': [211, 484], 'valid': True}
+102124
+{'gears': [159, 163], 'valid': True}
+25917
+{'gears': [713], 'valid': False}
+{'gears': [917, 989], 'valid': True}
+906913
+{'gears': [276, 917], 'valid': True}
+253092
+{'gears': [352, 13], 'valid': True}
+4576
+{'gears': [524, 806], 'valid': True}
+422344
+{'gears': [874, 174], 'valid': True}
+152076
+{'gears': [184, 33], 'valid': True}
+6072
+{'gears': [72, 574], 'valid': True}
+41328
+{'gears': [928], 'valid': False}
+{'gears': [684, 378], 'valid': True}
+258552
+{'gears': [118, 803], 'valid': True}
+94754
+{'gears': [239, 260], 'valid': True}
+62140
+{'gears': [609, 611], 'valid': True}
+372099
+{'gears': [116, 42], 'valid': True}
+4872
+{'gears': [312, 647], 'valid': True}
+201864
+{'gears': [871, 666], 'valid': True}
+580086
+{'gears': [883, 185], 'valid': True}
+163355
+{'gears': [259, 968], 'valid': True}
+250712
+{'gears': [543, 789], 'valid': True}
+428427
+{'gears': [464, 993], 'valid': True}
+460752
+{'gears': [295, 192], 'valid': True}
+56640
+{'gears': [670, 761], 'valid': True}
+509870
+{'gears': [272], 'valid': False}
+{'gears': [501, 248], 'valid': True}
+124248
+{'gears': [317], 'valid': False}
+{'gears': [752, 310], 'valid': True}
+233120
+{'gears': [739, 516], 'valid': True}
+381324
+{'gears': [267, 454], 'valid': True}
+121218
+{'gears': [192, 738], 'valid': True}
+141696
+{'gears': [456, 214], 'valid': True}
+97584
+{'gears': [628, 491], 'valid': True}
+308348
+{'gears': [342, 503], 'valid': True}
+172026
+{'gears': [409, 921], 'valid': True}
+376689
+{'gears': [622, 264], 'valid': True}
+164208
+{'gears': [937, 513], 'valid': True}
+480681
+{'gears': [402, 422], 'valid': True}
+169644
+{'gears': [843, 426], 'valid': True}
+359118
+{'gears': [546, 175], 'valid': True}
+95550
+{'gears': [276], 'valid': False}
+{'gears': [598, 108], 'valid': True}
+64584
+{'gears': [701, 140], 'valid': True}
+98140
+{'gears': [377, 24], 'valid': True}
+9048
+{'gears': [689, 641], 'valid': True}
+441649
+{'gears': [429, 682], 'valid': True}
+292578
+{'gears': [513, 236], 'valid': True}
+121068
+{'gears': [477, 22], 'valid': True}
+10494
+{'gears': [153, 566], 'valid': True}
+86598
+{'gears': [451, 760], 'valid': True}
+342760
+{'gears': [92, 560], 'valid': True}
+51520
+{'gears': [141, 776], 'valid': True}
+109416
+{'gears': [393, 548], 'valid': True}
+215364
+{'gears': [669, 335], 'valid': True}
+224115
+{'gears': [881, 798], 'valid': True}
+703038
+{'gears': [526, 347], 'valid': True}
+182522
+{'gears': [955, 934], 'valid': True}
+891970
+{'gears': [760, 952], 'valid': True}
+723520
+{'gears': [586, 997], 'valid': True}
+584242
+{'gears': [45, 576], 'valid': True}
+25920
+{'gears': [199], 'valid': False}
+{'gears': [77, 22], 'valid': True}
+1694
+{'gears': [207, 777], 'valid': True}
+160839
+{'gears': [841, 987], 'valid': True}
+830067
+{'gears': [266], 'valid': False}
+{'gears': [179, 598], 'valid': True}
+107042
+{'gears': [86, 635], 'valid': True}
+54610
+{'gears': [759, 328], 'valid': True}
+248952
+{'gears': [33, 371], 'valid': True}
+12243
+{'gears': [953, 270], 'valid': True}
+257310
+{'gears': [904, 250], 'valid': True}
+226000
+{'gears': [689, 622], 'valid': True}
+428558
+{'gears': [790, 802], 'valid': True}
+633580
+{'gears': [608], 'valid': False}
+{'gears': [996, 901], 'valid': True}
+897396
+{'gears': [604], 'valid': False}
+{'gears': [401, 529], 'valid': True}
+212129
+{'gears': [401, 475], 'valid': True}
+190475
+{'gears': [65, 379], 'valid': True}
+24635
+{'gears': [166, 597], 'valid': True}
+99102
+{'gears': [196, 729], 'valid': True}
+142884
+{'gears': [65, 95], 'valid': True}
+6175
+{'gears': [401, 715], 'valid': True}
+286715
+{'gears': [775, 728], 'valid': True}
+564200
+{'gears': [527], 'valid': False}
+{'gears': [619, 389], 'valid': True}
+240791
+{'gears': [75, 696], 'valid': True}
+52200
+{'gears': [912, 726], 'valid': True}
+662112
+{'gears': [981, 556], 'valid': True}
+545436
+{'gears': [734, 7], 'valid': True}
+5138
+{'gears': [862, 378], 'valid': True}
+325836
+{'gears': [412, 27], 'valid': True}
+11124
+{'gears': [556, 991], 'valid': True}
+550996
+{'gears': [213, 471], 'valid': True}
+100323
+{'gears': [68, 126], 'valid': True}
+8568
+{'gears': [678, 644], 'valid': True}
+436632
+{'gears': [349, 263], 'valid': True}
+91787
+{'gears': [313, 772], 'valid': True}
+241636
+{'gears': [386, 202], 'valid': True}
+77972
+{'gears': [844, 116], 'valid': True}
+97904
+{'gears': [457, 221], 'valid': True}
+100997
+{'gears': [803, 508], 'valid': True}
+407924
+{'gears': [362, 690], 'valid': True}
+249780
+{'gears': [841, 999], 'valid': True}
+840159
+{'gears': [465, 434], 'valid': True}
+201810
+{'gears': [667, 905], 'valid': True}
+603635
+{'gears': [983, 217], 'valid': True}
+213311
+{'gears': [905, 744], 'valid': True}
+673320
+{'gears': [759, 25], 'valid': True}
+18975
+{'gears': [58, 675], 'valid': True}
+39150
+{'gears': [305, 800], 'valid': True}
+244000
+{'gears': [168, 894], 'valid': True}
+150192
+{'gears': [241, 401], 'valid': True}
+96641
+{'gears': [156, 351], 'valid': True}
+54756
+{'gears': [831, 148], 'valid': True}
+122988
+{'gears': [655, 784], 'valid': True}
+513520
+{'gears': [627, 794], 'valid': True}
+497838
+{'gears': [790], 'valid': False}
+{'gears': [655, 88], 'valid': True}
+57640
+{'gears': [594, 726], 'valid': True}
+431244
+{'gears': [827], 'valid': False}
+{'gears': [166, 139], 'valid': True}
+23074
+{'gears': [87, 376], 'valid': True}
+32712
+{'gears': [205, 627], 'valid': True}
+128535
+{'gears': [224, 504], 'valid': True}
+112896
+{'gears': [784], 'valid': False}
+{'gears': [18, 977], 'valid': True}
+17586
+{'gears': [575, 55], 'valid': True}
+31625
+{'gears': [304, 280], 'valid': True}
+85120
+{'gears': [574, 330], 'valid': True}
+189420
+{'gears': [397, 902], 'valid': True}
+358094
+{'gears': [920, 257], 'valid': True}
+236440
+{'gears': [208, 158], 'valid': True}
+32864
+{'gears': [738], 'valid': False}
+{'gears': [453, 130], 'valid': True}
+58890
+{'gears': [971, 550], 'valid': True}
+534050
+{'gears': [837, 770], 'valid': True}
+644490
+{'gears': [915, 256], 'valid': True}
+234240
+{'gears': [107, 450], 'valid': True}
+48150
+{'gears': [92], 'valid': False}
+{'gears': [991, 147], 'valid': True}
+145677
+{'gears': [910, 24], 'valid': True}
+21840
+{'gears': [675, 778], 'valid': True}
+525150
+{'gears': [516, 552], 'valid': True}
+284832
+{'gears': [87, 828], 'valid': True}
+72036
+{'gears': [492, 485], 'valid': True}
+238620
+{'gears': [514, 344], 'valid': True}
+176816
+{'gears': [361, 382], 'valid': True}
+137902
+{'gears': [504], 'valid': False}
+{'gears': [486, 912], 'valid': True}
+443232
+{'gears': [576], 'valid': False}
+{'gears': [593, 247], 'valid': True}
+146471
+{'gears': [193, 879], 'valid': True}
+169647
+{'gears': [676, 735], 'valid': True}
+496860
+{'gears': [724, 32], 'valid': True}
+23168
+{'gears': [381, 42], 'valid': True}
+16002
+{'gears': [171, 678], 'valid': True}
+115938
+{'gears': [70, 251], 'valid': True}
+17570
+{'gears': [363, 269], 'valid': True}
+97647
+{'gears': [764, 792], 'valid': True}
+605088
+{'gears': [250, 387], 'valid': True}
+96750
+{'gears': [471], 'valid': False}
+{'gears': [975, 519], 'valid': True}
+506025
+{'gears': [13, 687], 'valid': True}
+8931
+{'gears': [934, 116], 'valid': True}
+108344
+{'gears': [181, 600], 'valid': True}
+108600
+{'gears': [714, 42], 'valid': True}
+29988
+{'gears': [245, 498], 'valid': True}
+122010
+{'gears': [776, 793], 'valid': True}
+615368
+{'gears': [267, 799], 'valid': True}
+213333
+{'gears': [102, 996], 'valid': True}
+101592
+{'gears': [250], 'valid': False}
+{'gears': [289, 439], 'valid': True}
+126871
+{'gears': [33, 713], 'valid': True}
+23529
+{'gears': [81, 797], 'valid': True}
+64557
+{'gears': [92, 284], 'valid': True}
+26128
+{'gears': [708, 378], 'valid': True}
+267624
+{'gears': [779, 499], 'valid': True}
+388721
+{'gears': [555], 'valid': False}
+{'gears': [471, 707], 'valid': True}
+332997
+{'gears': [374, 221], 'valid': True}
+82654
+{'gears': [694, 134], 'valid': True}
+92996
+{'gears': [709, 408], 'valid': True}
+289272
+{'gears': [931, 619], 'valid': True}
+576289
+{'gears': [805, 903], 'valid': True}
+726915
+{'gears': [887, 127], 'valid': True}
+112649
+{'gears': [105, 204], 'valid': True}
+21420
+{'gears': [141, 285], 'valid': True}
+40185
+{'gears': [186, 446], 'valid': True}
+82956
+{'gears': [230, 108], 'valid': True}
+24840
+{'gears': [767, 923], 'valid': True}
+707941
+{'gears': [594, 74], 'valid': True}
+43956
+{'gears': [876, 508], 'valid': True}
+445008
+{'gears': [898, 29], 'valid': True}
+26042
+{'gears': [373, 327], 'valid': True}
+121971
+{'gears': [243], 'valid': False}
+{'gears': [616, 529], 'valid': True}
+325864
+{'gears': [242, 379], 'valid': True}
+91718
+{'gears': [682, 939], 'valid': True}
+640398
+{'gears': [582, 703], 'valid': True}
+409146
+{'gears': [807, 944], 'valid': True}
+761808
+{'gears': [416, 40], 'valid': True}
+16640
+{'gears': [851, 222], 'valid': True}
+188922
+{'gears': [782, 408], 'valid': True}
+319056
+{'gears': [706, 708], 'valid': True}
+499848
+{'gears': [902, 243], 'valid': True}
+219186
+{'gears': [136, 770], 'valid': True}
+104720
+{'gears': [995], 'valid': False}
+{'gears': [492, 517], 'valid': True}
+254364
+{'gears': [759, 769], 'valid': True}
+583671
+{'gears': [874, 941], 'valid': True}
+822434
+{'gears': [129, 874], 'valid': True}
+112746
+{'gears': [198], 'valid': False}
+{'gears': [44, 102], 'valid': True}
+4488
+{'gears': [283, 328], 'valid': True}
+92824
+{'gears': [984, 473], 'valid': True}
+465432
+{'gears': [799, 789], 'valid': True}
+630411
+{'gears': [210], 'valid': False}
+{'gears': [29, 902], 'valid': True}
+26158
+{'gears': [99, 987], 'valid': True}
+97713
+{'gears': [320], 'valid': False}
+{'gears': [2, 153], 'valid': True}
+306
+{'gears': [356, 179], 'valid': True}
+63724
+{'gears': [313, 994], 'valid': True}
+311122
+{'gears': [984], 'valid': False}
+{'gears': [382, 949], 'valid': True}
+362518
+{'gears': [519, 807], 'valid': True}
+418833
+{'gears': [725, 86], 'valid': True}
+62350
+{'gears': [358, 26], 'valid': True}
+9308
+{'gears': [527, 743], 'valid': True}
+391561
+{'gears': [746, 978], 'valid': True}
+729588
+{'gears': [798, 971], 'valid': True}
+774858
+{'gears': [478, 802], 'valid': True}
+383356
+{'gears': [888, 776], 'valid': True}
+689088
+{'gears': [743, 715], 'valid': True}
+531245
+{'gears': [56], 'valid': False}
+{'gears': [991, 702], 'valid': True}
+695682
+340
+376
+84900879

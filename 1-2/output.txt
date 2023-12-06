@@ -1,0 +1,2001 @@
+input: five3onelxjninenine45
+['five', '3', 'one', 'nine', 'nine', '4', '5']
+input: six9mnfjmtsf2kfmznkxntninesevenrpmfjfpgsk
+['six', '9', '2', 'nine', 'seven']
+input: 9vkrmbpnine5two5cbktwo6
+['9', 'nine', '5', 'two', '5', 'two', '6']
+input: one1bdr6
+['one', '1', '6']
+input: ksvctznmffourtwovbb9four5five
+['four', 'two', '9', 'four', '5', 'five']
+input: 6nfhcklxlkg9jbqmqrrxmhn9two6
+['6', '9', '9', 'two', '6']
+input: 9eight2six97dkth
+['9', 'eight', '2', 'six', '9', '7']
+input: sixgjqm64dkvcccvttnts
+['six', '6', '4']
+input: twofivefourb5four
+['two', 'five', 'four', '5', 'four']
+input: gfive2
+['five', '2']
+input: two18twocsxffivetwo4
+['two', '1', '8', 'two', 'five', 'two', '4']
+input: rmchfml6four6twofive
+['6', 'four', '6', 'two', 'five']
+input: 278eight
+['2', '7', '8', 'eight']
+input: six5758jjqpgnvlztwolkcvxtjphd4
+['six', '5', '7', '5', '8', 'two', '4']
+input: fourz26ninethree8fourxrjlq
+['four', '2', '6', 'nine', 'three', '8', 'four']
+input: mhpx31fznvh6nnjbvjt6seven
+['3', '1', '6', '6', 'seven']
+input: kscs7kfvb1three2vnfjrtlvb
+['7', '1', 'three', '2']
+input: mcrxqxcxgq3eight9
+['3', 'eight', '9']
+input: 17eightone8ninebshqmfd
+['1', '7', 'eight', 'one', '8', 'nine']
+input: 1sgtxeightsix9
+['1', 'eight', 'six', '9']
+input: 96threeninetwo
+['9', '6', 'three', 'nine', 'two']
+input: five963fivexfgfgfbzrjjfive6
+['five', '9', '6', '3', 'five', 'five', '6']
+input: 5993zkdnfm
+['5', '9', '9', '3']
+input: 1xnfxsqhninefour3eight
+['1', 'nine', 'four', '3', 'eight']
+input: hplgtxvbfqrthreeonefour7
+['three', 'one', 'four', '7']
+input: 84cclxfjrhptnfbcpd2
+['8', '4', '2']
+input: nineeight2kslgcchdxjppkthreeqhhs
+['nine', 'eight', '2', 'three']
+input: 5txpzlsixtwo41
+['5', 'six', 'two', '4', '1']
+input: 4nbkjmrt4nine
+['4', '4', 'nine']
+input: hnmvzknine1
+['nine', '1']
+input: 6525szrz
+['6', '5', '2', '5']
+input: 1sixsixkxjxcbt1
+['1', 'six', 'six', '1']
+input: 5vlj26mfxdjzb
+['5', '2', '6']
+input: 9xzkgd6eight9thjcjrsxggvkf2
+['9', '6', 'eight', '9', '2']
+input: 2tlvqgrkc42
+['2', '4', '2']
+input: one4five
+['one', '4', 'five']
+input: 5six439eightsevenkkvng
+['5', 'six', '4', '3', '9', 'eight', 'seven']
+input: hvmmqonethreezhvmzltf5seven9ttdx
+['one', 'three', '5', 'seven', '9']
+input: 6eight6
+['6', 'eight', '6']
+input: hzpqtnjxz4cbkhqphlfpfourqflfjtg4mrztjlhbmmnine
+['4', 'four', '4', 'nine']
+input: sixsixdxcvbmr8bpbvfour6seven
+['six', 'six', '8', 'four', '6', 'seven']
+input: nine3eight
+['nine', '3', 'eight']
+input: 8nqmbzvgpslsevenbfcrgqbtrzk
+['8', 'seven']
+input: two7six2fourfourscrnine
+['two', '7', 'six', '2', 'four', 'four', 'nine']
+input: 7dr3hhqnvrdsljqrl
+['7', '3']
+input: 529dssfsfknzrffqsixtwo
+['5', '2', '9', 'six', 'two']
+input: 8sixsmcbslxvlxrkmhxhvgvvrgsixpgthrxlhrmfour
+['8', 'six', 'six', 'four']
+input: svqsjtlbdbkgjqbcvxhl4five
+['4', 'five']
+input: x8sevensix65eight
+['8', 'seven', 'six', '6', '5', 'eight']
+input: fsonemmszxjjx6nineteightvtzkhccgrm
+['one', '6', 'nine', 'eight']
+input: 6sevenseven38cmskxvdkqlxktsszfnine
+['6', 'seven', 'seven', '3', '8', 'nine']
+input: 75eightfjbqhksix3onextmlrftdxm9
+['7', '5', 'eight', 'six', '3', 'one', '9']
+input: 5hmngnfrglninenthconesixnine7
+['5', 'nine', 'one', 'six', 'nine', '7']
+input: hgk4sevensixnineoneszsnhthree9
+['4', 'seven', 'six', 'nine', 'one', 'three', '9']
+input: one98nxtghg9
+['one', '9', '8', '9']
+input: 1sevenkqqckgxdnfour
+['1', 'seven', 'four']
+input: 16three2onekjfcmfdfvhgmgninetwo
+['1', '6', 'three', '2', 'one', 'nine', 'two']
+input: 1eight3fivesix87five
+['1', 'eight', '3', 'five', 'six', '8', '7', 'five']
+input: 2fourlhtncqs8gqssxlxczfive
+['2', 'four', '8', 'five']
+input: ninejvzjqppsix21
+['nine', 'six', '2', '1']
+input: mkrd7249eight1pm
+['7', '2', '4', '9', 'eight', '1']
+input: ppcxsevensevenxbjbvvzcd8one3ms
+['seven', 'seven', '8', 'one', '3']
+input: eightgnnlfive3ff49seven
+['eight', 'five', '3', '4', '9', 'seven']
+input: fngf62fourfivetwothree
+['6', '2', 'four', 'five', 'two', 'three']
+input: onefour42rrzntqts
+['one', 'four', '4', '2']
+input: 41dzvh1
+['4', '1', '1']
+input: 3onefqltjzdrfourcpkfhceightwomc
+['3', 'one', 'four', 'eight']
+input: 7ninezcqcmqsltfxltnpsgghzone3four
+['7', 'nine', 'one', '3', 'four']
+input: hrtwone3six4pjbs4tfvdsjqdtfglseven
+['two', '3', 'six', '4', '4', 'seven']
+input: 6lpxrrhvdslxgpjblcmgsgbdpdkfmzkr
+['6']
+input: llnshf1
+['1']
+input: seven9rvjqdhbfour
+['seven', '9', 'four']
+input: 1fivezb4six
+['1', 'five', '4', 'six']
+input: 2282mchsix2onelz
+['2', '2', '8', '2', 'six', '2', 'one']
+input: 86eightwonmn
+['8', '6', 'eight']
+input: sevenlcznjrmcbzlpjvfivefhtfvl2vvsrbbcktnj
+['seven', 'five', '2']
+input: 2one819vsxclfour
+['2', 'one', '8', '1', '9', 'four']
+input: dlm2nine
+['2', 'nine']
+input: sxbdtwo9threetwo6
+['two', '9', 'three', 'two', '6']
+input: 4jfbc5rdzgsblrcgmqdh
+['4', '5']
+input: nine7four28seven
+['nine', '7', 'four', '2', '8', 'seven']
+input: two1sixmjmxgjq412five
+['two', '1', 'six', '4', '1', '2', 'five']
+input: nine3hctlqv
+['nine', '3']
+input: twofour8eighttwo86two1
+['two', 'four', '8', 'eight', 'two', '8', '6', 'two', '1']
+input: three4seveneightl
+['three', '4', 'seven', 'eight']
+input: zx89btcqrsvpqzseven
+['8', '9', 'seven']
+input: 1chkglfseven
+['1', 'seven']
+input: 4999xpmmeight3gxxkl
+['4', '9', '9', '9', 'eight', '3']
+input: four88ninehhnbssxhbnseven
+['four', '8', '8', 'nine', 'seven']
+input: hsfvzbbxjlsrmtngrxxsevensix3
+['seven', 'six', '3']
+input: qccnqvfnkkkvsixktsixnine1twoneq
+['six', 'six', 'nine', '1', 'two']
+input: 2sevengsplvndctjgntsix3seven
+['2', 'seven', 'six', '3', 'seven']
+input: eight782two428four
+['eight', '7', '8', '2', 'two', '4', '2', '8', 'four']
+input: five37shzmklkb4nhddk8
+['five', '3', '7', '4', '8']
+input: eightthree6qskmkzs
+['eight', 'three', '6']
+input: cmkvmr3srbsnq7onefourbfsrbjvr
+['3', '7', 'one', 'four']
+input: t3mtgjq4stm84
+['3', '4', '8', '4']
+input: fiveseven2grlmfhmfg8bsb
+['five', 'seven', '2', '8']
+input: 9bgbplvtzstdsevenonedrbxhftrxgmqftjmdrr
+['9', 'seven', 'one']
+input: sixfivezptk6
+['six', 'five', '6']
+input: 8mftfiveninedgfmtwo9three9
+['8', 'five', 'nine', 'two', '9', 'three', '9']
+input: pscstrfnrpllhone5fivefourtwo
+['one', '5', 'five', 'four', 'two']
+input: five33
+['five', '3', '3']
+input: 4threegfs
+['4', 'three']
+input: 6sixthreebvq5
+['6', 'six', 'three', '5']
+input: tsjvdsljzfgfive6threemqjfhrsqkgfznbt
+['five', '6', 'three']
+input: six8five
+['six', '8', 'five']
+input: twoznvvqgmd5jsxltq
+['two', '5']
+input: zvh9one
+['9', 'one']
+input: 4threesevenfivesix2hmm
+['4', 'three', 'seven', 'five', 'six', '2']
+input: l8ccxxhqqjb1qltqxht9qknltdbmdbmone
+['8', '1', '9', 'one']
+input: psevenfournine7bzphqxtfmfhsbtxxldhcqj
+['seven', 'four', 'nine', '7']
+input: 9bzxmpnlqmt8
+['9', '8']
+input: two73nineeighteight
+['two', '7', '3', 'nine', 'eight', 'eight']
+input: 5sixseven
+['5', 'six', 'seven']
+input: eightthree98112
+['eight', 'three', '9', '8', '1', '1', '2']
+input: eight4zbnpgjqlgntpl
+['eight', '4']
+input: fourhg8twoone1xhllbxfrtwoneq
+['four', '8', 'two', 'one', '1', 'two']
+input: jzonevsfhdcxzkmcxfhngleight2four
+['one', 'eight', '2', 'four']
+input: 6two4ndnscxkqlzszlkslzk28
+['6', 'two', '4', '2', '8']
+input: 1foursix25695cp
+['1', 'four', 'six', '2', '5', '6', '9', '5']
+input: 9hgvmtfiveeightdm
+['9', 'five', 'eight']
+input: 7162nine
+['7', '1', '6', '2', 'nine']
+input: seven7tqssone
+['seven', '7', 'one']
+input: 234cgsdfq7
+['2', '3', '4', '7']
+input: 9eightvpvvztrsrbtvgkzg
+['9', 'eight']
+input: two882nine6eightsixz
+['two', '8', '8', '2', 'nine', '6', 'eight', 'six']
+input: 9nineqqltckg
+['9', 'nine']
+input: lgtlzthree21jrx
+['three', '2', '1']
+input: 42seven
+['4', '2', 'seven']
+input: 6pl3ckfqjchmnplblhkrd36jbflxf
+['6', '3', '3', '6']
+input: fpmkbm7three
+['7', 'three']
+input: 5twoonegccshhdrnfour1
+['5', 'two', 'one', 'four', '1']
+input: onexbeightsdoneseven2four
+['one', 'eight', 'one', 'seven', '2', 'four']
+input: three5sixxj
+['three', '5', 'six']
+input: eightxqzntcpscxbqrsix8three
+['eight', 'six', '8', 'three']
+input: eightfourthree9eightvvhhlfourp
+['eight', 'four', 'three', '9', 'eight', 'four']
+input: seven67vdktlg51
+['seven', '6', '7', '5', '1']
+input: xbgjvvonesbtthfkdvntwo35
+['one', 'two', '3', '5']
+input: fltjrv152sixvmtwofour
+['1', '5', '2', 'six', 'two', 'four']
+input: fourfour6zkjdlrckdbfxthreefive
+['four', 'four', '6', 'three', 'five']
+input: kkrllbsnglkvxxzjmqvdgsfpzx18foureightseveneight
+['1', '8', 'four', 'eight', 'seven', 'eight']
+input: xvmjqznggz7pgrxcfcqj
+['7']
+input: 5two9eight
+['5', 'two', '9', 'eight']
+input: 2rbninevmltplhj6nine
+['2', 'nine', '6', 'nine']
+input: 4snzlftzltjfbxdq
+['4']
+input: 5gcpdxdjsftntzgbfnkbsjone
+['5', 'one']
+input: onetwoninenine58onekmtdfn6
+['one', 'two', 'nine', 'nine', '5', '8', 'one', '6']
+input: four68four8two5
+['four', '6', '8', 'four', '8', 'two', '5']
+input: lczh9
+['9']
+input: sevensevenfivefour141j
+['seven', 'seven', 'five', 'four', '1', '4', '1']
+input: bmnrnlvfpvjsfourn1one3
+['four', '1', 'one', '3']
+input: 3nineone7fourfbfmjmpcpv6kgvzndbgpn
+['3', 'nine', 'one', '7', 'four', '6']
+input: 633sevenczmjrstsp195
+['6', '3', '3', 'seven', '1', '9', '5']
+input: sixvrcjmsveight3
+['six', 'eight', '3']
+input: cgfhxt4
+['4']
+input: 4lqvqgsf37nrszkrhtjg91djsxdlrksk
+['4', '3', '7', '9', '1']
+input: ninefivefive11four1eight
+['nine', 'five', 'five', '1', '1', 'four', '1', 'eight']
+input: 76twovxfqrdksoneeightpgf4
+['7', '6', 'two', 'one', 'eight', '4']
+input: vhn9xnlhd3fivesix
+['9', '3', 'five', 'six']
+input: 3sevenzpqvxhtsix
+['3', 'seven', 'six']
+input: dkkeightwosixcdngxqddtj4
+['eight', 'six', '4']
+input: nineqqsdkmkhhsixpd4
+['nine', 'six', '4']
+input: 6five54
+['6', 'five', '5', '4']
+input: tlzst3sevenvdthkfn3
+['3', 'seven', '3']
+input: nineone2
+['nine', 'one', '2']
+input: fcxeightwoeighthxpgfkfourone3
+['eight', 'eight', 'four', 'one', '3']
+input: 9llcdpmninepvcbdonexfxgdfchtkgnmnljpnfb
+['9', 'nine', 'one']
+input: qrjdrbrrxrldbsq8threepbsdpbbtps9four
+['8', 'three', '9', 'four']
+input: 299eightone
+['2', '9', '9', 'eight', 'one']
+input: fjzoneight99
+['one', '9', '9']
+input: zz8three9
+['8', 'three', '9']
+input: eight4mfzshls167eight
+['eight', '4', '1', '6', '7', 'eight']
+input: five1kmgmnpfhsp42
+['five', '1', '4', '2']
+input: 6one67one
+['6', 'one', '6', '7', 'one']
+input: fivefncmv3dgsx8lmssvqfthk6seven
+['five', '3', '8', '6', 'seven']
+input: vlsbqreightseven77onermkfdsvjxkmn
+['eight', 'seven', '7', '7', 'one']
+input: 86hxzstkkb
+['8', '6']
+input: 79mnxgbnl
+['7', '9']
+input: 15nineone9ninesevenddrbrxj
+['1', '5', 'nine', 'one', '9', 'nine', 'seven']
+input: 21rkt24dfour8four
+['2', '1', '2', '4', 'four', '8', 'four']
+input: blxv68threeseven
+['6', '8', 'three', 'seven']
+input: rbvkltwo3gpmmfmnpone9
+['two', '3', 'one', '9']
+input: hrqss7
+['7']
+input: six1threethree1
+['six', '1', 'three', 'three', '1']
+input: frfctnmmhrmfr8
+['8']
+input: bfzsvmcxhbthreefivezlb981
+['three', 'five', '9', '8', '1']
+input: phrlbcbd6vrf8gkrtnlprn
+['6', '8']
+input: txbxjb47svrfd4lrdkfbknb2gj
+['4', '7', '4', '2']
+input: fivefour6dnjqbmznkssevenone
+['five', 'four', '6', 'seven', 'one']
+input: 32eighttwonedn
+['3', '2', 'eight', 'two']
+input: gxzqseventwo4eight
+['seven', 'two', '4', 'eight']
+input: eighttwo53ktqxjfjfive3
+['eight', 'two', '5', '3', 'five', '3']
+input: 64four3gjjtjq
+['6', '4', 'four', '3']
+input: tmrv9sevenfive
+['9', 'seven', 'five']
+input: 9seven81
+['9', 'seven', '8', '1']
+input: fivefourktwozzszqveightseven7
+['five', 'four', 'two', 'eight', 'seven', '7']
+input: three8bninetwofivednine
+['three', '8', 'nine', 'two', 'five', 'nine']
+input: nineone7qzdcglxjtkchjfpqrdfive6nine
+['nine', 'one', '7', 'five', '6', 'nine']
+input: 4hjsqzppdqseightblhpdxgjmfmrsrz
+['4', 'eight']
+input: fouronefour5fourjxls3
+['four', 'one', 'four', '5', 'four', '3']
+input: sixsevensevenoneeightgssdqpgfrx6rpkdljlsjs
+['six', 'seven', 'seven', 'one', 'eight', '6']
+input: two4cpvhzxnbqmk4
+['two', '4', '4']
+input: 98czdfivecpmvztnc87
+['9', '8', 'five', '8', '7']
+input: 5chczkvdd
+['5']
+input: dhndkdsbf7qp1
+['7', '1']
+input: tdbpx1qbf
+['1']
+input: 358tbjnc
+['3', '5', '8']
+input: two6264six
+['two', '6', '2', '6', '4', 'six']
+input: 55snf
+['5', '5']
+input: eight7kpgsjrntszcmvrjqcs2two4four
+['eight', '7', '2', 'two', '4', 'four']
+input: cpjxfgxdngjrnpbkfskpstm5nineseven5nine
+['5', 'nine', 'seven', '5', 'nine']
+input: one2jxrsxlll1xpkeightztcfnsqqr
+['one', '2', '1', 'eight']
+input: 2sevensevenzdb
+['2', 'seven', 'seven']
+input: trpcnb536fourninethree
+['5', '3', '6', 'four', 'nine', 'three']
+input: bkhoneightblkqzbblmv8rkcg
+['one', '8']
+input: zqmmzmsqjghtf915
+['9', '1', '5']
+input: 3zxdzklnlbdvcqspm
+['3']
+input: sevensixtwo8rsvdmc
+['seven', 'six', 'two', '8']
+input: 8two8
+['8', 'two', '8']
+input: eightoneqlcrrlq4four
+['eight', 'one', '4', 'four']
+input: hlfhtwovvmzkzn5xklvc9
+['two', '5', '9']
+input: fournncdgvxk6crvsqjcj58
+['four', '6', '5', '8']
+input: 7941sevenfour
+['7', '9', '4', '1', 'seven', 'four']
+input: mshlfglzlvcpcn2ninefiveninemlzkxspxsz2
+['2', 'nine', 'five', 'nine', '2']
+input: 46sixone4eightrcmxrmhnmj6pmj
+['4', '6', 'six', 'one', '4', 'eight', '6']
+input: jblfkrc1threefivefourbxd3
+['1', 'three', 'five', 'four', '3']
+input: prhvcsmvjx85one
+['8', '5', 'one']
+input: sstdseven3twobrfour3zthzhtkmc2
+['seven', '3', 'two', 'four', '3', '2']
+input: 9threeqdnninesqvsjdch55zzjrntdv
+['9', 'three', 'nine', '5', '5']
+input: fourbljt53gfkjkjtcpnlxcb
+['four', '5', '3']
+input: qrtlkzcthreefnxlcnfsqqvhsix62one3
+['three', 'six', '6', '2', 'one', '3']
+input: knb7three7srrqbfhthreefive5
+['7', 'three', '7', 'three', 'five', '5']
+input: sevengcf128btrnrtgbmj3mtzv
+['seven', '1', '2', '8', '3']
+input: brzvbdtwo63three4pjcjmzgfk8
+['two', '6', '3', 'three', '4', '8']
+input: 6klnsftm
+['6']
+input: eight6sevensevensixfhgnjzgrcqdseven
+['eight', '6', 'seven', 'seven', 'six', 'seven']
+input: six2ckhhflcdjkrc2sdtgkzx4four
+['six', '2', '2', '4', 'four']
+input: six49
+['six', '4', '9']
+input: 56eight
+['5', '6', 'eight']
+input: gfivevqqkz7
+['five', '7']
+input: twoseven1kfzjcxjj
+['two', 'seven', '1']
+input: 5xsbckzsevenfdcd6ffh
+['5', 'seven', '6']
+input: five6fivezpdm19
+['five', '6', 'five', '1', '9']
+input: eightsix1zlrvvtflhqbmgnjnthcdbjthree
+['eight', 'six', '1', 'three']
+input: 9lbmb1gflnxtnine
+['9', '1', 'nine']
+input: 1eightxdrp566ljjtmbpng
+['1', 'eight', '5', '6', '6']
+input: twoqbfl5four67three9
+['two', '5', 'four', '6', '7', 'three', '9']
+input: six3sevenseven13
+['six', '3', 'seven', 'seven', '1', '3']
+input: seven4onenine4ccnmtbdtj
+['seven', '4', 'one', 'nine', '4']
+input: hxzhqqtqdssevenfivecjfhlxmrbk2rdxsix8
+['seven', 'five', '2', 'six', '8']
+input: three6brccmgbkdxgj7
+['three', '6', '7']
+input: 961
+['9', '6', '1']
+input: 1ninesevensix6sixonetwonine
+['1', 'nine', 'seven', 'six', '6', 'six', 'one', 'two', 'nine']
+input: 4hlvbbs5pnjxbpd5xpvxfmn
+['4', '5', '5']
+input: kkvjtnjk3nineseventwotrjntwo
+['3', 'nine', 'seven', 'two', 'two']
+input: 669zgrhxlrgtpeighttfrrqmhthree7eight
+['6', '6', '9', 'eight', 'three', '7', 'eight']
+input: pltqnfslttlhfour7
+['four', '7']
+input: 31grzj
+['3', '1']
+input: qkqtwoneeighttgp8944cpxxksr3
+['two', 'eight', '8', '9', '4', '4', '3']
+input: onelpvxtcj35zrllxzt
+['one', '3', '5']
+input: fcccc7
+['7']
+input: 3eight1
+['3', 'eight', '1']
+input: 4five3ggdpskqjfrbngmq7nine
+['4', 'five', '3', '7', 'nine']
+input: 8cnbxpfpm
+['8']
+input: frmvkjxxggbssxlftzninelvvtvscl77ninefxdtrpvjfv
+['nine', '7', '7', 'nine']
+input: rxkcvjbvhk84
+['8', '4']
+input: 6twonegz
+['6', 'two']
+input: sixpkklnr4vvmzrld4gxrkxlbhjpsmgt
+['six', '4', '4']
+input: 533x2ninedgrtlznp7nine
+['5', '3', '3', '2', 'nine', '7', 'nine']
+input: threeeightsevengpvnine5368
+['three', 'eight', 'seven', 'nine', '5', '3', '6', '8']
+input: 99eightsfvfvsvzn
+['9', '9', 'eight']
+input: 655threeseven56nineseven
+['6', '5', '5', 'three', 'seven', '5', '6', 'nine', 'seven']
+input: 583gmtktthreeckfc
+['5', '8', '3', 'three']
+input: fivetwo7threevktxxjsrkpseven6
+['five', 'two', '7', 'three', 'seven', '6']
+input: four9tbnqhjlbmqnjq4gpzpvjtl2
+['four', '9', '4', '2']
+input: fourtfjhxrkfour37seventwo4
+['four', 'four', '3', '7', 'seven', 'two', '4']
+input: threesmpcr5
+['three', '5']
+input: 7bbcsdcsxttxkrvhmkkzqjgvpzblcsjltsix5
+['7', 'six', '5']
+input: rtqoneighthxpg5tb4
+['one', '5', '4']
+input: 6eighteightfourrxlkqkxbxseven9rnggqbxqheight
+['6', 'eight', 'eight', 'four', 'seven', '9', 'eight']
+input: 3b7vtwosixl9four
+['3', '7', 'two', 'six', '9', 'four']
+input: nhjphtdskrzqjmkk7eightthree1
+['7', 'eight', 'three', '1']
+input: nrlthreefourone37
+['three', 'four', 'one', '3', '7']
+input: 7oneighttcm
+['7', 'one']
+input: b54732
+['5', '4', '7', '3', '2']
+input: vmvltdtxhpninetgvmcmbhddtkpzjvrkvbhrtwo4pdqbnc
+['nine', 'two', '4']
+input: 8bkhgt3bqxthlxcmdpdcnvkjzrrpmkpnfivefourthree
+['8', '3', 'five', 'four', 'three']
+input: 7nine61vsfkm84vvqbmhltdj
+['7', 'nine', '6', '1', '8', '4']
+input: 6476five
+['6', '4', '7', '6', 'five']
+input: rmnoneightthree9one5vjbfnnnk
+['one', 'three', '9', 'one', '5']
+input: svqjtjzntq4
+['4']
+input: tcxkkxxvr78four6seven46
+['7', '8', 'four', '6', 'seven', '4', '6']
+input: 7tr
+['7']
+input: twosntlone2two
+['two', 'one', '2', 'two']
+input: sktgjbzqthreeseven6mrv3
+['three', 'seven', '6', '3']
+input: eightxxpctkf94six2one
+['eight', '9', '4', 'six', '2', 'one']
+input: fivegjfftq3fxnclvrl9rxhjkpceight
+['five', '3', '9', 'eight']
+input: 4qpvtrjhxxqzbjbbrqqcdklhgqmlmmrthree2ltzshfxztsx
+['4', 'three', '2']
+input: 47
+['4', '7']
+input: 5twoninehclgxj1rzgsqtsq
+['5', 'two', 'nine', '1']
+input: 634kmr151eightbrt
+['6', '3', '4', '1', '5', '1', 'eight']
+input: smtwofourone26one
+['two', 'four', 'one', '2', '6', 'one']
+input: 2threecdpq32two4dzrzsr
+['2', 'three', '3', '2', 'two', '4']
+input: 1eightvmhzchc3vhnnfivefivecf
+['1', 'eight', '3', 'five', 'five']
+input: fstttl58fourqgkbjveight
+['5', '8', 'four', 'eight']
+input: 455one
+['4', '5', '5', 'one']
+input: vkhg7rszxzmqnine749
+['7', 'nine', '7', '4', '9']
+input: bvtwone8vninezhkkbvpscqfive6jczrlrgcn
+['two', '8', 'nine', 'five', '6']
+input: 247
+['2', '4', '7']
+input: ninemgxqhtwosix756
+['nine', 'two', 'six', '7', '5', '6']
+input: fiveseven4kthzq
+['five', 'seven', '4']
+input: eighteight9one51fivebkgpzl
+['eight', 'eight', '9', 'one', '5', '1', 'five']
+input: sevenmjqtvth8five
+['seven', '8', 'five']
+input: ndqsfffkfmjjgzfdjcpgj4sixfr3threesjqbqlzng
+['4', 'six', '3', 'three']
+input: 8598seven
+['8', '5', '9', '8', 'seven']
+input: eightone4sevensnine
+['eight', 'one', '4', 'seven', 'nine']
+input: qvcgzkcm3
+['3']
+input: hskhmfndv45
+['4', '5']
+input: seven3zpvgg9
+['seven', '3', '9']
+input: bqqqcjkgtveight74
+['eight', '7', '4']
+input: five84sbfkgmldpknfdqjqrtwotwo
+['five', '8', '4', 'two', 'two']
+input: 9eighthv1ninemvrxdtcdlvszm
+['9', 'eight', '1', 'nine']
+input: qfsbeightsix9djl73
+['eight', 'six', '9', '7', '3']
+input: pbqt8hsdzxkxv
+['8']
+input: 1fgfbxcjt6lqd618
+['1', '6', '6', '1', '8']
+input: 2rtlcqnk
+['2']
+input: one1ninefive
+['one', '1', 'nine', 'five']
+input: xjqmgfhndxtsixsevenm3991
+['six', 'seven', '3', '9', '9', '1']
+input: five1oneonetwo
+['five', '1', 'one', 'one', 'two']
+input: eight32threekddxppk
+['eight', '3', '2', 'three']
+input: 1gsxrx7one
+['1', '7', 'one']
+input: hqpktfiveqvtjcxfkznine1
+['five', 'nine', '1']
+input: xlhsxgssktqcmcjteight69kfph
+['eight', '6', '9']
+input: 8rfqclm
+['8']
+input: zqccxsponetkqtnine7six
+['one', 'nine', '7', 'six']
+input: 8xffivesevenhdzfjvlfive25
+['8', 'five', 'seven', 'five', '2', '5']
+input: xklljtnrbgxcggtpt57
+['5', '7']
+input: nine69seventhree
+['nine', '6', '9', 'seven', 'three']
+input: 3five4vktxqjfour
+['3', 'five', '4', 'four']
+input: sevennine6tbbddvbbpjsevenzxpzkcthreex
+['seven', 'nine', '6', 'seven', 'three']
+input: 86fourpfmlfourninetwobbpmntj
+['8', '6', 'four', 'four', 'nine', 'two']
+input: two6bxpllmxtwo
+['two', '6', 'two']
+input: onecsjtf1four5
+['one', '1', 'four', '5']
+input: ljmkg9621twonine2
+['9', '6', '2', '1', 'two', 'nine', '2']
+input: five97xkqbskgr
+['five', '9', '7']
+input: threefiveonekjbrtqz275fnfour
+['three', 'five', 'one', '2', '7', '5', 'four']
+input: pbrghznine6threejmfhfqqnlnkm89
+['nine', '6', 'three', '8', '9']
+input: ninegkldqjcmfjninezmmzsttqbj1
+['nine', 'nine', '1']
+input: gsmsjzlzheight65qjjjbrqhmnfive
+['eight', '6', '5', 'five']
+input: eight1b1pk7two
+['eight', '1', '1', '7', 'two']
+input: nine63seventhreeeightfivetwonjdvmxcfmx
+['nine', '6', '3', 'seven', 'three', 'eight', 'five', 'two']
+input: tnzthree5
+['three', '5']
+input: fivefive4jrsbjmkzvbjone2
+['five', 'five', '4', 'one', '2']
+input: 6zsblcgdfivetwofour
+['6', 'five', 'two', 'four']
+input: 1vtzznqfqsixfivepxeight
+['1', 'six', 'five', 'eight']
+input: 1sevenpdsf1ninefoursix
+['1', 'seven', '1', 'nine', 'four', 'six']
+input: fftqmfdhdsdtkfour3sevenjsqtmfive8
+['four', '3', 'seven', 'five', '8']
+input: 3foureight1cqckq
+['3', 'four', 'eight', '1']
+input: clvrcncnzkrxxgztl7seven
+['7', 'seven']
+input: fspmvzzjf2xngtglshcdlhft9nrqmkcqb4
+['2', '9', '4']
+input: 1onemvntx2rvcrgnfive
+['1', 'one', '2', 'five']
+input: 5nzjjsmlfd
+['5']
+input: 3hzxjcrbvtnine
+['3', 'nine']
+input: kvkpdrgeight5d
+['eight', '5']
+input: 5kpqhlrkqqm
+['5']
+input: 5fivenine
+['5', 'five', 'nine']
+input: pkzrhbrjlc3ktq429
+['3', '4', '2', '9']
+input: threetqxvmjm4onegqsrsqpqh
+['three', '4', 'one']
+input: 7ninepsjgsfvxsbtzkz3eightqd
+['7', 'nine', '3', 'eight']
+input: mlbrdfjzcvxr7twokfvdsmsixfivefourh
+['7', 'two', 'six', 'five', 'four']
+input: 7twofive
+['7', 'two', 'five']
+input: 48kzprtdfsch91
+['4', '8', '9', '1']
+input: 4vfxfhmeightljxvxhfxsjsjtgjlqmgnine
+['4', 'eight', 'nine']
+input: nine3sbfzznrxmphdhjd
+['nine', '3']
+input: sevengrhblnnnfg74sixfour
+['seven', '7', '4', 'six', 'four']
+input: eightsix4onenine21onetwo
+['eight', 'six', '4', 'one', 'nine', '2', '1', 'one', 'two']
+input: vrqckqrrtxrsjltdplbmnine9six
+['nine', '9', 'six']
+input: jfk9zbdr2gpsfdqbsrz
+['9', '2']
+input: 957jrpkcgkcthreetwoblpgkx
+['9', '5', '7', 'three', 'two']
+input: 894threenineone2
+['8', '9', '4', 'three', 'nine', 'one', '2']
+input: 4ftsxhkkone3
+['4', 'one', '3']
+input: m9fourztzfvhqstwojx3four
+['9', 'four', 'two', '3', 'four']
+input: fiveninevm8
+['five', 'nine', '8']
+input: prddhzmhzmeightsixthreeqpzjbdnmgc9five
+['eight', 'six', 'three', '9', 'five']
+input: tftvxbtnine1twofivelkbfsbndrq2
+['nine', '1', 'two', 'five', '2']
+input: 6seven2oneninehlstxr8
+['6', 'seven', '2', 'one', 'nine', '8']
+input: 6qkzfrzqsjnb49hftltrntl
+['6', '4', '9']
+input: three7sixtpmpninefivethree
+['three', '7', 'six', 'nine', 'five', 'three']
+input: five19zgnqjbshbtlhvc7sevenqdmqdsnknine
+['five', '1', '9', '7', 'seven', 'nine']
+input: fiveone1threejjmcfzsxtbtvg
+['five', 'one', '1', 'three']
+input: 5mkmskszcn9
+['5', '9']
+input: fouronefour2bqcs3onetwo
+['four', 'one', 'four', '2', '3', 'one', 'two']
+input: 8three75sevenbbsbxjscvseven6mhpx
+['8', 'three', '7', '5', 'seven', 'seven', '6']
+input: lhdhnqqj6btjglcnpxxgzc
+['6']
+input: gvlbmvldpsl2smgdqnh
+['2']
+input: oneseveneightr6onecseven3
+['one', 'seven', 'eight', '6', 'one', 'seven', '3']
+input: nxrcgsevenlqf3
+['seven', '3']
+input: r81fourbnskcrnn1twobcfpvqqtdd
+['8', '1', 'four', '1', 'two']
+input: onexdx935ninecjtnsxxq
+['one', '9', '3', '5', 'nine']
+input: 15twoftmcckrhgg2
+['1', '5', 'two', '2']
+input: fivemmjldhtbfivellfblbx89fourzcxxjthree
+['five', 'five', '8', '9', 'four', 'three']
+input: 7mhxhvghc89
+['7', '8', '9']
+input: onendjhfxlzvzgrchf495onenksffh3
+['one', '4', '9', '5', 'one', '3']
+input: two36lpgrkzr6rtmhqcngn
+['two', '3', '6', '6']
+input: 9hntjqfrrjmnv7
+['9', '7']
+input: zdgrvhz8
+['8']
+input: 6nineeightvzjnnxjdmxonegtrsqrqnd27four
+['6', 'nine', 'eight', 'one', '2', '7', 'four']
+input: sxcxccnn1ninejqmtqc9
+['1', 'nine', '9']
+input: 3vljzxsgfmfeightqlrgcktdf
+['3', 'eight']
+input: 1four5fivehpbsspt8
+['1', 'four', '5', 'five', '8']
+input: seven23
+['seven', '2', '3']
+input: ninek9
+['nine', '9']
+input: onefkzkcljxp1sixthree5ninelt
+['one', '1', 'six', 'three', '5', 'nine']
+input: 6mczeightrfshqxqxts3
+['6', 'eight', '3']
+input: 52569four2lnqbzxjbjz
+['5', '2', '5', '6', '9', 'four', '2']
+input: 6pmcfgfk179fbfbvr
+['6', '1', '7', '9']
+input: pmbdtdsnxbmgknqgjj4ninefiverxxmtdgheighttp
+['4', 'nine', 'five', 'eight']
+input: 2fourckrgbs76fiveeightgjknht
+['2', 'four', '7', '6', 'five', 'eight']
+input: 4lzlfvn8zp
+['4', '8']
+input: zjzjhv9
+['9']
+input: threehjlnrg71sevenfiveeighteightsix
+['three', '7', '1', 'seven', 'five', 'eight', 'eight', 'six']
+input: szlbnkssc6jxhmhskeightthree5threemnfpvrj
+['6', 'eight', 'three', '5', 'three']
+input: 72seven7vgdfgqfxl
+['7', '2', 'seven', '7']
+input: kxnglmlneightzhqqhmdz7
+['eight', '7']
+input: eightseven3nine9
+['eight', 'seven', '3', 'nine', '9']
+input: 49ninesix
+['4', '9', 'nine', 'six']
+input: qfxcgxmznpeightnnqone7nsmsxjsqh3four7
+['eight', 'one', '7', '3', 'four', '7']
+input: 29seven1ntxmjqgfn8ptpjsp7eight
+['2', '9', 'seven', '1', '8', '7', 'eight']
+input: seven8tnlvtdpnjzeight3eight1vtplvnbpl
+['seven', '8', 'eight', '3', 'eight', '1']
+input: j5four
+['5', 'four']
+input: sixntfvskqqrv9one
+['six', '9', 'one']
+input: oneqnqzfbtjnb81szdbeightcscone
+['one', '8', '1', 'eight', 'one']
+input: four88869pxlszclzfq
+['four', '8', '8', '8', '6', '9']
+input: mvpkbvfivejjfrxmzxl21
+['five', '2', '1']
+input: qznnjltonejfjlslh9
+['one', '9']
+input: nine9sfourkbcdzqdlmmveightgbxsgtjdrbsfthkbmsr
+['nine', '9', 'four', 'eight']
+input: four9cfpxmdg
+['four', '9']
+input: l9
+['9']
+input: 4mzsstnbltnine
+['4', 'nine']
+input: 6rclj
+['6']
+input: eightnzhfqmblpdfcffkfive9
+['eight', 'five', '9']
+input: 6ninep
+['6', 'nine']
+input: onekpxthg6vr21jghlcxhnvkhbzdjkcfour
+['one', '6', '2', '1', 'four']
+input: 2crhnmq
+['2']
+input: mgtwonefive9drkflmcfmkmsvzb1eightoneseven
+['two', 'five', '9', '1', 'eight', 'one', 'seven']
+input: 31two
+['3', '1', 'two']
+input: twos1hvzhnn
+['two', '1']
+input: rjjldxlp63five1threetwo
+['6', '3', 'five', '1', 'three', 'two']
+input: ninejkhbqfkxccdnc4ftnzbdfdjxbjgqjfivexglgtvvdmn
+['nine', '4', 'five']
+input: fourzhzh3four
+['four', '3', 'four']
+input: eight8four5two5seventzqlckfive
+['eight', '8', 'four', '5', 'two', '5', 'seven', 'five']
+input: one113tworzqnqsrrjnxbpprsglnine
+['one', '1', '1', '3', 'two', 'nine']
+input: 6chcqbpl
+['6']
+input: 8threemxc7
+['8', 'three', '7']
+input: 7nbssevenvxb33pxstzqfhdrtxqs
+['7', 'seven', '3', '3']
+input: 8three276tlrkszgneight
+['8', 'three', '2', '7', '6', 'eight']
+input: dccvsl93sixfour92
+['9', '3', 'six', 'four', '9', '2']
+input: 95seven9ninevhxcthree
+['9', '5', 'seven', '9', 'nine', 'three']
+input: onehbdrrpxkjbdk6
+['one', '6']
+input: fivekkk3ninespgtqsix
+['five', '3', 'nine', 'six']
+input: sixfive52eight
+['six', 'five', '5', '2', 'eight']
+input: fourone5nine
+['four', 'one', '5', 'nine']
+input: 5xvdnfxk1gtvmzbv7jkxxvjmjg7
+['5', '1', '7', '7']
+input: 85nmvbdrqrb2ninefivefourone
+['8', '5', '2', 'nine', 'five', 'four', 'one']
+input: 1jqgkhsix7seven9847
+['1', 'six', '7', 'seven', '9', '8', '4', '7']
+input: 2sevenone8five6twosnfdkcone
+['2', 'seven', 'one', '8', 'five', '6', 'two', 'one']
+input: fourrcfivekpsxkhrtfive4fourxqhtmrlgj
+['four', 'five', 'five', '4', 'four']
+input: tqtgd2388
+['2', '3', '8', '8']
+input: jbrfsl6nineq
+['6', 'nine']
+input: two8lsxfzdfnpthreesix3
+['two', '8', 'three', 'six', '3']
+input: 2czrtdlcffivethreeonelsix2
+['2', 'five', 'three', 'one', 'six', '2']
+input: vhdnp37
+['3', '7']
+input: sqkffnrcsnlkmxczzhvr419kzh5six
+['4', '1', '9', '5', 'six']
+input: 24115twoone
+['2', '4', '1', '1', '5', 'two', 'one']
+input: vlpjbq9vngpkhlpbfjnmztststwo
+['9', 'two']
+input: eight499four6
+['eight', '4', '9', '9', 'four', '6']
+input: five7neightqntdsjskz126msrcns
+['five', '7', 'eight', '1', '2', '6']
+input: one79khfctv
+['one', '7', '9']
+input: 1fourthreeonepsnr5four
+['1', 'four', 'three', 'one', '5', 'four']
+input: 1fourseven2b
+['1', 'four', 'seven', '2']
+input: sixtsbrxkbpg9b
+['six', '9']
+input: dvnsccrktj9five6onepd
+['9', 'five', '6', 'one']
+input: rmqmz4fiveninejlxlgx
+['4', 'five', 'nine']
+input: brbeightwo6cxnblxgskmxxxtwo
+['eight', '6', 'two']
+input: 7fiveckskgnzgfourfivenxxkfxpzgcqcdfl58
+['7', 'five', 'four', 'five', '5', '8']
+input: 564
+['5', '6', '4']
+input: one257six5vlkrcvmgsn88
+['one', '2', '5', '7', 'six', '5', '8', '8']
+input: pbvzppchp6twonkkpvghseveneightsix
+['6', 'two', 'seven', 'eight', 'six']
+input: tlv8
+['8']
+input: eight59jj1cfnr4fzczfrvjgbn
+['eight', '5', '9', '1', '4']
+input: hbh8knnine3sgbnsjldfoursevent
+['8', 'nine', '3', 'four', 'seven']
+input: xjjvsix8eight8rqjkhdmnncbfivetwo
+['six', '8', 'eight', '8', 'five', 'two']
+input: dtgbxlxsqcftld4
+['4']
+input: 3fournthreefivennxgmgvlszseven9
+['3', 'four', 'three', 'five', 'seven', '9']
+input: hbczcqkvnnzqzpkskccnnmpc8nzhqlhkhcbrpdhnm
+['8']
+input: seven3mnljmjj4twoeighttwo6
+['seven', '3', '4', 'two', 'eight', 'two', '6']
+input: nineninetlnzc4
+['nine', 'nine', '4']
+input: jxp9one
+['9', 'one']
+input: 6htwo47two
+['6', 'two', '4', '7', 'two']
+input: 8lqdlvc5bldshtkx8six
+['8', '5', '8', 'six']
+input: eight35
+['eight', '3', '5']
+input: ninethreecfiveone48six
+['nine', 'three', 'five', 'one', '4', '8', 'six']
+input: eight9twozmqgvblljf4seven3threesix
+['eight', '9', 'two', '4', 'seven', '3', 'three', 'six']
+input: ttmhdfzcvq8one28eighttwotwodmlpbkz
+['8', 'one', '2', '8', 'eight', 'two', 'two']
+input: 5fivef1
+['5', 'five', '1']
+input: 6bztnjckgszfivehdlzcnkbthree5sevennnine
+['6', 'five', 'three', '5', 'seven', 'nine']
+input: 2fivesix
+['2', 'five', 'six']
+input: rgjjrdjh16
+['1', '6']
+input: five6msbctcqqfgrone
+['five', '6', 'one']
+input: 53973two6three
+['5', '3', '9', '7', '3', 'two', '6', 'three']
+input: six1zndpzk
+['six', '1']
+input: q2one4nine2eightltjzkmbfour
+['2', 'one', '4', 'nine', '2', 'eight', 'four']
+input: 8nineeightbdqkbnjcl4chznslmndjgtspvmphqxlsv3
+['8', 'nine', 'eight', '4', '3']
+input: kfbnmpvjtjtflb7pkvgsvtone
+['7', 'one']
+input: vvvrdthfpeightfive8rzs6
+['eight', 'five', '8', '6']
+input: kxph4nine3eightninefive
+['4', 'nine', '3', 'eight', 'nine', 'five']
+input: three5five5
+['three', '5', 'five', '5']
+input: 98229six9
+['9', '8', '2', '2', '9', 'six', '9']
+input: one9four843pntrkfkbmddcjhtnine
+['one', '9', 'four', '8', '4', '3', 'nine']
+input: twotwodcsl556
+['two', 'two', '5', '5', '6']
+input: njrrkdpxrjtrcdjlxf6843sfdvzhz
+['6', '8', '4', '3']
+input: x4sfmrqpqcrqfour
+['4', 'four']
+input: 48nine
+['4', '8', 'nine']
+input: fivefive8gsbk
+['five', 'five', '8']
+input: 23twodvglscxgeight72
+['2', '3', 'two', 'eight', '7', '2']
+input: kzfnd6
+['6']
+input: zngq6zzronetlxdnthreerrgttsvs
+['6', 'one', 'three']
+input: dhnqkmbfbphcftlxjdmx8qqbkvdcf8
+['8', '8']
+input: hkrzzhfivesixsixgzp629
+['five', 'six', 'six', '6', '2', '9']
+input: 4khsfourt79eight
+['4', 'four', '7', '9', 'eight']
+input: twonine151
+['two', 'nine', '1', '5', '1']
+input: ninegghnnnseven65eight
+['nine', 'seven', '6', '5', 'eight']
+input: qx62sx
+['6', '2']
+input: 8seven3vktq
+['8', 'seven', '3']
+input: onefive8eight
+['one', 'five', '8', 'eight']
+input: ns6lspmgksccptwoeighteight
+['6', 'two', 'eight', 'eight']
+input: klknjcvspk6
+['6']
+input: vvpfptdqf1qgpgmbcx2128six
+['1', '2', '1', '2', '8', 'six']
+input: 86mgx4dhfnqlxonezgseven
+['8', '6', '4', 'one', 'seven']
+input: qhjzqrvhfdtdxlqsz6ltqnmvrxxtwo9
+['6', 'two', '9']
+input: four6p697
+['four', '6', '6', '9', '7']
+input: 7fjkdtthxheight7one
+['7', 'eight', '7', 'one']
+input: 1ltsevenpslmhldrp8dtbzqcjdvg
+['1', 'seven', '8']
+input: 8veightthree7
+['8', 'eight', 'three', '7']
+input: 38sixseventwosixzxdbxxzqssevenqcrlvptbp
+['3', '8', 'six', 'seven', 'two', 'six', 'seven']
+input: sixtwo285eight3b
+['six', 'two', '2', '8', '5', 'eight', '3']
+input: pjpg7jqfpkqthvsbdzrqsnhk4jbfv
+['7', '4']
+input: 8sixsevensixtszklsnbmvtgmtbbkkjddmnmmgmbdh
+['8', 'six', 'seven', 'six']
+input: 8sevendsxone7ninegcbqdcdqbnineeight
+['8', 'seven', 'one', '7', 'nine', 'nine', 'eight']
+input: onethxztbg2nbxsxxnfjhhfclfour
+['one', '2', 'four']
+input: 4eight84
+['4', 'eight', '8', '4']
+input: fivethreetvfvkpxvdbqsvvdmrj9five
+['five', 'three', '9', 'five']
+input: 1onejrb2five
+['1', 'one', '2', 'five']
+input: sevensevenqxjmb72qvxxjvxb
+['seven', 'seven', '7', '2']
+input: xtwone3jslsgbchxm
+['two', '3']
+input: 17hbdg4gqgkdnine2
+['1', '7', '4', 'nine', '2']
+input: hgnmpvs9dkjnzgbvgvthkvtdonepjslplmqjf
+['9', 'one']
+input: threesix3qxjf7tm
+['three', 'six', '3', '7']
+input: 66ninetm5tdlcnjnchr
+['6', '6', 'nine', '5']
+input: sbnrpczfqp6
+['6']
+input: eightcnnjlpjjmrxvlklksrshpktpl1one
+['eight', '1', 'one']
+input: 1four9
+['1', 'four', '9']
+input: xttzsrkjjcvlgrm584qfjjhzlrhccj9
+['5', '8', '4', '9']
+input: qhclqvgzhvpgsnine7
+['nine', '7']
+input: gtl4
+['4']
+input: 5vnp6
+['5', '6']
+input: 8six1svdfvxncsvfspdc
+['8', 'six', '1']
+input: eightjbsfjtj8sevensixlblxbpxlsz
+['eight', '8', 'seven', 'six']
+input: 8sevenseveneight
+['8', 'seven', 'seven', 'eight']
+input: pszx46
+['4', '6']
+input: one7sevenfour8onegs81
+['one', '7', 'seven', 'four', '8', 'one', '8', '1']
+input: 95fiveone1onefive5tqvhv
+['9', '5', 'five', 'one', '1', 'one', 'five', '5']
+input: 5nine7threehxjseven1
+['5', 'nine', '7', 'three', 'seven', '1']
+input: rvpqpzfnhvcxtvbjnxp9
+['9']
+input: one7txqvgmpqlnxceightnkvl
+['one', '7', 'eight']
+input: seven9khkthfnckngnlllgk2679
+['seven', '9', '2', '6', '7', '9']
+input: three6535onegfhkm9nq
+['three', '6', '5', '3', '5', 'one', '9']
+input: five3vpdxjkmzrhtwoninethreetwo4
+['five', '3', 'two', 'nine', 'three', 'two', '4']
+input: fiveninegqks5sixsrmlbnhxn
+['five', 'nine', '5', 'six']
+input: fivexdtvlmpthree2brpjxqzgsjltkmnbltwo
+['five', 'three', '2', 'two']
+input: sevenfived6five
+['seven', 'five', '6', 'five']
+input: seven95jrxgbnqvgnine
+['seven', '9', '5', 'nine']
+input: 4scx
+['4']
+input: 8oneonezspvqtwothreeoneone6
+['8', 'one', 'one', 'two', 'three', 'one', 'one', '6']
+input: six3fourtwozzbxboneprvjmjmscbkjb
+['six', '3', 'four', 'two', 'one']
+input: 6sevenpdksvksix
+['6', 'seven', 'six']
+input: cfjp3eightfouroneseven
+['3', 'eight', 'four', 'one', 'seven']
+input: 1two9
+['1', 'two', '9']
+input: four9eightfpthree
+['four', '9', 'eight', 'three']
+input: k4361gbbxthree
+['4', '3', '6', '1', 'three']
+input: lmmfz4four
+['4', 'four']
+input: 6fourtmeightfour
+['6', 'four', 'eight', 'four']
+input: five54three
+['five', '5', '4', 'three']
+input: klbvmvzrxs91eight
+['9', '1', 'eight']
+input: 58rxgkzs58pcrbsq
+['5', '8', '5', '8']
+input: 71onenineronesix
+['7', '1', 'one', 'nine', 'one', 'six']
+input: 18cxgmdfmone
+['1', '8', 'one']
+input: foursdfcxfx8
+['four', '8']
+input: hcmqmqzb5sevenfiveblqlnlx62mjbrpldjone
+['5', 'seven', 'five', '6', '2', 'one']
+input: two29two7lzjsvzcxdz9bsjtpbfplf
+['two', '2', '9', 'two', '7', '9']
+input: oneone3teightlj
+['one', 'one', '3', 'eight']
+input: 8txbph34
+['8', '3', '4']
+input: seven9one
+['seven', '9', 'one']
+input: 82hgflfrtz481four
+['8', '2', '4', '8', '1', 'four']
+input: 2qjfsqrkkbqkcgvhvzhnzbmfive73gkfxfhnqqbtx
+['2', 'five', '7', '3']
+input: 7fccpfrxstptwoeightonegnine5
+['7', 'two', 'eight', 'one', 'nine', '5']
+input: 19vxbhzrhfkhtsgzzhfszxpcrnrqseven
+['1', '9', 'seven']
+input: nnlfour9jfjnrnqbnb
+['four', '9']
+input: fqtfbkpmlz4seven1eightfour19
+['4', 'seven', '1', 'eight', 'four', '1', '9']
+input: x28qtnsmjpnc8
+['2', '8', '8']
+input: sfdzkppzlhcxrjrvkssr375tdnlntcst7lzxdlcmprmgngqgzdsl
+['3', '7', '5', '7']
+input: vxoneight8nine935rtwotwofour
+['one', '8', 'nine', '9', '3', '5', 'two', 'two', 'four']
+input: zfldmtjzpzfbrrdgxslvn2xrj
+['2']
+input: eightv8five5ppzsevenninebsbl
+['eight', '8', 'five', '5', 'seven', 'nine']
+input: four1sevenxc5
+['four', '1', 'seven', '5']
+input: 721kqmfbhmgxvhvqninevlbdzfldgd
+['7', '2', '1', 'nine']
+input: 39one
+['3', '9', 'one']
+input: threerhvrhlfiveonetwo2
+['three', 'five', 'one', 'two', '2']
+input: sixscfcpq6four1eightxdt
+['six', '6', 'four', '1', 'eight']
+input: four6fvfmvtjrfhkfrbfxcdjfqhmmfbf6
+['four', '6', '6']
+input: sr31fouroneightr
+['3', '1', 'four', 'one']
+input: nine6twofive
+['nine', '6', 'two', 'five']
+input: threelzjrjqnine4tlfpmvfq
+['three', 'nine', '4']
+input: jjc63zvhlqlkdzltg35nine
+['6', '3', '3', '5', 'nine']
+input: fourmpfpdxntv1szfcnrgvfpxt3one
+['four', '1', '3', 'one']
+input: onetwo4tlzvftnvsfthreeeight4fmsnqt7
+['one', 'two', '4', 'three', 'eight', '4', '7']
+input: xroneightzjvfvljsj59fourfour6szfjkdprbk
+['one', '5', '9', 'four', 'four', '6']
+input: nine3one
+['nine', '3', 'one']
+input: 7ninerphmbqphdsix
+['7', 'nine', 'six']
+input: 9ptv2twofive
+['9', '2', 'two', 'five']
+input: 6two4seven9ghjzqd
+['6', 'two', '4', 'seven', '9']
+input: 391onenine21n
+['3', '9', '1', 'one', 'nine', '2', '1']
+input: 4vgpsxreightdeightseven711
+['4', 'eight', 'eight', 'seven', '7', '1', '1']
+input: kbvkrrv77grfdpthsix339
+['7', '7', 'six', '3', '3', '9']
+input: fourmqcrccjcfive4foursixc9
+['four', 'five', '4', 'four', 'six', '9']
+input: eightsix44seventhree
+['eight', 'six', '4', '4', 'seven', 'three']
+input: 4five8two9oneightkc
+['4', 'five', '8', 'two', '9', 'one']
+input: mgsix3onegk9
+['six', '3', 'one', '9']
+input: trftwodjjgqnstznxxshbdc6dpphrz9sevenone
+['two', '6', '9', 'seven', 'one']
+input: eight19two87twog
+['eight', '1', '9', 'two', '8', '7', 'two']
+input: 5pq18ninethreeqqkfh7three
+['5', '1', '8', 'nine', 'three', '7', 'three']
+input: twoonetpkmrcvvpk94
+['two', 'one', '9', '4']
+input: threesix5two8two
+['three', 'six', '5', 'two', '8', 'two']
+input: two1three3
+['two', '1', 'three', '3']
+input: eight8four75
+['eight', '8', 'four', '7', '5']
+input: kjcglpndtjqxpbf9eight6
+['9', 'eight', '6']
+input: two447mcz5
+['two', '4', '4', '7', '5']
+input: sbqfpgkbsixfivefiveone6qtmdnfive
+['six', 'five', 'five', 'one', '6', 'five']
+input: qxfsljsixtzpvphj69ccp
+['six', '6', '9']
+input: 2fivekrmpqts
+['2', 'five']
+input: 69eightnineoneeightwox
+['6', '9', 'eight', 'nine', 'one', 'eight']
+input: 211bvzlcdgbs
+['2', '1', '1']
+input: ftcfgjzgnine2kcdvgrrnine5sevenfive3
+['nine', '2', 'nine', '5', 'seven', 'five', '3']
+input: eightone42lsgpjeightthreenine
+['eight', 'one', '4', '2', 'eight', 'three', 'nine']
+input: f599phncmsixfourfsrg
+['5', '9', '9', 'six', 'four']
+input: vgxdcrsc8one8rppqvzkckqgseven
+['8', 'one', '8', 'seven']
+input: j2fmjmjxv6nine
+['2', '6', 'nine']
+input: 5mctgjjsm
+['5']
+input: seven4mqtfnrsrnkghfourttbvhnnkjkmq
+['seven', '4', 'four']
+input: 2three8two67
+['2', 'three', '8', 'two', '6', '7']
+input: 9five51ninesqnbfvqnmfcjhfhzlpkgjfzmsl2
+['9', 'five', '5', '1', 'nine', '2']
+input: 5nineninesixzk
+['5', 'nine', 'nine', 'six']
+input: 51gvkhcddt5onebkltbv
+['5', '1', '5', 'one']
+input: 942
+['9', '4', '2']
+input: gfpq8jmkhvvzsdbzmfkqb4
+['8', '4']
+input: 22vxpndczcgmxdsmzsthree
+['2', '2', 'three']
+input: vbdzf7gtqrqjgvjj9fivekqzggs
+['7', '9', 'five']
+input: 4mzjjg6
+['4', '6']
+input: jgmncrn3five3
+['3', 'five', '3']
+input: gxghtqrjmvnjfourthree2fivevjqntqtzsix
+['four', 'three', '2', 'five', 'six']
+input: ntlnxtwofour9bh1
+['two', 'four', '9', '1']
+input: five6three
+['five', '6', 'three']
+input: threeh9cgvxnfour4
+['three', '9', 'four', '4']
+input: snbxpszrgh6mtnbmeightsixtknbnndqphbm6c
+['6', 'eight', 'six', '6']
+input: 4c
+['4']
+input: 1sixtwo2pcsjnbdrxtbjzrlssd57
+['1', 'six', 'two', '2', '5', '7']
+input: phhxnqdrjnsonefourthree73
+['one', 'four', 'three', '7', '3']
+input: threekdlzcrvgc3pxd35seven2xjnsjxlczr
+['three', '3', '3', '5', 'seven', '2']
+input: 5lcseven
+['5', 'seven']
+input: one27
+['one', '2', '7']
+input: eight5k
+['eight', '5']
+input: jmttwonetblnkmkjzfour8r8
+['two', 'four', '8', '8']
+input: eightfive9twovfdpzrcvpppkzdpbhtwo
+['eight', 'five', '9', 'two', 'two']
+input: 1threedjsttltxcthreefivethree7zqlbfqdxqone
+['1', 'three', 'three', 'five', 'three', '7', 'one']
+input: 5sixzgzfhmfqbp
+['5', 'six']
+input: 7kjfg
+['7']
+input: zxoneight9nmlz3four4kfpmfive
+['one', '9', '3', 'four', '4', 'five']
+input: 37four2zqr6
+['3', '7', 'four', '2', '6']
+input: six33fiveone7
+['six', '3', '3', 'five', 'one', '7']
+input: 522bclzxzrkxdqvpl5nggsksbk6
+['5', '2', '2', '5', '6']
+input: sevenninektxk3fcxzctsseven2
+['seven', 'nine', '3', 'seven', '2']
+input: twofpxbkzrgrtwo1twofrnnckz
+['two', 'two', '1', 'two']
+input: qcdbfcrtwo123ngrvvxhn
+['two', '1', '2', '3']
+input: kdpr1seven5npjblk
+['1', 'seven', '5']
+input: eight4brhnsxl228pknpptlbflncddvgrh
+['eight', '4', '2', '2', '8']
+input: two3four
+['two', '3', 'four']
+input: bstwonenmlthreesixdsrbjjz5skpfsgmhb6zq4
+['two', 'three', 'six', '5', '6', '4']
+input: r6
+['6']
+input: dnplx6ztonenine1cdnhfdx
+['6', 'one', 'nine', '1']
+input: jjp749foureightcnrlnd9
+['7', '4', '9', 'four', 'eight', '9']
+input: 8fourtz42xhjqkpttdfgxvhbnbmnxn
+['8', 'four', '4', '2']
+input: 1gzcvvtwodqgnsevencjfour
+['1', 'two', 'seven', 'four']
+input: sevenvrnvzp3five
+['seven', '3', 'five']
+input: ninexjnvzltwoninefour1
+['nine', 'two', 'nine', 'four', '1']
+input: sevenvthreetdbfgjseven4foureightsix
+['seven', 'three', 'seven', '4', 'four', 'eight', 'six']
+input: 5tmbjgdjqkffivevbkkpltt8fourseven
+['5', 'five', '8', 'four', 'seven']
+input: 3cjnkkl98five7five
+['3', '9', '8', 'five', '7', 'five']
+input: seven28pplnksndqtvlsrk7msjqtzonefive
+['seven', '2', '8', '7', 'one', 'five']
+input: 92two834
+['9', '2', 'two', '8', '3', '4']
+input: mlfxonefourone48pgcqpgbbczgdr
+['one', 'four', 'one', '4', '8']
+input: zfh12twonect
+['1', '2', 'two']
+input: sevenvdhbh7pztpvf6
+['seven', '7', '6']
+input: eightsix2oneone
+['eight', 'six', '2', 'one', 'one']
+input: fvspcp3sevenfourninethreesixqvhjdjqxseven
+['3', 'seven', 'four', 'nine', 'three', 'six', 'seven']
+input: 8fives1seven
+['8', 'five', '1', 'seven']
+input: 3threesix5fivexvbpnrchdcxgprxzths
+['3', 'three', 'six', '5', 'five']
+input: 7fdt
+['7']
+input: nine11rkpnktrsffqgdeightninefmtr5
+['nine', '1', '1', 'eight', 'nine', '5']
+input: xvl4threeoneights
+['4', 'three', 'one']
+input: one794
+['one', '7', '9', '4']
+input: rjqxttlmkxljdfrrfkgzloneoneone8four
+['one', 'one', 'one', '8', 'four']
+input: 19xmcfsbskjrzpsevenone6
+['1', '9', 'seven', 'one', '6']
+input: nine42fvrtltg4khjs67jfzvp
+['nine', '4', '2', '4', '6', '7']
+input: rxsxmbffpfive8ktrpczdn9
+['five', '8', '9']
+input: fvzcdbfmklcfpxbgqkzxrhmb471pjgvs
+['4', '7', '1']
+input: fiveeightnzxxqsphlqfnlffxzmtwo2tffkkv
+['five', 'eight', 'two', '2']
+input: lkrjqsixqs5trpqbnb
+['six', '5']
+input: 1bkpxfnrsixfour
+['1', 'six', 'four']
+input: nine21kgtqcvvdmdqt
+['nine', '2', '1']
+input: three1plnrboneoneccczrnjsl7kj
+['three', '1', 'one', 'one', '7']
+input: 9dc
+['9']
+input: htxcgnszrfive336szhb
+['five', '3', '3', '6']
+input: fivethree96vplbdqjtwo8sgrlljhtqsix
+['five', 'three', '9', '6', 'two', '8', 'six']
+input: sevenptlvbltgcsxc62
+['seven', '6', '2']
+input: vvtdhxqcmqrz91h59rnpscdjdltwo
+['9', '1', '5', '9', 'two']
+input: threetwo3gq7gjz
+['three', 'two', '3', '7']
+input: 7fbeight
+['7', 'eight']
+input: 5ninethreeninejcvz7fcqxbn5
+['5', 'nine', 'three', 'nine', '7', '5']
+input: crpbppclxsixtwoqdkflfdksq3
+['six', 'two', '3']
+input: tnbnqxklgd17onedxsevencnmbsmr
+['1', '7', 'one', 'seven']
+input: 4qzxtl46sevennhdjr
+['4', '4', '6', 'seven']
+input: honenine1
+['one', 'nine', '1']
+input: 1nine934
+['1', 'nine', '9', '3', '4']
+input: xhtkzvnhsixqcxkdvmzhvnine891kzsxmzsix
+['six', 'nine', '8', '9', '1', 'six']
+input: ktscvdksstwo26kgjzxtlbrpxbjr
+['two', '2', '6']
+input: vfjkncjdtn2sixbtqqdhqfdnine
+['2', 'six', 'nine']
+input: 4kvzrgninethree139eight
+['4', 'nine', 'three', '1', '3', '9', 'eight']
+input: eight6433bqvvcpljb5sixfive
+['eight', '6', '4', '3', '3', '5', 'six', 'five']
+input: 3seventwo8ngvqczkjrp7
+['3', 'seven', 'two', '8', '7']
+input: rtkqmptnnsgdrhxvmfvblshpqthree7zqgx
+['three', '7']
+input: bltgfkkvnctqkc226qcjxcfxb68
+['2', '2', '6', '6', '8']
+input: 9ronetwosix8vbnhgxxskdbc
+['9', 'one', 'two', 'six', '8']
+input: 4sevenfktbgnxbvcmdrbhqrpgmsm7seveneight
+['4', 'seven', '7', 'seven', 'eight']
+input: htp3pmpp897twossgtffdvzz
+['3', '8', '9', '7', 'two']
+input: gdceightwoseven4
+['eight', 'seven', '4']
+input: sixcznfbvhseven1four
+['six', 'seven', '1', 'four']
+input: 32twovthreelhpqvszgl
+['3', '2', 'two', 'three']
+input: two1threeninesix84five4
+['two', '1', 'three', 'nine', 'six', '8', '4', 'five', '4']
+input: fourpgskmztd9ztsz7jxjmmdqqx
+['four', '9', '7']
+input: twohrbnhtrv3eight
+['two', '3', 'eight']
+input: 6one9eight7bzrxvxfvnrrrznncdhj7rtdvb
+['6', 'one', '9', 'eight', '7', '7']
+input: 4fhgjkkcjv
+['4']
+input: xxphjxdfsqjj49zhpxhb
+['4', '9']
+input: gmmnine9
+['nine', '9']
+input: hzn8six48one8vsmxc
+['8', 'six', '4', '8', 'one', '8']
+input: one7ninekhlzhdplnbnine
+['one', '7', 'nine', 'nine']
+input: eightfoursnrdnldssh41ggf64rjlshkoneightfq
+['eight', 'four', '4', '1', '6', '4', 'one']
+input: nine55one6
+['nine', '5', '5', 'one', '6']
+input: mbhsqvlfhv8zsxz6seven1
+['8', '6', 'seven', '1']
+input: cjmvqktrkq18jdljgrg2
+['1', '8', '2']
+input: 9fivethree935
+['9', 'five', 'three', '9', '3', '5']
+input: ninehfhkzzhlkd8ninenjg
+['nine', '8', 'nine']
+input: 5six1three1
+['5', 'six', '1', 'three', '1']
+input: nine3tdkgnine2three9
+['nine', '3', 'nine', '2', 'three', '9']
+input: 92mkgbdhsdgvqrc
+['9', '2']
+input: xchjtjbz8
+['8']
+input: heightwomgjd6fxzpnl5
+['eight', '6', '5']
+input: jkprh4lqxqhglqjhppcxqnine72vfzkqnine
+['4', 'nine', '7', '2', 'nine']
+input: nine21czjslbsix16threeeight
+['nine', '2', '1', 'six', '1', '6', 'three', 'eight']
+input: five9tgbtsft7ggnfktl35threechxpcx
+['five', '9', '7', '3', '5', 'three']
+input: qgcnmbg89threevhbpmnnfcgeightnine
+['8', '9', 'three', 'eight', 'nine']
+input: 2jdqlgfour3
+['2', 'four', '3']
+input: ntnsscfsfive175tjfqnflfdd
+['five', '1', '7', '5']
+input: twotz1fourfour7blgzpqtnpc
+['two', '1', 'four', 'four', '7']
+input: 4fivehsnsstkp3
+['4', 'five', '3']
+input: 4bk
+['4']
+input: pmvnbqh9
+['9']
+input: nine4qnt
+['nine', '4']
+input: nine8eightlqt3
+['nine', '8', 'eight', '3']
+input: onepccffive8seven
+['one', 'five', '8', 'seven']
+input: sdkqkbshzb3nfour
+['3', 'four']
+input: 8eight4kx476four
+['8', 'eight', '4', '4', '7', '6', 'four']
+input: hl5threeqhdjcqlqbrvsq
+['5', 'three']
+input: skqzcdqcfoursix767zt
+['four', 'six', '7', '6', '7']
+input: txrvszgqvnpx4sevenlfvvvlhshxhk
+['4', 'seven']
+input: seven8eightseven9rcdjfourseven
+['seven', '8', 'eight', 'seven', '9', 'four', 'seven']
+input: 5eight5ninetpjpsptwo
+['5', 'eight', '5', 'nine', 'two']
+input: nine38ninetwotwoseveneightwogpn
+['nine', '3', '8', 'nine', 'two', 'two', 'seven', 'eight']
+input: 7sixone2grgfour
+['7', 'six', 'one', '2', 'four']
+input: szfmk2five36
+['2', 'five', '3', '6']
+input: eightnbcthreefivedmhfmstslfz2stzck2
+['eight', 'three', 'five', '2', '2']
+input: xffvthreethreeseven1kzcptthree
+['three', 'three', 'seven', '1', 'three']
+input: pskfthreepk17gz
+['three', '1', '7']
+input: four7rlk1eight
+['four', '7', '1', 'eight']
+input: 9xqjdvfzbvfour2dxlhbspzppf896
+['9', 'four', '2', '8', '9', '6']
+input: lstpxqdlmptvrvf9gvdqkfsjcvqnpnsix
+['9', 'six']
+input: eightsevenfive6sixphjcrdtnlddfcbrgonetwo
+['eight', 'seven', 'five', '6', 'six', 'one', 'two']
+input: 4rshkxgsbvgphlrxkxgbpjhqdgjzjlonepscqdhk
+['4', 'one']
+input: mzclsv373sixlb
+['3', '7', '3', 'six']
+input: snqmxmghbhpvzzff4threenmfkps
+['4', 'three']
+input: 7fivebqffc
+['7', 'five']
+input: 2mdvq4m
+['2', '4']
+input: ztlp6seven
+['6', 'seven']
+input: onesixninesix1three2fivetwonengp
+['one', 'six', 'nine', 'six', '1', 'three', '2', 'five', 'two']
+input: jqplcrrtgshzfrdcgvrxst383three
+['3', '8', '3', 'three']
+input: 68twoseven
+['6', '8', 'two', 'seven']
+input: 2eighteightpzzrlhpbmfivefour
+['2', 'eight', 'eight', 'five', 'four']
+input: nxqjlh3
+['3']
+input: hxgf6
+['6']
+input: 786cfcrl
+['7', '8', '6']
+input: 8seven7
+['8', 'seven', '7']
+input: 2xmnbrcvbbvsevenfour
+['2', 'seven', 'four']
+input: eight9nine4gjrrq6two
+['eight', '9', 'nine', '4', '6', 'two']
+input: 3ninethree
+['3', 'nine', 'three']
+input: mgmgbfbptqdh79ltwo
+['7', '9', 'two']
+input: onevk8kfive8sixone2
+['one', '8', 'five', '8', 'six', 'one', '2']
+input: 79mngvbhpkh1one
+['7', '9', '1', 'one']
+input: 14fivetzmtgcqpzjpzhjxfvfmbnljxeightzlbktsmsln
+['1', '4', 'five', 'eight']
+input: 744fivezxxgtvd9eight
+['7', '4', '4', 'five', '9', 'eight']
+input: tccmpsggmhv2jljznkpndntqrninenfzdvzkbrg
+['2', 'nine']
+input: nineeightone7threejjgzskd8fiveftxr
+['nine', 'eight', 'one', '7', 'three', '8', 'five']
+input: vvtwonetwo2nineonedvhr6
+['two', 'two', '2', 'nine', 'one', '6']
+input: 8p47qcspdvhgnfeight8twoeight
+['8', '4', '7', 'eight', '8', 'two', 'eight']
+input: twoldpdsfivehrpzthreeone1jzf
+['two', 'five', 'three', 'one', '1']
+input: vnine7four84mjphfztmjt
+['nine', '7', 'four', '8', '4']
+input: 58qksl
+['5', '8']
+input: 4threesixeight9two
+['4', 'three', 'six', 'eight', '9', 'two']
+input: 2sevenmfnbfbvxrf
+['2', 'seven']
+input: 22sixfmcpqlr
+['2', '2', 'six']
+input: 45eightl8flklsqkl
+['4', '5', 'eight', '8']
+input: fbfgcblg7jtjhfrsnkfour4vx1
+['7', 'four', '4', '1']
+input: 5tgvdhfive6cnkhnjldhqpj
+['5', 'five', '6']
+input: kmbjhbfpbdmczlbg2oneightd
+['2', 'one']
+input: hconeightthree4zgcone
+['one', 'three', '4', 'one']
+input: 6kvfj5
+['6', '5']
+input: three6lfnxx
+['three', '6']
+input: 9pvhzpfqh5vlgj3nnkggxqbcxthreethree
+['9', '5', '3', 'three', 'three']
+input: seveneightdrbthree5sixcgkxvpdz
+['seven', 'eight', 'three', '5', 'six']
+input: 7seventwokcsixdgqfbvrqcp
+['7', 'seven', 'two', 'six']
+input: threefive2sixsix
+['three', 'five', '2', 'six', 'six']
+input: bxlckjtznjfspcsixsbg4sixzxnlrhhdgp
+['six', '4', 'six']
+input: xnl7
+['7']
+input: 2drd7499sixthree4
+['2', '7', '4', '9', '9', 'six', 'three', '4']
+input: tcxdsix94sevenkcmjzb
+['six', '9', '4', 'seven']
+input: seven19qvsdhlpxzgpsqffour
+['seven', '1', '9', 'four']
+input: twobb24onetwo4
+['two', '2', '4', 'one', 'two', '4']
+input: fivefour4three7
+['five', 'four', '4', 'three', '7']
+input: sevenonethreesixdq1
+['seven', 'one', 'three', 'six', '1']
+input: rvfjxqd7
+['7']
+input: tk3
+['3']
+input: 66threefour
+['6', '6', 'three', 'four']
+input: htwonekfgczxgkzlhxtzpbfdeight8four
+['two', 'eight', '8', 'four']
+input: four4eightfourgtcqgpvl83fqvtwoneqk
+['four', '4', 'eight', 'four', '8', '3', 'two']
+input: rbsfmdkdcjgjnvn6l21
+['6', '2', '1']
+input: m4foursix1
+['4', 'four', 'six', '1']
+input: 4fqddqlgqjzone
+['4', 'one']
+input: 3rnxq64onefive
+['3', '6', '4', 'one', 'five']
+input: 5sixtnthdqksseven5
+['5', 'six', 'seven', '5']
+input: ksdlqrxdgp8five
+['8', 'five']
+input: tsix62sixone2sixoneightl
+['six', '6', '2', 'six', 'one', '2', 'six', 'one']
+input: nzplhfour3
+['four', '3']
+input: ninethreeninehkqkvkmsixznxmb3six
+['nine', 'three', 'nine', 'six', '3', 'six']
+input: 41six8
+['4', '1', 'six', '8']
+input: 7eight187nine
+['7', 'eight', '1', '8', '7', 'nine']
+input: sixckpmqzplxnineone4znlrfssc
+['six', 'nine', 'one', '4']
+input: 1cxjrhptthree
+['1', 'three']
+input: 1sqmtfgjqb1
+['1', '1']
+input: 7zvzhfkeight
+['7', 'eight']
+input: 69rxlcvmftnr8five1
+['6', '9', '8', 'five', '1']
+input: 8bone
+['8', 'one']
+input: 47thhzfpkeight
+['4', '7', 'eight']
+input: threesixksevensevenfssevennine3
+['three', 'six', 'seven', 'seven', 'seven', 'nine', '3']
+input: 5fivethcktzjfivehbkhgpstwoqgbdjknrfcpqvvhnine
+['5', 'five', 'five', 'two', 'nine']
+input: 3n
+['3']
+input: eight4xftrfsbtqd3sgmgvtrhrltz3
+['eight', '4', '3', '3']
+input: pdstthreeeightx297two
+['three', 'eight', '2', '9', '7', 'two']
+input: six6ghftkxqmvtfhtnjcvhhnine7
+['six', '6', 'nine', '7']
+input: 51nine5
+['5', '1', 'nine', '5']
+input: seven81tfqzkthfmt
+['seven', '8', '1']
+input: 3bndtfourtljqdjhgqjhldhf3three
+['3', 'four', '3', 'three']
+input: 3dpqsgqscqrppfivesevenmgvm
+['3', 'five', 'seven']
+input: ns2lkqsixglmsvdrd
+['2', 'six']
+input: 9sixfivetrhdrsgfqz6onefive27
+['9', 'six', 'five', '6', 'one', 'five', '2', '7']
+input: nine67xzdzrgsevenonehlfkstmshgzpgbk
+['nine', '6', '7', 'seven', 'one']
+input: bzvvqpxnznkzsmr5
+['5']
+input: plcxrv7nine57bpnkxltnrlvlnslvd3
+['7', 'nine', '5', '7', '3']
+input: onextfttfivebxplndseven7
+['one', 'five', 'seven', '7']
+input: 98fourninefhvlrpqnsixsix
+['9', '8', 'four', 'nine', 'six', 'six']
+input: 9onesevenfour
+['9', 'one', 'seven', 'four']
+input: vmnoneightsj63fiverkrrgzfdjsngdmcfprkkvzqnlkg6four
+['one', '6', '3', 'five', '6', 'four']
+input: threefourtwoonejseven9xvcseven
+['three', 'four', 'two', 'one', 'seven', '9', 'seven']
+input: gljjpmskv5sevensix7three
+['5', 'seven', 'six', '7', 'three']
+input: nqlxzkzknphxxvzrqrlstxjkdtlnx8
+['8']
+input: 52three
+['5', '2', 'three']
+input: 9onefourgfksix24
+['9', 'one', 'four', 'six', '2', '4']
+input: nrcnqtqx66fbgfg22
+['6', '6', '2', '2']
+input: qkljqjpp6qnrcvscjglpphxtvqrdznqtwo8fjlzmzc
+['6', 'two', '8']
+input: twoczkmvmr5sevenhvonedqvvln
+['two', '5', 'seven', 'one']
+input: 8tvphxpfmhzpfour36seven
+['8', 'four', '3', '6', 'seven']
+input: eight39gqfdmfhgg
+['eight', '3', '9']
+input: xkcsxsxkn6
+['6']
+input: frxlxtjbkgsbgtfzdlrql329zfxbhghqx
+['3', '2', '9']
+input: nine75eight
+['nine', '7', '5', 'eight']
+input: 1vfdtvhrthreevssjcjkrv
+['1', 'three']
+input: seventgthfskdc7xrpghjrhn2
+['seven', '7', '2']
+input: fivetmxkjczpjninefive5pss3onetwonetmq
+['five', 'nine', 'five', '5', '3', 'one', 'two']
+input: 4klstxhhpjzfkvonefourthreezkchsjone
+['4', 'one', 'four', 'three', 'one']
+input: rxljd9four94six4
+['9', 'four', '9', '4', 'six', '4']
+input: 5fgnnfjl2three
+['5', '2', 'three']
+input: ngfq4rsevenvngjtrjvvkcnvrs
+['4', 'seven']
+input: eighttqc7frmxtfoureightonetwo
+['eight', '7', 'four', 'eight', 'one', 'two']
+input: threegtzbdttnd6tnlsevenlfqbnvlpg8r
+['three', '6', 'seven', '8']
+input: dsjfrslnxb8fournineshzqfourmxjvhone
+['8', 'four', 'nine', 'four', 'one']
+input: 27bxtdmsshfourtwo86
+['2', '7', 'four', 'two', '8', '6']
+input: threesevensix5vc
+['three', 'seven', 'six', '5']
+input: 44seven
+['4', '4', 'seven']
+input: two1eighttwosevensix8
+['two', '1', 'eight', 'two', 'seven', 'six', '8']
+input: hbnlzhbfvztwo4kjfzktwotwo2sqgvdbrjbg
+['two', '4', 'two', 'two', '2']
+input: two6sv6
+['two', '6', '6']
+input: gdgdsbtwo98vhdlf3eightwohgv
+['two', '9', '8', '3', 'eight']
+input: tztgspssevendqpxvtsftgclhct4mktj4
+['seven', '4', '4']
+input: xbnzpglcdgrrcttvjxx4
+['4']
+input: dkzeightwotwo1gpfn3njqzkxhhsc
+['eight', 'two', '1', '3']
+input: 1ggsixfive
+['1', 'six', 'five']
+input: 2eighthlhthdn
+['2', 'eight']
+input: hczrldvxffninemzbhsv2two5eightwozfh
+['nine', '2', 'two', '5', 'eight']
+input: nksxdqvpgq6jhzl
+['6']
+input: tkvjsxzgrp7four4thlzxone33
+['7', 'four', '4', 'one', '3', '3']
+input: bpncmqxsprpkbpznfivebvhd7lpqspfhsgq1
+['five', '7', '1']
+input: threeone174fourkbkqvtjlfn
+['three', 'one', '1', '7', '4', 'four']
+input: fivejtwofive96fiveclc7
+['five', 'two', 'five', '9', '6', 'five', '7']
+input: twotwothree22twosevengbqqstsxhqgczp
+['two', 'two', 'three', '2', '2', 'two', 'seven']
+input: qgtwonefive3three
+['two', 'five', '3', 'three']
+input: nineeight6nine1three1eight
+['nine', 'eight', '6', 'nine', '1', 'three', '1', 'eight']
+input: oneeightndv5
+['one', 'eight', '5']
+input: 98eightoneonermnddmgqsseven7
+['9', '8', 'eight', 'one', 'one', 'seven', '7']
+input: 4l
+['4']
+input: 6r8xlfznmgffgmrnfsix13rnsv
+['6', '8', 'six', '1', '3']
+input: 82vvnmv1seven
+['8', '2', '1', 'seven']
+input: 1nqrqgqjrjqgpxxfrqm
+['1']
+input: ckdmgxspjfoureightnblkpcfr1
+['four', 'eight', '1']
+input: 2threesixqczmrxhdrsevenfour
+['2', 'three', 'six', 'seven', 'four']
+input: fkpr1seven65nine
+['1', 'seven', '6', '5', 'nine']
+input: 1ninerr6
+['1', 'nine', '6']
+input: 5lkr
+['5']
+input: nft4sevensixslqdfpdlskeight
+['4', 'seven', 'six', 'eight']
+input: eightfiveone7rdptzjjmmcqone
+['eight', 'five', 'one', '7', 'one']
+input: 6qghmzchmtjktjkbseightczbjmsvmrk88cgctthsbz
+['6', 'eight', '8', '8']
+input: twozzgrzbgkrkmklkmvfive86five
+['two', 'five', '8', '6', 'five']
+input: 4six21xjxqjmqjdlone55three
+['4', 'six', '2', '1', 'one', '5', '5', 'three']
+input: five42fiveone
+['five', '4', '2', 'five', 'one']
+input: eighthc747sevenone
+['eight', '7', '4', '7', 'seven', 'one']
+input: four333six6
+['four', '3', '3', '3', 'six', '6']
+input: bczkrqdh8one4zqcxrkk
+['8', 'one', '4']
+input: 3cxhkclpfiveqgsk
+['3', 'five']
+input: 6eightjnghnlzbhbvnonetwobjfrpnfqsix
+['6', 'eight', 'one', 'two', 'six']
+input: 4ninecjzlk7nine
+['4', 'nine', '7', 'nine']
+input: 85four
+['8', '5', 'four']
+input: mkfcnntfb2ltjnjbslfgvztxgpfcnine6four
+['2', 'nine', '6', 'four']
+input: zqzllvsdvtwonine4onenineeight
+['two', 'nine', '4', 'one', 'nine', 'eight']
+input: 11sixpjjvxbsbjfive
+['1', '1', 'six', 'five']
+input: 35nhjgtpflthreejqbgvgkdcddpfzfpt
+['3', '5', 'three']
+input: 9threebcv4sqtrdrgnb
+['9', 'three', '4']
+input: x4bptzpfgsevenfivenine
+['4', 'seven', 'five', 'nine']
+input: 1oneqgfpcdntgonectjgnrdxjptfd
+['1', 'one', 'one']
+input: zrblfddvtgbqtkvddhqzpkk71ldtsixmsjjkr
+['7', '1', 'six']
+input: three5mjt
+['three', '5']
+input: one37ninenineonexjtl2xqhhnmtd
+['one', '3', '7', 'nine', 'nine', 'one', '2']
+input: 552oneonehzscghzpqvtndvlpj
+['5', '5', '2', 'one', 'one']
+input: two8nineeightkfrckndvzhcbdhcdg9
+['two', '8', 'nine', 'eight', '9']
+input: hgdjgone22dsdnjjsmjtrxhxssx
+['one', '2', '2']
+input: snh6bntph
+['6']
+input: foureight5nine2
+['four', 'eight', '5', 'nine', '2']
+input: 1kjb98
+['1', '9', '8']
+input: ninetwo2eighttwo
+['nine', 'two', '2', 'eight', 'two']
+input: hpcnone5cjvtpqxhbh596
+['one', '5', '5', '9', '6']
+input: 3gbtdlblgp
+['3']
+input: 4ninemzqkldqrcnmcvjjxtzgbrp
+['4', 'nine']
+input: fivetwo6
+['five', 'two', '6']
+input: 4tlbxgnjgc522zlldmfbmh
+['4', '5', '2', '2']
+input: fkpsxsmchn3ninesevenseventfxxjdnqxtwo
+['3', 'nine', 'seven', 'seven', 'two']
+input: sevennine3sixsix
+['seven', 'nine', '3', 'six', 'six']
+input: 84s
+['8', '4']
+input: seven5seven6sixmdfrtwo
+['seven', '5', 'seven', '6', 'six', 'two']
+input: one269
+['one', '2', '6', '9']
+input: 493nine
+['4', '9', '3', 'nine']
+input: 29onecklhjcxvpbzfour3
+['2', '9', 'one', 'four', '3']
+input: 35vksqxhbnxk
+['3', '5']
+input: sixfdqttpskdnbksqxg9three6bqqpngfhz
+['six', '9', 'three', '6']
+55255
